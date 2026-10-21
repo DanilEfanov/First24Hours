@@ -1,0 +1,15 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio
+*.sln
+*.suo
+*.VC.db
+
+# Temporary files
+*.log
+*.tmp
