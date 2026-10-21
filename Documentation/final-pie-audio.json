@@ -1,0 +1,9 @@
+{
+  "pawn": "/Game/First24Hours/Blueprints/BP_ApartmentCharacter.BP_ApartmentCharacter_C",
+  "ambient_audio": [
+    {
+      "actor": "AmbientSound_0",
+      "playing": true
+    }
+  ]
+}

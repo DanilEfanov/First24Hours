@@ -1,0 +1,334 @@
+{
+  "map": "/Game/First24Hours/Maps/L_Apartment_0400",
+  "meshes": [
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Floors",
+      "min": [
+        -12.000040054321289,
+        -592.0000610351562,
+        -18.0
+      ],
+      "max": [
+        792.0,
+        11.99998950958252,
+        1.5
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Walls",
+      "min": [
+        -16.00004768371582,
+        -596.0000610351562,
+        0.0
+      ],
+      "max": [
+        796.0,
+        15.999985694885254,
+        270.0000305175781
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Ceiling",
+      "min": [
+        -12.000040054321289,
+        -592.0000610351562,
+        270.0
+      ],
+      "max": [
+        792.0,
+        11.99998950958252,
+        288.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Joinery",
+      "min": [
+        -9.500045776367188,
+        -580.0000610351562,
+        0.0
+      ],
+      "max": [
+        779.0,
+        -2.0440525986487046e-05,
+        266.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Entry_Door",
+      "min": [
+        -9.500041961669922,
+        -483.0,
+        0.0
+      ],
+      "max": [
+        3.199960947036743,
+        -397.0,
+        208.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_WindowFrames",
+      "min": [
+        247.0,
+        -596.0000610351562,
+        81.0
+      ],
+      "max": [
+        804.0,
+        15.99996280670166,
+        238.00001525878906
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Glass",
+      "min": [
+        263.0,
+        -588.5000610351562,
+        88.0
+      ],
+      "max": [
+        788.5,
+        8.499980926513672,
+        232.00001525878906
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Details/SM_Apartment_Fixtures",
+      "min": [
+        85.9999771118164,
+        -574.0,
+        11.000001907348633
+      ],
+      "max": [
+        777.5,
+        -6.000019550323486,
+        265.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Furniture/SM_Kitchen_Fitted",
+      "min": [
+        207.99998474121094,
+        -210.00003051757812,
+        0.0
+      ],
+      "max": [
+        472.0,
+        -1.5000170469284058,
+        235.99998474121094
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Furniture/SM_Bathroom_Fitted",
+      "min": [
+        3.8999898433685303,
+        -182.50001525878906,
+        0.0
+      ],
+      "max": [
+        196.99998474121094,
+        -3.5000014305114746,
+        222.50001525878906
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Furniture/SM_Bed_and_Nightstand",
+      "min": [
+        550.0,
+        -243.50006103515625,
+        0.0
+      ],
+      "max": [
+        760.0,
+        -24.000049591064453,
+        112.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Details/SM_Apartment_LivedIn_Details",
+      "min": [
+        7.499971866607666,
+        -550.0000610351562,
+        -2.9802322387695312e-06
+      ],
+      "max": [
+        771.9999389648438,
+        -31.000045776367188,
+        230.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Details/SM_Apartment_Textiles",
+      "min": [
+        46.999961853027344,
+        -577.97509765625,
+        1.0499954223632812
+      ],
+      "max": [
+        694.9999389648438,
+        -358.00006103515625,
+        264.3000183105469
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Exterior/SM_City_Backdrop",
+      "min": [
+        -1349.999755859375,
+        -3700.000244140625,
+        -1702.0
+      ],
+      "max": [
+        2550.0,
+        2680.0,
+        1300.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/Exterior/SM_Window_Rain",
+      "min": [
+        250.0,
+        -615.1000366210938,
+        2.999997138977051
+      ],
+      "max": [
+        815.0999145507812,
+        35.09996032714844,
+        303.0
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_sofa_02",
+      "min": [
+        -90.35836029052734,
+        -40.887569427490234,
+        0.0
+      ],
+      "max": [
+        90.35836791992188,
+        40.88756561279297,
+        70.94889068603516
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_SchoolDesk_01",
+      "min": [
+        -35.588802337646484,
+        -27.298381805419922,
+        0.0
+      ],
+      "max": [
+        35.588802337646484,
+        27.298381805419922,
+        88.26298522949219
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_painted_wooden_chair_02",
+      "min": [
+        -31.969478607177734,
+        -33.104888916015625,
+        0.0
+      ],
+      "max": [
+        31.9694766998291,
+        33.104888916015625,
+        126.37710571289062
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_desk_lamp_arm_01",
+      "min": [
+        -10.086467742919922,
+        -30.69363021850586,
+        0.0
+      ],
+      "max": [
+        10.086464881896973,
+        30.69363021850586,
+        89.26107025146484
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_book_encyclopedia_set_01",
+      "min": [
+        -27.564868927001953,
+        -8.153119087219238,
+        0.0
+      ],
+      "max": [
+        27.56487274169922,
+        8.153119087219238,
+        23.741819381713867
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_alarm_clock_01",
+      "min": [
+        -6.582528591156006,
+        -3.337428569793701,
+        0.0
+      ],
+      "max": [
+        6.582528114318848,
+        3.337428331375122,
+        17.415538787841797
+      ]
+    },
+    {
+      "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_vintage_electric_kettle",
+      "min": [
+        -16.044536590576172,
+        -12.427652359008789,
+        0.0
+      ],
+      "max": [
+        16.044536590576172,
+        12.427651405334473,
+        30.474000930786133
+      ]
+    }
+  ],
+  "materials": [
+    "/Game/First24Hours/Art/Materials/M_Rain"
+  ],
+  "warnings": [],
+  "actors": [
+    "APT_Apartment_Floors",
+    "APT_Apartment_Walls",
+    "APT_Apartment_Ceiling",
+    "APT_Apartment_Joinery",
+    "APT_Entry_Door",
+    "APT_Apartment_WindowFrames",
+    "APT_Apartment_Glass",
+    "APT_Apartment_Fixtures",
+    "APT_Kitchen_Fitted",
+    "APT_Bathroom_Fitted",
+    "APT_Bed_and_Nightstand",
+    "APT_Apartment_LivedIn_Details",
+    "APT_Apartment_Textiles",
+    "APT_City_Backdrop",
+    "APT_Window_Rain",
+    "PROP_LivingSofa",
+    "PROP_StudentDesk",
+    "PROP_DeskChair",
+    "PROP_KitchenChair",
+    "PROP_DeskLamp",
+    "PROP_StudyBooks",
+    "PROP_BedsideClock",
+    "PROP_KitchenKettle",
+    "EXT_ExistingSovietBuilding",
+    "START_Apartment_Hall",
+    "LIGHT_Moon",
+    "LIGHT_NightSky",
+    "ATM_NightMist",
+    "LIGHT_Hall_Dim",
+    "LIGHT_Kitchen_Ceiling",
+    "LIGHT_Bathroom",
+    "LIGHT_Desk_Warm",
+    "LIGHT_Bedside",
+    "LIGHT_Window_ColdBounce",
+    "LIGHT_Kitchen_UnderCabinet",
+    "GRADE_0400"
+  ],
+  "existing_building": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/StaticMeshes/nine_story_building_of_the_post_soviet"
+}

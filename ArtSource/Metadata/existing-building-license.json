@@ -1,0 +1,204 @@
+﻿{
+    "animationCount":  0,
+    "categories":  [
+                       {
+                           "uid":  "f825c721edb541dbbc8cd210123616c7",
+                           "name":  "Architecture",
+                           "slug":  "architecture",
+                           "uri":  "https://api.sketchfab.com/v3/categories/f825c721edb541dbbc8cd210123616c7",
+                           "icon":  "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/0d6c3fa023a12c3d7aa493c542afd1b8-v2.svg",
+                           "thumbnails":  [
+                                              {
+                                                  "width":  "512",
+                                                  "height":  "288",
+                                                  "url":  "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/512x288.png"
+                                              },
+                                              {
+                                                  "width":  "800",
+                                                  "height":  "450",
+                                                  "url":  "https://static.sketchfab.com/categories/f825c721edb541dbbc8cd210123616c7/800x450.png"
+                                              }
+                                          ]
+                       }
+                   ],
+    "commentCount":  6,
+    "createdAt":  "2023-08-08T14:28:08.744568",
+    "embedUrl":  "https://sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/embed",
+    "faceCount":  228585,
+    "isAgeRestricted":  false,
+    "license":  {
+                    "uri":  "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+                    "label":  "CC Attribution",
+                    "fullName":  "Creative Commons Attribution",
+                    "requirements":  "Author must be credited. Commercial use is allowed.",
+                    "url":  "http://creativecommons.org/licenses/by/4.0/",
+                    "slug":  "by"
+                },
+    "likeCount":  639,
+    "name":  "nine-story building of the post soviet",
+    "publishedAt":  "2023-08-08T14:58:43.876970",
+    "soundCount":  0,
+    "staffpickedAt":  null,
+    "tags":  [
+                 {
+                     "name":  "soviet",
+                     "slug":  "soviet",
+                     "uri":  "https://api.sketchfab.com/v3/tags/soviet"
+                 },
+                 {
+                     "name":  "photorealistic",
+                     "slug":  "photorealistic",
+                     "uri":  "https://api.sketchfab.com/v3/tags/photorealistic"
+                 },
+                 {
+                     "name":  "realistic",
+                     "slug":  "realistic",
+                     "uri":  "https://api.sketchfab.com/v3/tags/realistic"
+                 },
+                 {
+                     "name":  "USSR",
+                     "slug":  "ussr",
+                     "uri":  "https://api.sketchfab.com/v3/tags/ussr"
+                 },
+                 {
+                     "name":  "Ukraine",
+                     "slug":  "ukraine",
+                     "uri":  "https://api.sketchfab.com/v3/tags/ukraine"
+                 },
+                 {
+                     "name":  "Apartament",
+                     "slug":  "apartament",
+                     "uri":  "https://api.sketchfab.com/v3/tags/apartament"
+                 },
+                 {
+                     "name":  "building",
+                     "slug":  "building",
+                     "uri":  "https://api.sketchfab.com/v3/tags/building"
+                 },
+                 {
+                     "name":  "postsoviet",
+                     "slug":  "postsoviet",
+                     "uri":  "https://api.sketchfab.com/v3/tags/postsoviet"
+                 },
+                 {
+                     "name":  "postussr",
+                     "slug":  "postussr",
+                     "uri":  "https://api.sketchfab.com/v3/tags/postussr"
+                 },
+                 {
+                     "name":  "ussrbuilding",
+                     "slug":  "ussrbuilding",
+                     "uri":  "https://api.sketchfab.com/v3/tags/ussrbuilding"
+                 },
+                 {
+                     "name":  "ninefloor",
+                     "slug":  "ninefloor",
+                     "uri":  "https://api.sketchfab.com/v3/tags/ninefloor"
+                 },
+                 {
+                     "name":  "livinghouse",
+                     "slug":  "livinghouse",
+                     "uri":  "https://api.sketchfab.com/v3/tags/livinghouse"
+                 }
+             ],
+    "thumbnails":  {
+                       "images":  [
+                                      {
+                                          "uid":  "b135030867494d28a186edaea242eaf7",
+                                          "width":  1920,
+                                          "height":  1080,
+                                          "size":  513001,
+                                          "url":  "https://media.sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/thumbnails/5512c0388e9e4abb866d6fd1c1e816d1/15783fe2fee944c2aa1af49a1a3cc26e.jpeg"
+                                      },
+                                      {
+                                          "uid":  "306a0cbfe7454a07a4e0bf2c41d76cc2",
+                                          "width":  1024,
+                                          "height":  576,
+                                          "size":  93581,
+                                          "url":  "https://media.sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/thumbnails/5512c0388e9e4abb866d6fd1c1e816d1/2769489d2d5c44feb2fc874ffbf15d6c.jpeg"
+                                      },
+                                      {
+                                          "uid":  "8fda0875f6a84104b63cae2e22848815",
+                                          "width":  720,
+                                          "height":  405,
+                                          "size":  44110,
+                                          "url":  "https://media.sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/thumbnails/5512c0388e9e4abb866d6fd1c1e816d1/1f89ef4b7d2d4541ba703c760387cd71.jpeg"
+                                      },
+                                      {
+                                          "uid":  "7e73e2be5b3d4bf98d7e0b536c733b91",
+                                          "width":  256,
+                                          "height":  144,
+                                          "size":  5953,
+                                          "url":  "https://media.sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/thumbnails/5512c0388e9e4abb866d6fd1c1e816d1/10d87a9f9c014d3f866a116f132e5d62.jpeg"
+                                      },
+                                      {
+                                          "uid":  "9b7c8345cbdf47ec817897b40d397859",
+                                          "width":  64,
+                                          "height":  36,
+                                          "size":  1090,
+                                          "url":  "https://media.sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/thumbnails/5512c0388e9e4abb866d6fd1c1e816d1/39283b30b3524303993eb54fa8014a98.jpeg"
+                                      }
+                                  ]
+                   },
+    "uid":  "33a2b2901adc4b38ab83021b0837cd10",
+    "uri":  "https://api.sketchfab.com/v3/models/33a2b2901adc4b38ab83021b0837cd10",
+    "user":  {
+                 "uid":  "4cf2e89f44d54b228035ee1b0ac2aea0",
+                 "username":  "vladySLAVE",
+                 "displayName":  "vladySLAVE",
+                 "account":  "basic",
+                 "profileUrl":  "https://sketchfab.com/vladySLAVE",
+                 "avatar":  {
+                                "uid":  "c2ec845138904f12b48803ba7fc7d371",
+                                "uri":  "https://api.sketchfab.com/v3/avatars/c2ec845138904f12b48803ba7fc7d371",
+                                "images":  [
+                                               {
+                                                   "width":  32,
+                                                   "height":  32,
+                                                   "size":  927,
+                                                   "url":  "https://media.sketchfab.com/avatars/c2ec845138904f12b48803ba7fc7d371/43868bccb5974b949999495c9a1ea7f5.jpeg"
+                                               },
+                                               {
+                                                   "width":  48,
+                                                   "height":  48,
+                                                   "size":  1226,
+                                                   "url":  "https://media.sketchfab.com/avatars/c2ec845138904f12b48803ba7fc7d371/2fcc57cc26b64794bc2f055a41af1fa4.jpeg"
+                                               },
+                                               {
+                                                   "width":  90,
+                                                   "height":  90,
+                                                   "size":  2484,
+                                                   "url":  "https://media.sketchfab.com/avatars/c2ec845138904f12b48803ba7fc7d371/2159c41de430436f8e4cf1b49127290a.jpeg"
+                                               },
+                                               {
+                                                   "width":  100,
+                                                   "height":  100,
+                                                   "size":  2829,
+                                                   "url":  "https://media.sketchfab.com/avatars/c2ec845138904f12b48803ba7fc7d371/3a1caa10c70645e889033528fdd0ff5d.jpeg"
+                                               }
+                                           ]
+                            },
+                 "uri":  "https://api.sketchfab.com/v3/users/4cf2e89f44d54b228035ee1b0ac2aea0"
+             },
+    "vertexCount":  115892,
+    "viewCount":  29066,
+    "viewerUrl":  "https://sketchfab.com/3d-models/nine-story-building-of-the-post-soviet-33a2b2901adc4b38ab83021b0837cd10",
+    "isDownloadable":  true,
+    "isProtected":  false,
+    "description":  "Post soviet photorealistick building\nnine floors \nliving apartament building",
+    "price":  null,
+    "downloadCount":  8594,
+    "editorUrl":  "https://sketchfab.com/models/33a2b2901adc4b38ab83021b0837cd10/edit",
+    "status":  {
+                   "warning":  {
+
+                               },
+                   "processing":  "SUCCEEDED"
+               },
+    "source":  "website",
+    "hasCommentsDisabled":  false,
+    "updatedAt":  "2023-08-14T13:05:03.889176",
+    "pbrType":  null,
+    "textureCount":  22,
+    "materialCount":  19
+}

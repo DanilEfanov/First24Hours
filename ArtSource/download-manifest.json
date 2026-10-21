@@ -1,0 +1,302 @@
+[
+  {
+    "file": "ArtSource\\Models\\sofa_02\\sofa_02.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/sofa_02/sofa_02_2k.gltf",
+    "md5": "d58bdde4cb00612fc070bc3e7caba265",
+    "bytes": 4183
+  },
+  {
+    "file": "ArtSource\\Models\\sofa_02\\textures\\sofa_02_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/sofa_02/sofa_02_arm_2k.jpg",
+    "md5": "4cdaf48033316b61832d220f1dcc48ef",
+    "bytes": 401876
+  },
+  {
+    "file": "ArtSource\\Models\\sofa_02\\textures\\sofa_02_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/sofa_02/sofa_02_nor_gl_2k.jpg",
+    "md5": "d22e982ab8dac6a54ab06839efb0bafa",
+    "bytes": 463146
+  },
+  {
+    "file": "ArtSource\\Models\\sofa_02\\textures\\sofa_02_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/sofa_02/sofa_02_diff_2k.jpg",
+    "md5": "37808357cc7d00fd62bda197cf89e6ae",
+    "bytes": 323319
+  },
+  {
+    "file": "ArtSource\\Models\\sofa_02\\sofa_02.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/sofa_02/sofa_02.bin",
+    "md5": "024d6f57a7c2ee7915430cd6e1c2651e",
+    "bytes": 74864
+  },
+  {
+    "file": "ArtSource\\Models\\SchoolDesk_01\\SchoolDesk_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/SchoolDesk_01/SchoolDesk_01_2k.gltf",
+    "md5": "9e940791852c775be0e4f84f3c616950",
+    "bytes": 2686
+  },
+  {
+    "file": "ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_diff_2k.jpg",
+    "md5": "da3cc4cb40e44b04a79f77c2bbb4c4ff",
+    "bytes": 259340
+  },
+  {
+    "file": "ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_nor_gl_2k.jpg",
+    "md5": "da331c8270ac8b0ac72a9826a8cd5289",
+    "bytes": 298581
+  },
+  {
+    "file": "ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_arm_2k.jpg",
+    "md5": "2312848559c4310917f024b2bd94f81a",
+    "bytes": 442908
+  },
+  {
+    "file": "ArtSource\\Models\\SchoolDesk_01\\SchoolDesk_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/SchoolDesk_01/SchoolDesk_01.bin",
+    "md5": "af08b1337236d6b951ea9805032abd32",
+    "bytes": 127564
+  },
+  {
+    "file": "ArtSource\\Models\\painted_wooden_chair_02\\painted_wooden_chair_02.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/painted_wooden_chair_02/painted_wooden_chair_02_2k.gltf",
+    "md5": "0f996e5738b5a4fa26942d2ed25f770f",
+    "bytes": 2972
+  },
+  {
+    "file": "ArtSource\\Models\\painted_wooden_chair_02\\painted_wooden_chair_02.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_chair_02/painted_wooden_chair_02.bin",
+    "md5": "4902f84dc60b9515a0cfde6a0b860a0e",
+    "bytes": 39028
+  },
+  {
+    "file": "ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_chair_02/painted_wooden_chair_02_arm_2k.jpg",
+    "md5": "fdfb4009c4e4d33e464867bd2d1e083b",
+    "bytes": 2613013
+  },
+  {
+    "file": "ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_chair_02/painted_wooden_chair_02_nor_gl_2k.jpg",
+    "md5": "73bd46343e3a2481b1f06ec6f3be2bca",
+    "bytes": 4182238
+  },
+  {
+    "file": "ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_chair_02/painted_wooden_chair_02_diff_2k.jpg",
+    "md5": "360859915660e8f1be767d519460caac",
+    "bytes": 2537428
+  },
+  {
+    "file": "ArtSource\\Models\\desk_lamp_arm_01\\desk_lamp_arm_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/desk_lamp_arm_01/desk_lamp_arm_01_2k.gltf",
+    "md5": "93587e189642dc55cd6567703dc88fd6",
+    "bytes": 4453
+  },
+  {
+    "file": "ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/desk_lamp_arm_01/desk_lamp_arm_01_nor_gl_2k.jpg",
+    "md5": "f576a49c0203d1115fd4fb4b68f0548c",
+    "bytes": 2491219
+  },
+  {
+    "file": "ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/desk_lamp_arm_01/desk_lamp_arm_01_diff_2k.jpg",
+    "md5": "18b2a20186590642bf99537784bdc414",
+    "bytes": 2438937
+  },
+  {
+    "file": "ArtSource\\Models\\desk_lamp_arm_01\\desk_lamp_arm_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/desk_lamp_arm_01/desk_lamp_arm_01.bin",
+    "md5": "29ffa5bb6bee35b066e46073124fee1a",
+    "bytes": 736804
+  },
+  {
+    "file": "ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/desk_lamp_arm_01/desk_lamp_arm_01_arm_2k.jpg",
+    "md5": "7f4335c90f5be6ac9d9e0073a12cc7e5",
+    "bytes": 2801607
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\book_encyclopedia_set_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_2k.gltf",
+    "md5": "b5c1936b6b9b0883b7e817ff49f03388",
+    "bytes": 55011
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\book_encyclopedia_set_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/book_encyclopedia_set_01/book_encyclopedia_set_01.bin",
+    "md5": "ac617be6503e537c5d1a16a94313e866",
+    "bytes": 2547932
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_diff_2k.jpg",
+    "md5": "a19a5200b59c288f7b753d57db5f0506",
+    "bytes": 302108
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_nor_gl_2k.jpg",
+    "md5": "07765c22d4bc7626f93f2432c4137e78",
+    "bytes": 566133
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_roughness_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_paper_roughness_2k.jpg",
+    "md5": "8ee25a87fbcc4d46dd5985e37b5ec99e",
+    "bytes": 49548
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_arm_2k.jpg",
+    "md5": "f851bc2c9998fa116044a6462a78d4c2",
+    "bytes": 663503
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_nor_gl_2k.jpg",
+    "md5": "d0b3c80e2d4c6735e2d53d2f9de81b4f",
+    "bytes": 75257
+  },
+  {
+    "file": "ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/book_encyclopedia_set_01/book_encyclopedia_set_01_cover_diff_2k.jpg",
+    "md5": "5bdc3656803da131709b8459d7cc2622",
+    "bytes": 423488
+  },
+  {
+    "file": "ArtSource\\Models\\alarm_clock_01\\alarm_clock_01.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/alarm_clock_01/alarm_clock_01_2k.gltf",
+    "md5": "202132041ed04e89fc7553d2c830a4e6",
+    "bytes": 10056
+  },
+  {
+    "file": "ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.jpg",
+    "md5": "05f050491ea39bcf1ce4223733095988",
+    "bytes": 1386574
+  },
+  {
+    "file": "ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+    "md5": "e2ad7c72fa00abc90b4870f2f2c66ca7",
+    "bytes": 1254506
+  },
+  {
+    "file": "ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_arm_2k.jpg",
+    "md5": "92e8b6b47203b1964a44ebcf65bab6cf",
+    "bytes": 1752727
+  },
+  {
+    "file": "ArtSource\\Models\\alarm_clock_01\\alarm_clock_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01.bin",
+    "md5": "276d0e4b0863c2d5ab976abaa5ea0451",
+    "bytes": 284408
+  },
+  {
+    "file": "ArtSource\\Models\\vintage_electric_kettle\\vintage_electric_kettle.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/vintage_electric_kettle/vintage_electric_kettle_2k.gltf",
+    "md5": "4eaa816e4b0e9672ad930dc492b6578d",
+    "bytes": 4801
+  },
+  {
+    "file": "ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_electric_kettle/vintage_electric_kettle_nor_gl_2k.jpg",
+    "md5": "d2fb3455383a1acb9faea37d7b4d5685",
+    "bytes": 2521188
+  },
+  {
+    "file": "ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_electric_kettle/vintage_electric_kettle_diff_2k.jpg",
+    "md5": "3ae072e2844e79ca1f88023c471bacc7",
+    "bytes": 1995436
+  },
+  {
+    "file": "ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_electric_kettle/vintage_electric_kettle_arm_2k.jpg",
+    "md5": "f71900674243bea001440b0462fc1c02",
+    "bytes": 2613993
+  },
+  {
+    "file": "ArtSource\\Models\\vintage_electric_kettle\\vintage_electric_kettle.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/vintage_electric_kettle/vintage_electric_kettle.bin",
+    "md5": "3e817b9bd20bad65c016e5464ee03bc3",
+    "bytes": 416612
+  },
+  {
+    "file": "ArtSource\\Textures\\wood_floor_worn\\wood_floor_worn_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor_worn/wood_floor_worn_diff_2k.jpg",
+    "md5": "980427517934e2e6441da8915b0b2283",
+    "bytes": 2531019
+  },
+  {
+    "file": "ArtSource\\Textures\\wood_floor_worn\\wood_floor_worn_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor_worn/wood_floor_worn_nor_dx_2k.jpg",
+    "md5": "3bca52f79cb4f5e72aa8c7ac267550b2",
+    "bytes": 2891988
+  },
+  {
+    "file": "ArtSource\\Textures\\wood_floor_worn\\wood_floor_worn_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_floor_worn/wood_floor_worn_rough_2k.jpg",
+    "md5": "089661983973885fd8df6dca05953ff4",
+    "bytes": 1316403
+  },
+  {
+    "file": "ArtSource\\Textures\\painted_plaster_wall\\painted_plaster_wall_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_diff_2k.jpg",
+    "md5": "32f4f4e5ded7d20e55e337004d0d9691",
+    "bytes": 3132937
+  },
+  {
+    "file": "ArtSource\\Textures\\painted_plaster_wall\\painted_plaster_wall_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_nor_dx_2k.jpg",
+    "md5": "09f2dea3fed3b877d6d589df82f055f8",
+    "bytes": 4057940
+  },
+  {
+    "file": "ArtSource\\Textures\\painted_plaster_wall\\painted_plaster_wall_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_rough_2k.jpg",
+    "md5": "7cdd5fbbe56f7becb757fc5b52d11d28",
+    "bytes": 1595466
+  },
+  {
+    "file": "ArtSource\\Textures\\floor_tiles_04\\floor_tiles_04_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/floor_tiles_04/floor_tiles_04_diff_2k.jpg",
+    "md5": "de27bfaa33b51c9f656c68a810174052",
+    "bytes": 1252211
+  },
+  {
+    "file": "ArtSource\\Textures\\floor_tiles_04\\floor_tiles_04_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/floor_tiles_04/floor_tiles_04_nor_dx_2k.jpg",
+    "md5": "7cff92388013b723c731013843cc000a",
+    "bytes": 599583
+  },
+  {
+    "file": "ArtSource\\Textures\\floor_tiles_04\\floor_tiles_04_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/floor_tiles_04/floor_tiles_04_rough_2k.jpg",
+    "md5": "a0543174925573b4efa25c74c5eae110",
+    "bytes": 260462
+  },
+  {
+    "file": "ArtSource\\Textures\\fabric_pattern_05\\fabric_pattern_05_col_01_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_pattern_05/fabric_pattern_05_col_01_2k.jpg",
+    "md5": "5b1497806235db931b92b2149920dc7a",
+    "bytes": 3000828
+  },
+  {
+    "file": "ArtSource\\Textures\\fabric_pattern_05\\fabric_pattern_05_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_pattern_05/fabric_pattern_05_nor_dx_2k.jpg",
+    "md5": "77177b7c1b415813a8dc6b3f19607f78",
+    "bytes": 2855836
+  },
+  {
+    "file": "ArtSource\\Textures\\fabric_pattern_05\\fabric_pattern_05_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/fabric_pattern_05/fabric_pattern_05_rough_2k.jpg",
+    "md5": "992a516388dfab17b039e446255ba733",
+    "bytes": 1839962
+  }
+]

@@ -1,0 +1,722 @@
+{
+  "materials": {
+    "Plaster": {
+      "color": [
+        0.73,
+        0.7,
+        0.62
+      ],
+      "roughness": 0.85,
+      "texture_set": "painted_plaster_wall",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Parquet": {
+      "color": [
+        0.3,
+        0.19,
+        0.1
+      ],
+      "roughness": 0.65,
+      "texture_set": "wood_floor_worn",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Tile": {
+      "color": [
+        0.55,
+        0.58,
+        0.56
+      ],
+      "roughness": 0.55,
+      "texture_set": "floor_tiles_04",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Fabric": {
+      "color": [
+        0.24,
+        0.29,
+        0.3
+      ],
+      "roughness": 0.9,
+      "texture_set": "fabric_pattern_05",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Ceiling": {
+      "color": [
+        0.78,
+        0.77,
+        0.71
+      ],
+      "roughness": 0.9,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Trim": {
+      "color": [
+        0.64,
+        0.59,
+        0.48
+      ],
+      "roughness": 0.5,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Walnut": {
+      "color": [
+        0.14,
+        0.075,
+        0.035
+      ],
+      "roughness": 0.5,
+      "texture_set": "wood_floor_worn",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Sage": {
+      "color": [
+        0.23,
+        0.3,
+        0.24
+      ],
+      "roughness": 0.57,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Countertop": {
+      "color": [
+        0.52,
+        0.49,
+        0.41
+      ],
+      "roughness": 0.35,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Porcelain": {
+      "color": [
+        0.75,
+        0.76,
+        0.7
+      ],
+      "roughness": 0.22,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Chrome": {
+      "color": [
+        0.55,
+        0.58,
+        0.6
+      ],
+      "roughness": 0.16,
+      "texture_set": null,
+      "metallic": 1,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Black": {
+      "color": [
+        0.015,
+        0.02,
+        0.025
+      ],
+      "roughness": 0.42,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Brass": {
+      "color": [
+        0.35,
+        0.23,
+        0.08
+      ],
+      "roughness": 0.3,
+      "texture_set": null,
+      "metallic": 1,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Linen": {
+      "color": [
+        0.55,
+        0.48,
+        0.35
+      ],
+      "roughness": 0.95,
+      "texture_set": "fabric_pattern_05",
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Curtain": {
+      "color": [
+        0.34,
+        0.37,
+        0.34
+      ],
+      "roughness": 0.9,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "Screen": {
+      "color": [
+        0.035,
+        0.11,
+        0.19
+      ],
+      "roughness": 0.3,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 3,
+      "translucent": false
+    },
+    "WarmGlow": {
+      "color": [
+        1,
+        0.47,
+        0.14
+      ],
+      "roughness": 0.3,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 3,
+      "translucent": false
+    },
+    "Glass": {
+      "color": [
+        0.13,
+        0.21,
+        0.25
+      ],
+      "roughness": 0.08,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": true
+    },
+    "Rain": {
+      "color": [
+        0.35,
+        0.55,
+        0.65
+      ],
+      "roughness": 0.15,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": true
+    },
+    "CityConcrete": {
+      "color": [
+        0.09,
+        0.11,
+        0.14
+      ],
+      "roughness": 0.85,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 0,
+      "translucent": false
+    },
+    "CityWindow": {
+      "color": [
+        0.28,
+        0.18,
+        0.075
+      ],
+      "roughness": 0.3,
+      "texture_set": null,
+      "metallic": 0,
+      "emissive": 3,
+      "translucent": false
+    },
+    "sofa_02": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\sofa_02\\textures\\sofa_02_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\sofa_02\\textures\\sofa_02_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\sofa_02\\textures\\sofa_02_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "SchoolDesk_01": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\SchoolDesk_01\\textures\\SchoolDesk_01_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "painted_wooden_chair_02": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\painted_wooden_chair_02\\textures\\painted_wooden_chair_02_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "desk_lamp_arm_01": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "desk_lamp_arm_01_light": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\desk_lamp_arm_01\\textures\\desk_lamp_arm_01_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "book_encyclopedia_set_01_cover": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_cover_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "book_encyclopedia_set_01_paper": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\book_encyclopedia_set_01\\textures\\book_encyclopedia_set_01_paper_roughness_2k.jpg",
+      "normal_gl": true
+    },
+    "alarm_clock_01": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "alarm_clock_01_Glass": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\alarm_clock_01\\textures\\alarm_clock_01_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "vintage_electric_kettle": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_arm_2k.jpg",
+      "normal_gl": true
+    },
+    "vintage_electric_kettle_glass": {
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "roughness": 0.6,
+      "metallic": 0,
+      "diffuse": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_diff_2k.jpg",
+      "normal": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_nor_gl_2k.jpg",
+      "arm": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Models\\vintage_electric_kettle\\textures\\vintage_electric_kettle_arm_2k.jpg",
+      "normal_gl": true
+    }
+  },
+  "meshes": [
+    {
+      "name": "SM_Apartment_Floors",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Floors.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Ceiling",
+        "Parquet",
+        "Tile"
+      ],
+      "size_m": [
+        8.039999961853027,
+        6.039999961853027,
+        0.19500000774860382
+      ]
+    },
+    {
+      "name": "SM_Apartment_Walls",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Walls.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Plaster"
+      ],
+      "size_m": [
+        8.120000004768372,
+        6.119999885559082,
+        2.700000286102295
+      ]
+    },
+    {
+      "name": "SM_Apartment_Ceiling",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Ceiling.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Ceiling"
+      ],
+      "size_m": [
+        8.039999961853027,
+        6.039999961853027,
+        0.17999982833862305
+      ]
+    },
+    {
+      "name": "SM_Apartment_Joinery",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Joinery.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Trim",
+        "Ceiling"
+      ],
+      "size_m": [
+        7.884999990463257,
+        5.80000015348196,
+        2.6599998474121094
+      ]
+    },
+    {
+      "name": "SM_Entry_Door",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Entry_Door.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Walnut",
+        "Brass"
+      ],
+      "size_m": [
+        0.12699999287724495,
+        0.8599998950958252,
+        2.0799999237060547
+      ]
+    },
+    {
+      "name": "SM_Apartment_WindowFrames",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_WindowFrames.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Porcelain",
+        "Countertop"
+      ],
+      "size_m": [
+        5.569999933242798,
+        6.119999885559082,
+        1.5700001120567322
+      ]
+    },
+    {
+      "name": "SM_Apartment_Glass",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Glass.fbx",
+      "category": "Architecture",
+      "slots": [
+        "Glass"
+      ],
+      "size_m": [
+        5.255000114440918,
+        5.970000267028809,
+        1.4400001764297485
+      ]
+    },
+    {
+      "name": "SM_Apartment_Fixtures",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Fixtures.fbx",
+      "category": "Details",
+      "slots": [
+        "Porcelain",
+        "Chrome"
+      ],
+      "size_m": [
+        6.9150004386901855,
+        5.679999828338623,
+        2.540000081062317
+      ]
+    },
+    {
+      "name": "SM_Kitchen_Fitted",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Kitchen_Fitted.fbx",
+      "category": "Furniture",
+      "slots": [
+        "Sage",
+        "Brass",
+        "Black",
+        "Countertop",
+        "Tile",
+        "Chrome",
+        "Porcelain"
+      ],
+      "size_m": [
+        2.640000343322754,
+        2.084999918937683,
+        2.359999895095825
+      ]
+    },
+    {
+      "name": "SM_Bathroom_Fitted",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Bathroom_Fitted.fbx",
+      "category": "Furniture",
+      "slots": [
+        "Porcelain",
+        "Sage",
+        "Chrome",
+        "Black",
+        "Walnut",
+        "Linen"
+      ],
+      "size_m": [
+        1.9359999895095825,
+        1.7849999368190765,
+        2.2250001430511475
+      ]
+    },
+    {
+      "name": "SM_Bed_and_Nightstand",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Bed_and_Nightstand.fbx",
+      "category": "Furniture",
+      "slots": [
+        "Walnut",
+        "Fabric",
+        "Linen",
+        "Black",
+        "Brass"
+      ],
+      "size_m": [
+        2.0999999046325684,
+        2.194999933242798,
+        1.1200000047683716
+      ]
+    },
+    {
+      "name": "SM_Apartment_LivedIn_Details",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_LivedIn_Details.fbx",
+      "category": "Details",
+      "slots": [
+        "Walnut",
+        "Chrome",
+        "Brass",
+        "Black",
+        "Screen",
+        "Linen",
+        "Porcelain"
+      ],
+      "size_m": [
+        7.644999772310257,
+        5.18999981880188,
+        2.2999999821186066
+      ]
+    },
+    {
+      "name": "SM_Apartment_Textiles",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Apartment_Textiles.fbx",
+      "category": "Details",
+      "slots": [
+        "Curtain",
+        "Brass",
+        "Fabric"
+      ],
+      "size_m": [
+        6.479999780654907,
+        2.1997501850128174,
+        2.632500171661377
+      ]
+    },
+    {
+      "name": "SM_City_Backdrop",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_City_Backdrop.fbx",
+      "category": "Exterior",
+      "slots": [
+        "CityConcrete",
+        "CityWindow",
+        "Black"
+      ],
+      "size_m": [
+        39.0,
+        63.79999923706055,
+        30.020000457763672
+      ]
+    },
+    {
+      "name": "SM_Window_Rain",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_Window_Rain.fbx",
+      "category": "Exterior",
+      "slots": [
+        "Rain"
+      ],
+      "size_m": [
+        5.650999069213867,
+        6.501999855041504,
+        3.0
+      ]
+    },
+    {
+      "name": "SM_PH_sofa_02",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_sofa_02.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "sofa_02"
+      ],
+      "size_m": [
+        1.8071673512458801,
+        0.8177513778209686,
+        0.7094889283180237
+      ]
+    },
+    {
+      "name": "SM_PH_SchoolDesk_01",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_SchoolDesk_01.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "SchoolDesk_01"
+      ],
+      "size_m": [
+        0.7117760181427002,
+        0.5459675788879395,
+        0.8826298713684082
+      ]
+    },
+    {
+      "name": "SM_PH_painted_wooden_chair_02",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_painted_wooden_chair_02.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "painted_wooden_chair_02"
+      ],
+      "size_m": [
+        0.6393895447254181,
+        0.6620978116989136,
+        1.2637710571289062
+      ]
+    },
+    {
+      "name": "SM_PH_desk_lamp_arm_01",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_desk_lamp_arm_01.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "desk_lamp_arm_01",
+        "desk_lamp_arm_01_light"
+      ],
+      "size_m": [
+        0.20172932744026184,
+        0.6138725876808167,
+        0.8926106691360474
+      ]
+    },
+    {
+      "name": "SM_PH_book_encyclopedia_set_01",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_book_encyclopedia_set_01.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "book_encyclopedia_set_01_cover",
+        "book_encyclopedia_set_01_paper"
+      ],
+      "size_m": [
+        0.5512973964214325,
+        0.16306233406066895,
+        0.23741818964481354
+      ]
+    },
+    {
+      "name": "SM_PH_alarm_clock_01",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_alarm_clock_01.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "alarm_clock_01",
+        "alarm_clock_01_Glass"
+      ],
+      "size_m": [
+        0.13165056705474854,
+        0.06674856692552567,
+        0.17415538430213928
+      ]
+    },
+    {
+      "name": "SM_PH_vintage_electric_kettle",
+      "file": "D:\\Unreal Projects\\First24Hours\\ArtSource\\Prepared\\SM_PH_vintage_electric_kettle.fbx",
+      "category": "PolyHaven",
+      "slots": [
+        "vintage_electric_kettle",
+        "vintage_electric_kettle_glass"
+      ],
+      "size_m": [
+        0.32089072465896606,
+        0.24855303764343262,
+        0.3047400116920471
+      ]
+    }
+  ]
+}

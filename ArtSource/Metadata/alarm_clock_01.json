@@ -1,0 +1,1034 @@
+﻿{
+    "Diffuse":  {
+                    "8k":  {
+                               "jpg":  {
+                                           "size":  13156262,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_diff_8k.jpg",
+                                           "md5":  "72a1feabf5dade4f9e9ce8e2651d5a8f"
+                                       },
+                               "png":  {
+                                           "size":  32758093,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_diff_8k.png",
+                                           "md5":  "ea284d451a1569727772a3fac46c4657"
+                                       },
+                               "exr":  {
+                                           "size":  20218758,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_diff_8k.exr",
+                                           "md5":  "17450c8c3966e020d797f7fbed88ccee"
+                                       }
+                           },
+                    "4k":  {
+                               "jpg":  {
+                                           "size":  3972733,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_diff_4k.jpg",
+                                           "md5":  "5a76cfb9914b15ffcf9d9fd16f1ff046"
+                                       },
+                               "png":  {
+                                           "size":  8033110,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_diff_4k.png",
+                                           "md5":  "11dcbd98fb11976416acf8a025899869"
+                                       },
+                               "exr":  {
+                                           "size":  6322336,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_diff_4k.exr",
+                                           "md5":  "ce2e557a5425d06ba5d72c47410dda08"
+                                       }
+                           },
+                    "2k":  {
+                               "jpg":  {
+                                           "size":  1254506,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+                                           "md5":  "e2ad7c72fa00abc90b4870f2f2c66ca7"
+                                       },
+                               "png":  {
+                                           "size":  2439028,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_diff_2k.png",
+                                           "md5":  "eff118486a9b74040d758f7993bb6a17"
+                                       },
+                               "exr":  {
+                                           "size":  2063333,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_diff_2k.exr",
+                                           "md5":  "456a6935c0b1dc71e8375d9be514495d"
+                                       }
+                           },
+                    "1k":  {
+                               "jpg":  {
+                                           "size":  404998,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_diff_1k.jpg",
+                                           "md5":  "27a85fe476bc1c0debe34b37ac824ad8"
+                                       },
+                               "png":  {
+                                           "size":  752381,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_diff_1k.png",
+                                           "md5":  "b07b4842da2089ce00cee93416bc0e6a"
+                                       },
+                               "exr":  {
+                                           "size":  689404,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_diff_1k.exr",
+                                           "md5":  "bb16e9b105bf305f39c54f57c5f70fe1"
+                                       }
+                           }
+                },
+    "nor_dx":  {
+                   "8k":  {
+                              "jpg":  {
+                                          "size":  16884177,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_nor_dx_8k.jpg",
+                                          "md5":  "36dd1bf89082875512d4f6d05dc0a587"
+                                      },
+                              "png":  {
+                                          "size":  29747979,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_nor_dx_8k.png",
+                                          "md5":  "7d27332413d39c9e842ca31480f974ca"
+                                      },
+                              "exr":  {
+                                          "size":  34897540,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_nor_dx_8k.exr",
+                                          "md5":  "dfbf08d8051c602fd99c0b2a5e5d1b18"
+                                      }
+                          },
+                   "4k":  {
+                              "jpg":  {
+                                          "size":  4732104,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_nor_dx_4k.jpg",
+                                          "md5":  "144d6f85714ec685886238fbda0ef1a1"
+                                      },
+                              "png":  {
+                                          "size":  8971906,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_nor_dx_4k.png",
+                                          "md5":  "9f73a077b4c4764cb31109d76be00e56"
+                                      },
+                              "exr":  {
+                                          "size":  10056241,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_nor_dx_4k.exr",
+                                          "md5":  "86d2361027e320f92dc943385af2f9e3"
+                                      }
+                          },
+                   "2k":  {
+                              "jpg":  {
+                                          "size":  1388344,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_nor_dx_2k.jpg",
+                                          "md5":  "d1aec373e3a51d020073c12349528ae9"
+                                      },
+                              "png":  {
+                                          "size":  2709384,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_nor_dx_2k.png",
+                                          "md5":  "c34bd5fb0d30cb8f9164164861621b3c"
+                                      },
+                              "exr":  {
+                                          "size":  2981898,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_nor_dx_2k.exr",
+                                          "md5":  "ef76c17fc0ff926ba3e98e22da9aebd2"
+                                      }
+                          },
+                   "1k":  {
+                              "jpg":  {
+                                          "size":  420783,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_nor_dx_1k.jpg",
+                                          "md5":  "aafda575c246ded90c56f4647b0ac442"
+                                      },
+                              "png":  {
+                                          "size":  815019,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_nor_dx_1k.png",
+                                          "md5":  "107f88b53ace783caeba364d7e911732"
+                                      },
+                              "exr":  {
+                                          "size":  887518,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_nor_dx_1k.exr",
+                                          "md5":  "d9f42ce28a11b733edd222f1ab23b2d2"
+                                      }
+                          }
+               },
+    "nor_gl":  {
+                   "8k":  {
+                              "jpg":  {
+                                          "size":  16839760,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.jpg",
+                                          "md5":  "a800cb79bfc53c41124d7ac8b58f0209"
+                                      },
+                              "png":  {
+                                          "size":  29762335,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.png",
+                                          "md5":  "aecaa45416ae893c579ecb4914d1ea1c"
+                                      },
+                              "exr":  {
+                                          "size":  34906924,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.exr",
+                                          "md5":  "877c23af1e97ad0c6676743228d23cab"
+                                      }
+                          },
+                   "4k":  {
+                              "jpg":  {
+                                          "size":  4724932,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.jpg",
+                                          "md5":  "67b6e7a32658b6190c88e764151b16f3"
+                                      },
+                              "png":  {
+                                          "size":  8976276,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.png",
+                                          "md5":  "aabe6990740e360efe57d1f19563b196"
+                                      },
+                              "exr":  {
+                                          "size":  10064788,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.exr",
+                                          "md5":  "ee5a813f9973f45b6b15ae59ae51c093"
+                                      }
+                          },
+                   "2k":  {
+                              "jpg":  {
+                                          "size":  1386574,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.jpg",
+                                          "md5":  "05f050491ea39bcf1ce4223733095988"
+                                      },
+                              "png":  {
+                                          "size":  2709269,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.png",
+                                          "md5":  "5492bf5fdf68679aad870c777932135a"
+                                      },
+                              "exr":  {
+                                          "size":  2981683,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.exr",
+                                          "md5":  "3efaf989a314efcc8d1cc93d104670fe"
+                                      }
+                          },
+                   "1k":  {
+                              "jpg":  {
+                                          "size":  420026,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.jpg",
+                                          "md5":  "7cd24fe02d79a68cce132650b6ede34b"
+                                      },
+                              "png":  {
+                                          "size":  814798,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.png",
+                                          "md5":  "b1e29758c58690e94bafca5842dcb16a"
+                                      },
+                              "exr":  {
+                                          "size":  886704,
+                                          "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.exr",
+                                          "md5":  "be0c03df227f899edc0e8b488a67ac74"
+                                      }
+                          }
+               },
+    "blend":  {
+                  "8k":  {
+                             "blend":  {
+                                           "include":  {
+                                                           "textures/alarm_clock_01_diff_8k.jpg":  {
+                                                                                                       "size":  13156262,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_diff_8k.jpg",
+                                                                                                       "md5":  "72a1feabf5dade4f9e9ce8e2651d5a8f"
+                                                                                                   },
+                                                           "textures/alarm_clock_01_nor_gl_8k.exr":  {
+                                                                                                         "size":  34906924,
+                                                                                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.exr",
+                                                                                                         "md5":  "877c23af1e97ad0c6676743228d23cab"
+                                                                                                     },
+                                                           "textures/alarm_clock_01_metal_8k.exr":  {
+                                                                                                        "size":  6370725,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_metal_8k.exr",
+                                                                                                        "md5":  "0121abd012759f7bb3153b6bf05d6032"
+                                                                                                    },
+                                                           "textures/alarm_clock_01_rough_8k.exr":  {
+                                                                                                        "size":  17858638,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_rough_8k.exr",
+                                                                                                        "md5":  "b5f936ab0de145a97fe2a17e330c792d"
+                                                                                                    }
+                                                       },
+                                           "size":  624318,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/alarm_clock_01/alarm_clock_01_8k.blend",
+                                           "md5":  "8193c051330eb96ac53eff4d935c1ed4"
+                                       }
+                         },
+                  "4k":  {
+                             "blend":  {
+                                           "include":  {
+                                                           "textures/alarm_clock_01_nor_gl_4k.exr":  {
+                                                                                                         "size":  10064788,
+                                                                                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.exr",
+                                                                                                         "md5":  "ee5a813f9973f45b6b15ae59ae51c093"
+                                                                                                     },
+                                                           "textures/alarm_clock_01_diff_4k.jpg":  {
+                                                                                                       "size":  3972733,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_diff_4k.jpg",
+                                                                                                       "md5":  "5a76cfb9914b15ffcf9d9fd16f1ff046"
+                                                                                                   },
+                                                           "textures/alarm_clock_01_metal_4k.exr":  {
+                                                                                                        "size":  2159506,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_metal_4k.exr",
+                                                                                                        "md5":  "3c1912215ecf331fa06117cd7d43e517"
+                                                                                                    },
+                                                           "textures/alarm_clock_01_rough_4k.exr":  {
+                                                                                                        "size":  5263111,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_rough_4k.exr",
+                                                                                                        "md5":  "6ac1112f03d3f70234e0d4381df625a7"
+                                                                                                    }
+                                                       },
+                                           "size":  623640,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/alarm_clock_01/alarm_clock_01_4k.blend",
+                                           "md5":  "abd6c2ad549af6be8fe04ddc66fdbe14"
+                                       }
+                         },
+                  "2k":  {
+                             "blend":  {
+                                           "include":  {
+                                                           "textures/alarm_clock_01_metal_2k.exr":  {
+                                                                                                        "size":  809397,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_metal_2k.exr",
+                                                                                                        "md5":  "2c7f910c640c42db7a119861c86ccbc6"
+                                                                                                    },
+                                                           "textures/alarm_clock_01_nor_gl_2k.exr":  {
+                                                                                                         "size":  2981683,
+                                                                                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.exr",
+                                                                                                         "md5":  "3efaf989a314efcc8d1cc93d104670fe"
+                                                                                                     },
+                                                           "textures/alarm_clock_01_diff_2k.jpg":  {
+                                                                                                       "size":  1254506,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+                                                                                                       "md5":  "e2ad7c72fa00abc90b4870f2f2c66ca7"
+                                                                                                   },
+                                                           "textures/alarm_clock_01_rough_2k.exr":  {
+                                                                                                        "size":  1603535,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_rough_2k.exr",
+                                                                                                        "md5":  "78314ef2ec2e37e1ba2f1162fa611dae"
+                                                                                                    }
+                                                       },
+                                           "size":  624188,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/alarm_clock_01/alarm_clock_01_2k.blend",
+                                           "md5":  "46462d3a41ee50ad9c15a42601e839ab"
+                                       }
+                         },
+                  "1k":  {
+                             "blend":  {
+                                           "include":  {
+                                                           "textures/alarm_clock_01_nor_gl_1k.exr":  {
+                                                                                                         "size":  886704,
+                                                                                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.exr",
+                                                                                                         "md5":  "be0c03df227f899edc0e8b488a67ac74"
+                                                                                                     },
+                                                           "textures/alarm_clock_01_rough_1k.exr":  {
+                                                                                                        "size":  496768,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_rough_1k.exr",
+                                                                                                        "md5":  "4d90125a77fa69f3d83f8c8c1e120910"
+                                                                                                    },
+                                                           "textures/alarm_clock_01_diff_1k.jpg":  {
+                                                                                                       "size":  404998,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_diff_1k.jpg",
+                                                                                                       "md5":  "27a85fe476bc1c0debe34b37ac824ad8"
+                                                                                                   },
+                                                           "textures/alarm_clock_01_metal_1k.exr":  {
+                                                                                                        "size":  318302,
+                                                                                                        "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_metal_1k.exr",
+                                                                                                        "md5":  "21858660dea9886edb3a553debeb780c"
+                                                                                                    }
+                                                       },
+                                           "size":  624073,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/alarm_clock_01/alarm_clock_01_1k.blend",
+                                           "md5":  "af97f2f9e13b2aaedcfec54963f7b180"
+                                       }
+                         }
+              },
+    "gltf":  {
+                 "8k":  {
+                            "gltf":  {
+                                         "include":  {
+                                                         "textures/alarm_clock_01_diff_8k.jpg":  {
+                                                                                                     "size":  13156262,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_diff_8k.jpg",
+                                                                                                     "md5":  "72a1feabf5dade4f9e9ce8e2651d5a8f"
+                                                                                                 },
+                                                         "textures/alarm_clock_01_nor_gl_8k.jpg":  {
+                                                                                                       "size":  16839760,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.jpg",
+                                                                                                       "md5":  "a800cb79bfc53c41124d7ac8b58f0209"
+                                                                                                   },
+                                                         "textures/alarm_clock_01_arm_8k.jpg":  {
+                                                                                                    "size":  19681838,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_arm_8k.jpg",
+                                                                                                    "md5":  "dde5948961fe70edf3bb33e2e2cd8a9a"
+                                                                                                },
+                                                         "alarm_clock_01.bin":  {
+                                                                                    "size":  284408,
+                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01.bin",
+                                                                                    "md5":  "276d0e4b0863c2d5ab976abaa5ea0451"
+                                                                                }
+                                                     },
+                                         "size":  10056,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01_8k.gltf",
+                                         "md5":  "f2285d1b8370792eb36b25e6fd912324"
+                                     }
+                        },
+                 "4k":  {
+                            "gltf":  {
+                                         "include":  {
+                                                         "textures/alarm_clock_01_arm_4k.jpg":  {
+                                                                                                    "size":  5883040,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_arm_4k.jpg",
+                                                                                                    "md5":  "4c6ecdc7fe3def2180a153fb0085a208"
+                                                                                                },
+                                                         "textures/alarm_clock_01_nor_gl_4k.jpg":  {
+                                                                                                       "size":  4724932,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.jpg",
+                                                                                                       "md5":  "67b6e7a32658b6190c88e764151b16f3"
+                                                                                                   },
+                                                         "textures/alarm_clock_01_diff_4k.jpg":  {
+                                                                                                     "size":  3972733,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_diff_4k.jpg",
+                                                                                                     "md5":  "5a76cfb9914b15ffcf9d9fd16f1ff046"
+                                                                                                 },
+                                                         "alarm_clock_01.bin":  {
+                                                                                    "size":  284408,
+                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01.bin",
+                                                                                    "md5":  "276d0e4b0863c2d5ab976abaa5ea0451"
+                                                                                }
+                                                     },
+                                         "size":  10056,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/alarm_clock_01/alarm_clock_01_4k.gltf",
+                                         "md5":  "a3b0c38d2567920cdd13d6a2747bd574"
+                                     }
+                        },
+                 "2k":  {
+                            "gltf":  {
+                                         "include":  {
+                                                         "textures/alarm_clock_01_nor_gl_2k.jpg":  {
+                                                                                                       "size":  1386574,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.jpg",
+                                                                                                       "md5":  "05f050491ea39bcf1ce4223733095988"
+                                                                                                   },
+                                                         "textures/alarm_clock_01_diff_2k.jpg":  {
+                                                                                                     "size":  1254506,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+                                                                                                     "md5":  "e2ad7c72fa00abc90b4870f2f2c66ca7"
+                                                                                                 },
+                                                         "textures/alarm_clock_01_arm_2k.jpg":  {
+                                                                                                    "size":  1752727,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_arm_2k.jpg",
+                                                                                                    "md5":  "92e8b6b47203b1964a44ebcf65bab6cf"
+                                                                                                },
+                                                         "alarm_clock_01.bin":  {
+                                                                                    "size":  284408,
+                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01.bin",
+                                                                                    "md5":  "276d0e4b0863c2d5ab976abaa5ea0451"
+                                                                                }
+                                                     },
+                                         "size":  10056,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/alarm_clock_01/alarm_clock_01_2k.gltf",
+                                         "md5":  "202132041ed04e89fc7553d2c830a4e6"
+                                     }
+                        },
+                 "1k":  {
+                            "gltf":  {
+                                         "include":  {
+                                                         "textures/alarm_clock_01_diff_1k.jpg":  {
+                                                                                                     "size":  404998,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_diff_1k.jpg",
+                                                                                                     "md5":  "27a85fe476bc1c0debe34b37ac824ad8"
+                                                                                                 },
+                                                         "textures/alarm_clock_01_nor_gl_1k.jpg":  {
+                                                                                                       "size":  420026,
+                                                                                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.jpg",
+                                                                                                       "md5":  "7cd24fe02d79a68cce132650b6ede34b"
+                                                                                                   },
+                                                         "alarm_clock_01.bin":  {
+                                                                                    "size":  284408,
+                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/alarm_clock_01/alarm_clock_01.bin",
+                                                                                    "md5":  "276d0e4b0863c2d5ab976abaa5ea0451"
+                                                                                },
+                                                         "textures/alarm_clock_01_arm_1k.jpg":  {
+                                                                                                    "size":  538163,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_arm_1k.jpg",
+                                                                                                    "md5":  "cb2b21cf42ccda7f0c5e1f82d47b85bf"
+                                                                                                }
+                                                     },
+                                         "size":  10056,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/alarm_clock_01/alarm_clock_01_1k.gltf",
+                                         "md5":  "8b21feb17dbc39d8dda7a9cf2b12deea"
+                                     }
+                        }
+             },
+    "usd":  {
+                "8k":  {
+                           "usd":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_diff_8k.jpg":  {
+                                                                                                   "size":  13156262,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_diff_8k.jpg",
+                                                                                                   "md5":  "72a1feabf5dade4f9e9ce8e2651d5a8f"
+                                                                                               },
+                                                       "textures/alarm_clock_01_nor_gl_8k.exr":  {
+                                                                                                     "size":  34906924,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.exr",
+                                                                                                     "md5":  "877c23af1e97ad0c6676743228d23cab"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_metal_8k.exr":  {
+                                                                                                    "size":  6370725,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_metal_8k.exr",
+                                                                                                    "md5":  "0121abd012759f7bb3153b6bf05d6032"
+                                                                                                },
+                                                       "textures/alarm_clock_01_rough_8k.exr":  {
+                                                                                                    "size":  17858638,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_rough_8k.exr",
+                                                                                                    "md5":  "b5f936ab0de145a97fe2a17e330c792d"
+                                                                                                }
+                                                   },
+                                       "size":  462685,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/alarm_clock_01/alarm_clock_01_8k.usdc",
+                                       "md5":  "0abc2733660325594bc25b105cad319f"
+                                   }
+                       },
+                "4k":  {
+                           "usd":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_nor_gl_4k.exr":  {
+                                                                                                     "size":  10064788,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.exr",
+                                                                                                     "md5":  "ee5a813f9973f45b6b15ae59ae51c093"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_diff_4k.jpg":  {
+                                                                                                   "size":  3972733,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_diff_4k.jpg",
+                                                                                                   "md5":  "5a76cfb9914b15ffcf9d9fd16f1ff046"
+                                                                                               },
+                                                       "textures/alarm_clock_01_metal_4k.exr":  {
+                                                                                                    "size":  2159506,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_metal_4k.exr",
+                                                                                                    "md5":  "3c1912215ecf331fa06117cd7d43e517"
+                                                                                                },
+                                                       "textures/alarm_clock_01_rough_4k.exr":  {
+                                                                                                    "size":  5263111,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_rough_4k.exr",
+                                                                                                    "md5":  "6ac1112f03d3f70234e0d4381df625a7"
+                                                                                                }
+                                                   },
+                                       "size":  462685,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/alarm_clock_01/alarm_clock_01_4k.usdc",
+                                       "md5":  "8ca6c4ea21361beb75b3cd2a5131f163"
+                                   }
+                       },
+                "2k":  {
+                           "usd":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_metal_2k.exr":  {
+                                                                                                    "size":  809397,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_metal_2k.exr",
+                                                                                                    "md5":  "2c7f910c640c42db7a119861c86ccbc6"
+                                                                                                },
+                                                       "textures/alarm_clock_01_nor_gl_2k.exr":  {
+                                                                                                     "size":  2981683,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.exr",
+                                                                                                     "md5":  "3efaf989a314efcc8d1cc93d104670fe"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_diff_2k.jpg":  {
+                                                                                                   "size":  1254506,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+                                                                                                   "md5":  "e2ad7c72fa00abc90b4870f2f2c66ca7"
+                                                                                               },
+                                                       "textures/alarm_clock_01_rough_2k.exr":  {
+                                                                                                    "size":  1603535,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_rough_2k.exr",
+                                                                                                    "md5":  "78314ef2ec2e37e1ba2f1162fa611dae"
+                                                                                                }
+                                                   },
+                                       "size":  462747,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/alarm_clock_01/alarm_clock_01_2k.usdc",
+                                       "md5":  "96d27dade16132827103e1c060a95069"
+                                   }
+                       },
+                "1k":  {
+                           "usd":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_nor_gl_1k.exr":  {
+                                                                                                     "size":  886704,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.exr",
+                                                                                                     "md5":  "be0c03df227f899edc0e8b488a67ac74"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_rough_1k.exr":  {
+                                                                                                    "size":  496768,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_rough_1k.exr",
+                                                                                                    "md5":  "4d90125a77fa69f3d83f8c8c1e120910"
+                                                                                                },
+                                                       "textures/alarm_clock_01_diff_1k.jpg":  {
+                                                                                                   "size":  404998,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_diff_1k.jpg",
+                                                                                                   "md5":  "27a85fe476bc1c0debe34b37ac824ad8"
+                                                                                               },
+                                                       "textures/alarm_clock_01_metal_1k.exr":  {
+                                                                                                    "size":  318302,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_metal_1k.exr",
+                                                                                                    "md5":  "21858660dea9886edb3a553debeb780c"
+                                                                                                }
+                                                   },
+                                       "size":  462685,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/alarm_clock_01/alarm_clock_01_1k.usdc",
+                                       "md5":  "00c4d28c2bd20d3e8a1c56638d01bc8a"
+                                   }
+                       }
+            },
+    "Metal":  {
+                  "8k":  {
+                             "jpg":  {
+                                         "size":  5053972,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_metal_8k.jpg",
+                                         "md5":  "a58c8cbbfba3199e4625402a75aae55b"
+                                     },
+                             "png":  {
+                                         "size":  3530536,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_metal_8k.png",
+                                         "md5":  "ff36652327252b062f252476b6c3c086"
+                                     },
+                             "exr":  {
+                                         "size":  6370725,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_metal_8k.exr",
+                                         "md5":  "0121abd012759f7bb3153b6bf05d6032"
+                                     }
+                         },
+                  "4k":  {
+                             "jpg":  {
+                                         "size":  1554681,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_metal_4k.jpg",
+                                         "md5":  "b2b1c09c99497c8a7c496bad5e3596aa"
+                                     },
+                             "png":  {
+                                         "size":  1131605,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_metal_4k.png",
+                                         "md5":  "aa0dce41773d40d69acbaad014377a1c"
+                                     },
+                             "exr":  {
+                                         "size":  2159506,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_metal_4k.exr",
+                                         "md5":  "3c1912215ecf331fa06117cd7d43e517"
+                                     }
+                         },
+                  "2k":  {
+                             "jpg":  {
+                                         "size":  534530,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_metal_2k.jpg",
+                                         "md5":  "1b8105259ecbddc7b3e4a459490b877c"
+                                     },
+                             "png":  {
+                                         "size":  386821,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_metal_2k.png",
+                                         "md5":  "41c777651a5802991b43d2ad46b12378"
+                                     },
+                             "exr":  {
+                                         "size":  809397,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_metal_2k.exr",
+                                         "md5":  "2c7f910c640c42db7a119861c86ccbc6"
+                                     }
+                         },
+                  "1k":  {
+                             "jpg":  {
+                                         "size":  199136,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_metal_1k.jpg",
+                                         "md5":  "9d396d9ee4367f3a5597404a1cbab4c7"
+                                     },
+                             "png":  {
+                                         "size":  137580,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_metal_1k.png",
+                                         "md5":  "e3f48c0b727e4578e2b7dfe23abb259f"
+                                     },
+                             "exr":  {
+                                         "size":  318302,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_metal_1k.exr",
+                                         "md5":  "21858660dea9886edb3a553debeb780c"
+                                     }
+                         }
+              },
+    "opacity":  {
+                    "8k":  {
+                               "jpg":  {
+                                           "size":  1089906,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_opacity_8k.jpg",
+                                           "md5":  "67987c0c499ecc661c0a9e586edd4d27"
+                                       },
+                               "png":  {
+                                           "size":  364302,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_opacity_8k.png",
+                                           "md5":  "dc9a39414e7cf825d1b25089f09df786"
+                                       },
+                               "exr":  {
+                                           "size":  652847,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_opacity_8k.exr",
+                                           "md5":  "dfd02a6876040a443357e81ddc7dfec3"
+                                       }
+                           },
+                    "4k":  {
+                               "jpg":  {
+                                           "size":  302018,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_opacity_4k.jpg",
+                                           "md5":  "a2d2dc40082ef7ada67ae8bd8ffc2d4f"
+                                       },
+                               "png":  {
+                                           "size":  133608,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_opacity_4k.png",
+                                           "md5":  "5b058fbef2bed852e1440088cc8eb743"
+                                       },
+                               "exr":  {
+                                           "size":  226518,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_opacity_4k.exr",
+                                           "md5":  "e5d5b34c25f78d90e1e15eef26096d0b"
+                                       }
+                           },
+                    "2k":  {
+                               "jpg":  {
+                                           "size":  84686,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_opacity_2k.jpg",
+                                           "md5":  "f0acb27ab34912577769ade761a56cbd"
+                                       },
+                               "png":  {
+                                           "size":  44813,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_opacity_2k.png",
+                                           "md5":  "fefcc95457f9e6549a4b8950c1ce818e"
+                                       },
+                               "exr":  {
+                                           "size":  79938,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_opacity_2k.exr",
+                                           "md5":  "c8404a83d7f61f89ec0864e8647686ba"
+                                       }
+                           },
+                    "1k":  {
+                               "jpg":  {
+                                           "size":  25135,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_opacity_1k.jpg",
+                                           "md5":  "a22cdf73ae5a0eed2cc3edf0402c8802"
+                                       },
+                               "png":  {
+                                           "size":  15368,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_opacity_1k.png",
+                                           "md5":  "81f80249752a021bf96a05f9309462b5"
+                                       },
+                               "exr":  {
+                                           "size":  30636,
+                                           "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_opacity_1k.exr",
+                                           "md5":  "8f1e4a4780bc3e6c1a4e70f7edb712d2"
+                                       }
+                           }
+                },
+    "arm":  {
+                "8k":  {
+                           "jpg":  {
+                                       "size":  19681838,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_arm_8k.jpg",
+                                       "md5":  "dde5948961fe70edf3bb33e2e2cd8a9a"
+                                   },
+                           "png":  {
+                                       "size":  33513897,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_arm_8k.png",
+                                       "md5":  "c730a85f9771c8f434bb62076899e92f"
+                                   },
+                           "exr":  {
+                                       "size":  45048372,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_arm_8k.exr",
+                                       "md5":  "91b0a93ef4415a1838bbbd25784a5bd2"
+                                   }
+                       },
+                "4k":  {
+                           "jpg":  {
+                                       "size":  5883040,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_arm_4k.jpg",
+                                       "md5":  "4c6ecdc7fe3def2180a153fb0085a208"
+                                   },
+                           "png":  {
+                                       "size":  11189720,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_arm_4k.png",
+                                       "md5":  "15666727ebeb6aab94f1f6483b75058a"
+                                   },
+                           "exr":  {
+                                       "size":  13544518,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_arm_4k.exr",
+                                       "md5":  "c9bb68e9f21b88bb7392ed9556461fd4"
+                                   }
+                       },
+                "2k":  {
+                           "jpg":  {
+                                       "size":  1752727,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_arm_2k.jpg",
+                                       "md5":  "92e8b6b47203b1964a44ebcf65bab6cf"
+                                   },
+                           "png":  {
+                                       "size":  3089501,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_arm_2k.png",
+                                       "md5":  "6d6831e2c13d8f478fffceed9cb60e3e"
+                                   },
+                           "exr":  {
+                                       "size":  4166616,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_arm_2k.exr",
+                                       "md5":  "7fcb94d6bfb9c0c0ec002ac366946f3b"
+                                   }
+                       },
+                "1k":  {
+                           "jpg":  {
+                                       "size":  538163,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_arm_1k.jpg",
+                                       "md5":  "cb2b21cf42ccda7f0c5e1f82d47b85bf"
+                                   },
+                           "png":  {
+                                       "size":  871260,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_arm_1k.png",
+                                       "md5":  "cc84a7eecc41e11b2be6d0bad9079cc7"
+                                   },
+                           "exr":  {
+                                       "size":  1315280,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_arm_1k.exr",
+                                       "md5":  "30beafd9166d68f86ef4062af604ec00"
+                                   }
+                       }
+            },
+    "fbx":  {
+                "8k":  {
+                           "fbx":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_diff_8k.jpg":  {
+                                                                                                   "size":  13156262,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_diff_8k.jpg",
+                                                                                                   "md5":  "72a1feabf5dade4f9e9ce8e2651d5a8f"
+                                                                                               },
+                                                       "textures/alarm_clock_01_nor_gl_8k.exr":  {
+                                                                                                     "size":  34906924,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_nor_gl_8k.exr",
+                                                                                                     "md5":  "877c23af1e97ad0c6676743228d23cab"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_metal_8k.exr":  {
+                                                                                                    "size":  6370725,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_metal_8k.exr",
+                                                                                                    "md5":  "0121abd012759f7bb3153b6bf05d6032"
+                                                                                                },
+                                                       "textures/alarm_clock_01_rough_8k.exr":  {
+                                                                                                    "size":  17858638,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_rough_8k.exr",
+                                                                                                    "md5":  "b5f936ab0de145a97fe2a17e330c792d"
+                                                                                                }
+                                                   },
+                                       "size":  491004,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/alarm_clock_01/alarm_clock_01_8k.fbx",
+                                       "md5":  "e307153691ede6005afb4f26edb99a5a"
+                                   }
+                       },
+                "4k":  {
+                           "fbx":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_nor_gl_4k.exr":  {
+                                                                                                     "size":  10064788,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_nor_gl_4k.exr",
+                                                                                                     "md5":  "ee5a813f9973f45b6b15ae59ae51c093"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_diff_4k.jpg":  {
+                                                                                                   "size":  3972733,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_diff_4k.jpg",
+                                                                                                   "md5":  "5a76cfb9914b15ffcf9d9fd16f1ff046"
+                                                                                               },
+                                                       "textures/alarm_clock_01_metal_4k.exr":  {
+                                                                                                    "size":  2159506,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_metal_4k.exr",
+                                                                                                    "md5":  "3c1912215ecf331fa06117cd7d43e517"
+                                                                                                },
+                                                       "textures/alarm_clock_01_rough_4k.exr":  {
+                                                                                                    "size":  5263111,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_rough_4k.exr",
+                                                                                                    "md5":  "6ac1112f03d3f70234e0d4381df625a7"
+                                                                                                }
+                                                   },
+                                       "size":  491004,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/alarm_clock_01/alarm_clock_01_4k.fbx",
+                                       "md5":  "9a10d72640bfb8c04314ea62ce9d1ce8"
+                                   }
+                       },
+                "2k":  {
+                           "fbx":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_metal_2k.exr":  {
+                                                                                                    "size":  809397,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_metal_2k.exr",
+                                                                                                    "md5":  "2c7f910c640c42db7a119861c86ccbc6"
+                                                                                                },
+                                                       "textures/alarm_clock_01_nor_gl_2k.exr":  {
+                                                                                                     "size":  2981683,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_nor_gl_2k.exr",
+                                                                                                     "md5":  "3efaf989a314efcc8d1cc93d104670fe"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_diff_2k.jpg":  {
+                                                                                                   "size":  1254506,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_diff_2k.jpg",
+                                                                                                   "md5":  "e2ad7c72fa00abc90b4870f2f2c66ca7"
+                                                                                               },
+                                                       "textures/alarm_clock_01_rough_2k.exr":  {
+                                                                                                    "size":  1603535,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_rough_2k.exr",
+                                                                                                    "md5":  "78314ef2ec2e37e1ba2f1162fa611dae"
+                                                                                                }
+                                                   },
+                                       "size":  491004,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/alarm_clock_01/alarm_clock_01_2k.fbx",
+                                       "md5":  "9853635512d33c54ff3b978a8373bced"
+                                   }
+                       },
+                "1k":  {
+                           "fbx":  {
+                                       "include":  {
+                                                       "textures/alarm_clock_01_nor_gl_1k.exr":  {
+                                                                                                     "size":  886704,
+                                                                                                     "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_nor_gl_1k.exr",
+                                                                                                     "md5":  "be0c03df227f899edc0e8b488a67ac74"
+                                                                                                 },
+                                                       "textures/alarm_clock_01_rough_1k.exr":  {
+                                                                                                    "size":  496768,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_rough_1k.exr",
+                                                                                                    "md5":  "4d90125a77fa69f3d83f8c8c1e120910"
+                                                                                                },
+                                                       "textures/alarm_clock_01_diff_1k.jpg":  {
+                                                                                                   "size":  404998,
+                                                                                                   "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_diff_1k.jpg",
+                                                                                                   "md5":  "27a85fe476bc1c0debe34b37ac824ad8"
+                                                                                               },
+                                                       "textures/alarm_clock_01_metal_1k.exr":  {
+                                                                                                    "size":  318302,
+                                                                                                    "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_metal_1k.exr",
+                                                                                                    "md5":  "21858660dea9886edb3a553debeb780c"
+                                                                                                }
+                                                   },
+                                       "size":  491004,
+                                       "url":  "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/alarm_clock_01/alarm_clock_01_1k.fbx",
+                                       "md5":  "c105307dc2704f73bd51f38e8775d718"
+                                   }
+                       }
+            },
+    "AO":  {
+               "8k":  {
+                          "jpg":  {
+                                      "size":  10424794,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_ao_8k.jpg",
+                                      "md5":  "5287f0b1a2a543eb05e8b85f8bef44f8"
+                                  },
+                          "png":  {
+                                      "size":  11381939,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_ao_8k.png",
+                                      "md5":  "ccde7c756648a4c816d138485231e75c"
+                                  },
+                          "exr":  {
+                                      "size":  11966235,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_ao_8k.exr",
+                                      "md5":  "33eeffed5e403824c5b0f3d37c0d9765"
+                                  }
+                      },
+               "4k":  {
+                          "jpg":  {
+                                      "size":  3878932,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_ao_4k.jpg",
+                                      "md5":  "4267b26ac640f66869cf7b54bb1e715c"
+                                  },
+                          "png":  {
+                                      "size":  4256969,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_ao_4k.png",
+                                      "md5":  "a5ea7263d4935edcf0127e53231d4450"
+                                  },
+                          "exr":  {
+                                      "size":  4317135,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_ao_4k.exr",
+                                      "md5":  "8ab276c14bf4d4b4108803c1cebe53e4"
+                                  }
+                      },
+               "2k":  {
+                          "jpg":  {
+                                      "size":  1104060,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_ao_2k.jpg",
+                                      "md5":  "2d51d152c392dccfe7141d8545d9a0db"
+                                  },
+                          "png":  {
+                                      "size":  1106497,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_ao_2k.png",
+                                      "md5":  "5ca7854e4c2277ac23deaef1dceec8c8"
+                                  },
+                          "exr":  {
+                                      "size":  1293128,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_ao_2k.exr",
+                                      "md5":  "c6f66fe918ca3d996f31abab5aa38424"
+                                  }
+                      },
+               "1k":  {
+                          "jpg":  {
+                                      "size":  330416,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_ao_1k.jpg",
+                                      "md5":  "4ac9cb6446c70d7b2d643cf731de30b9"
+                                  },
+                          "png":  {
+                                      "size":  294464,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_ao_1k.png",
+                                      "md5":  "41aeb2864a277ee56f2209da6313daec"
+                                  },
+                          "exr":  {
+                                      "size":  417467,
+                                      "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_ao_1k.exr",
+                                      "md5":  "53128fb42a68ac532280f25b0e543cda"
+                                  }
+                      }
+           },
+    "Rough":  {
+                  "8k":  {
+                             "jpg":  {
+                                         "size":  14287831,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/alarm_clock_01/alarm_clock_01_rough_8k.jpg",
+                                         "md5":  "83f80d8637a6420def45a27df3c5ca32"
+                                     },
+                             "png":  {
+                                         "size":  13862123,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/alarm_clock_01/alarm_clock_01_rough_8k.png",
+                                         "md5":  "1b66958a3428ff56ed444f209b901945"
+                                     },
+                             "exr":  {
+                                         "size":  17858638,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/alarm_clock_01/alarm_clock_01_rough_8k.exr",
+                                         "md5":  "b5f936ab0de145a97fe2a17e330c792d"
+                                     }
+                         },
+                  "4k":  {
+                             "jpg":  {
+                                         "size":  4118118,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/alarm_clock_01/alarm_clock_01_rough_4k.jpg",
+                                         "md5":  "dccd89414d2b651258717eff5c2ed0c2"
+                                     },
+                             "png":  {
+                                         "size":  4059047,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/alarm_clock_01/alarm_clock_01_rough_4k.png",
+                                         "md5":  "f2c7ccda980642533f6d432bce227fc7"
+                                     },
+                             "exr":  {
+                                         "size":  5263111,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/alarm_clock_01/alarm_clock_01_rough_4k.exr",
+                                         "md5":  "6ac1112f03d3f70234e0d4381df625a7"
+                                     }
+                         },
+                  "2k":  {
+                             "jpg":  {
+                                         "size":  1215670,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/alarm_clock_01/alarm_clock_01_rough_2k.jpg",
+                                         "md5":  "4175a086d29a07e961dc6f4b28d48dfa"
+                                     },
+                             "png":  {
+                                         "size":  1188074,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/alarm_clock_01/alarm_clock_01_rough_2k.png",
+                                         "md5":  "07c61b9cf9136736406271a624296400"
+                                     },
+                             "exr":  {
+                                         "size":  1603535,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/alarm_clock_01/alarm_clock_01_rough_2k.exr",
+                                         "md5":  "78314ef2ec2e37e1ba2f1162fa611dae"
+                                     }
+                         },
+                  "1k":  {
+                             "jpg":  {
+                                         "size":  363093,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/alarm_clock_01/alarm_clock_01_rough_1k.jpg",
+                                         "md5":  "521637c209b004081cbb47734280a8a4"
+                                     },
+                             "png":  {
+                                         "size":  351262,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/alarm_clock_01/alarm_clock_01_rough_1k.png",
+                                         "md5":  "1dce1ba0f381bdc7d91fa9e01d32d760"
+                                     },
+                             "exr":  {
+                                         "size":  496768,
+                                         "url":  "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/alarm_clock_01/alarm_clock_01_rough_1k.exr",
+                                         "md5":  "4d90125a77fa69f3d83f8c8c1e120910"
+                                     }
+                         }
+              }
+}

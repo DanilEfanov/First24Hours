@@ -1,0 +1,79 @@
+{
+  "world": "/Game/First24Hours/Maps/UEDPIE_0_L_Apartment_0400.L_Apartment_0400",
+  "pawn": "/Game/First24Hours/Blueprints/BP_ApartmentCharacter.BP_ApartmentCharacter_C",
+  "start": [
+    105.0,
+    -480.0,
+    100.7000002861023
+  ],
+  "camera": [
+    91.54384624621396,
+    -480.0000001295998,
+    170.068983747697
+  ],
+  "camera_rotation": "<Struct 'Rotator' (0x00000209B0655050) {pitch: 0.000002, yaw: 0.000001, roll: 0.000001}>",
+  "walk_speed": 185.0,
+  "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+  "after_movement": [
+    162.5366967755556,
+    -480.0,
+    98.93187952041626
+  ],
+  "movement_distance_cm": 57.56385781794234,
+  "movement_passed": true,
+  "routes": {
+    "hall_to_living": {
+      "target": [
+        300.0,
+        -480.0,
+        100.0
+      ],
+      "actual": [
+        300.0,
+        -480.0,
+        100.0
+      ],
+      "passed": true
+    },
+    "hall_to_kitchen": {
+      "target": [
+        240.0,
+        -255.0,
+        100.0
+      ],
+      "actual": [
+        240.0,
+        -255.0,
+        100.0
+      ],
+      "passed": true
+    },
+    "hall_to_bath": {
+      "target": [
+        110.0,
+        -160.0,
+        100.0
+      ],
+      "actual": [
+        110.0,
+        -160.0,
+        100.0
+      ],
+      "passed": true
+    },
+    "living_to_sleep": {
+      "target": [
+        630.0,
+        -280.0,
+        100.0
+      ],
+      "actual": [
+        630.0,
+        -280.0,
+        100.0
+      ],
+      "passed": true
+    }
+  },
+  "wall_blocks": true
+}
