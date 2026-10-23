@@ -1,0 +1,37 @@
+AutomatedLevelSequenceCapture: <class 'AutomatedLevelSequenceCapture'>
+MovieSceneCaptureSettings: <class 'MovieSceneCaptureSettings'>
+SequencerTools: <class 'SequencerTools'>
+MoviePipelineQueueSubsystem: None
+MoviePipelinePIEExecutor: None
+Automated Level Sequence Capture
+
+**C++ Source:**
+
+- **Module**: MovieSceneTools
+- **File**: AutomatedLevelSequenceCapture.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``additional_command_line_arguments`` (str):  [Read-Write] Additional command line arguments to pass to the external process when capturing
+- ``audio_capture_protocol`` (MovieSceneAudioCaptureProtocolBase):  [Read-Only]
+- ``audio_capture_protocol_type`` (SoftClassPath):  [Read-Write] The type of capture protocol to use for audio data.
+- ``burn_in_options`` (LevelSequenceBurnInOptions):  [Read-Write]
+- ``close_editor_when_capture_starts`` (bool):  [Read-Write] When enabled, the editor will shutdown when the capture starts
+- ``custom_end_frame`` (FrameNumber):  [Read-Write] Frame number to end capturing.
+- ``custom_start_frame`` (FrameNumber):  [Read-Write] Frame number to start capturing.
+- ``delay_before_shot_warm_up`` (float):  [Read-Write] The number of seconds to wait (in real-time) at shot boundaries.  Useful for allowing post processing effects to settle down before capturing the animation.
+- ``delay_before_warm_up`` (float):  [Read-Write] The number of seconds to wait (in real-time) before we start playing back the warm up frames.  Useful for allowing post processing effects to settle down before capturing the animation.
+- ``delay_every_frame`` (float):  [Read-Write] The number of seconds to wait (in real-time) at every frame.  Useful for allowing post processing effects to settle down before capturing the animation.
+- ``image_capture_protocol`` (MovieSceneImageCaptureProtocolBase):  [Read-Only] Capture protocol responsible for actually capturing frame data
+- ``image_capture_protocol_type`` (SoftClassPath):  [Read-Write] The type of capture protocol to use for image data
+- ``inherited_command_line_arguments`` (str):  [Read-Write] Command line arguments inherited from this process
+- ``level_sequence_asset`` (SoftObjectPath):  [Read-Write] A level sequence asset to playback at runtime - used where the level sequence does not already exist in the world.
+- ``settings`` (MovieSceneCaptureSettings):  [Read-Write] Settings that define how to capture
+- ``shot_name`` (str):  [Read-Write] Optional shot name to render. The frame range to render will be set to the shot frame range.
+- ``use_custom_end_frame`` (bool):  [Read-Write] When enabled, the EndFrame setting will override the default ending frame number
+- ``use_custom_start_frame`` (bool):  [Read-Write] When enabled, the StartFrame setting will override the default starting frame number
+- ``use_separate_process`` (bool):  [Read-Write] Whether to capture the movie in a separate process or not
+- ``warm_up_frame_count`` (int32):  [Read-Write] The number of extra frames to play before the sequence's start frame, to "warm up" the animation.  This is useful if your
+            animation contains particles or other runtime effects that are spawned into the scene earlier than your capture start frame
+- ``write_edit_decision_list`` (bool):  [Read-Write] Whether to write edit decision lists (EDLs) if the sequence contains shots
+- ``write_final_cut_pro_xml`` (bool):  [Read-Write] Whether to write Final Cut Pro XML files (XMLs) if the sequence contains shots

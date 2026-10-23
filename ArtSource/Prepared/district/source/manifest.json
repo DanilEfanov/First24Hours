@@ -1,0 +1,152 @@
+{
+  "House": {
+    "source": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/StaticMeshes/nine_story_building_of_the_post_soviet",
+    "slots": [
+      {
+        "name": "green_metal",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal.green_metal"
+      },
+      {
+        "name": "Material_001",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_001.Material_001"
+      },
+      {
+        "name": "concrate",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate.concrate"
+      },
+      {
+        "name": "green_metal2",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal2.green_metal2"
+      },
+      {
+        "name": "concrate2",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate2.concrate2"
+      },
+      {
+        "name": "black",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/black.black"
+      },
+      {
+        "name": "concrate4",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate4.concrate4"
+      },
+      {
+        "name": "bricks",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/bricks.bricks"
+      },
+      {
+        "name": "rusted_metal",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/rusted_metal.rusted_metal"
+      },
+      {
+        "name": "glass",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/glass.glass"
+      },
+      {
+        "name": "wood",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood.wood"
+      },
+      {
+        "name": "Material_004",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_004.Material_004"
+      },
+      {
+        "name": "Material_005",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_005.Material_005"
+      },
+      {
+        "name": "Material_002",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_002.Material_002"
+      },
+      {
+        "name": "asphalt",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/asphalt.asphalt"
+      },
+      {
+        "name": "concrate3",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate3.concrate3"
+      },
+      {
+        "name": "Material_003",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_003.Material_003"
+      },
+      {
+        "name": "wood_002",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood_002.wood_002"
+      },
+      {
+        "name": "ads_002",
+        "material": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/ads_002.ads_002"
+      }
+    ]
+  },
+  "Cars": {
+    "source": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/StaticMeshes/low_poly_soviet_cars",
+    "slots": [
+      {
+        "name": "White",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/White.White"
+      },
+      {
+        "name": "Glass",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Glass.Glass"
+      },
+      {
+        "name": "Black",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Black.Black"
+      },
+      {
+        "name": "Frontlight",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Frontlight.Frontlight"
+      },
+      {
+        "name": "BusColor2",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/BusColor2.BusColor2"
+      },
+      {
+        "name": "StopLight",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/StopLight.StopLight"
+      },
+      {
+        "name": "TurnLight",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/TurnLight.TurnLight"
+      },
+      {
+        "name": "Backlight",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Backlight.Backlight"
+      },
+      {
+        "name": "Metal",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Metal.Metal"
+      },
+      {
+        "name": "Metal_2",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Metal_2.Metal_2"
+      },
+      {
+        "name": "Car_Color",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Car_Color.Car_Color"
+      },
+      {
+        "name": "Black_2",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Black_2.Black_2"
+      },
+      {
+        "name": "Green",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Green.Green"
+      },
+      {
+        "name": "UazBack",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/UazBack.UazBack"
+      },
+      {
+        "name": "Krem",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Krem.Krem"
+      },
+      {
+        "name": "White_Sore",
+        "material": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/White_Sore.White_Sore"
+      }
+    ]
+  }
+}

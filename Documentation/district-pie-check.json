@@ -1,0 +1,12 @@
+{
+  "world": "/Game/First24Hours/Maps/UEDPIE_0_L_ProceduralDistrict.L_ProceduralDistrict",
+  "rain_actors": 1,
+  "rain_active": true,
+  "rain_audio_playing": true,
+  "player": "/Game/First24Hours/Maps/UEDPIE_0_L_ProceduralDistrict.L_ProceduralDistrict:PersistentLevel.BP_FirstPersonCharacter_C_0",
+  "player_location_cm": [
+    -300.0,
+    -900.0,
+    113.14999771118164
+  ]
+}

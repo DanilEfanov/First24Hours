@@ -1,0 +1,11 @@
+import unreal as u,pathlib
+ROOT=pathlib.Path(u.Paths.project_dir()).resolve()
+source=(ROOT/'AgentScripts/39_PolishReferenceCourtyard.py').read_text()
+exec(source[:source.index("leaf=plain(")])
+tree=u.load_asset(BASE+'/Foliage/SM_District_TreeSmall02')
+nanite=tree.get_editor_property('nanite_settings')
+nanite.set_editor_property('shape_preservation',u.NaniteShapePreservation.PRESERVE_AREA)
+tree.set_editor_property('nanite_settings',nanite)
+E.save_loaded_asset(tree)
+exec(source[source.index('colors=[(.038'):])
+u.log('DISTRICT_REFERENCE_POLISH_COMPLETE')

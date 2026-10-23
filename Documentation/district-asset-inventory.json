@@ -1,0 +1,1430 @@
+[
+  {
+    "path": "/Game/FirstPerson/Blueprints/BP_FirstPersonCameraManager",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/Input/Touch/BPI_TouchInterface",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_02_BN",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_02_D",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Shared/T_UE_Logo_M",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Materials/M_Mannequin",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Materials/Manny/MI_Manny_01_New",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_Rubber",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_Sand",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_BinInterior",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_LampGlass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/First24Hours/District/PCG/PCG_District_Decor",
+    "class": "PCGGraph"
+  },
+  {
+    "path": "/Game/First24Hours/District/PCG/PCG_District_Trees",
+    "class": "PCGGraph"
+  },
+  {
+    "path": "/Game/First24Hours/District/PCG/PCG_District_Road",
+    "class": "PCGGraph"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_WetAsphalt",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_WornRoadPaint",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_PH_street_lamp_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_AutumnGround",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/M_FlatCol",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/MI_DefaultColorway",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/FirstPerson/MI_FirstPersonColorway",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_DampConcrete",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_Cube",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_QuarterCylinder",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_Ramp",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_Cylinder",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_QuarterCylinderOuter",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_Plane",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Meshes/SM_ChamferCube",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Edge",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Corner",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Door/Meshes/SM_Door",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_vintage_electric_kettle",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_vintage_electric_kettle_glass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_vintage_electric_kettle",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_vintage_electric_kettle_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_vintage_electric_kettle_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_vintage_electric_kettle_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_sofa_02",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_sofa_02",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_sofa_02_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_sofa_02_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_sofa_02_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_SchoolDesk_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_SchoolDesk_01",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_SchoolDesk_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_SchoolDesk_01_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_SchoolDesk_01_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_painted_wooden_chair_02",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_painted_wooden_chair_02",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_wooden_chair_02_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_wooden_chair_02_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_wooden_chair_02_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_desk_lamp_arm_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_desk_lamp_arm_01_light",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_desk_lamp_arm_01",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_desk_lamp_arm_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_desk_lamp_arm_01_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_desk_lamp_arm_01_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_book_encyclopedia_set_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_book_encyclopedia_set_01_paper",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_paper_roughness_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_paper_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_paper_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_book_encyclopedia_set_01_cover",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_cover_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_cover_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_book_encyclopedia_set_01_cover_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/PolyHaven/SM_PH_alarm_clock_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_alarm_clock_01_Glass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_alarm_clock_01",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_alarm_clock_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_alarm_clock_01_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_alarm_clock_01_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Furniture/SM_Bathroom_Fitted",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Furniture/SM_Kitchen_Fitted",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Sage",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Furniture/SM_Bed_and_Nightstand",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Exterior/SM_Window_Rain",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Rain",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Exterior/SM_City_Backdrop",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_CityWindow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_CityConcrete",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Details/SM_Apartment_Textiles",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Fabric",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Curtain",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Details/SM_Apartment_LivedIn_Details",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Linen",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_fabric_pattern_05_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_fabric_pattern_05_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_fabric_pattern_05_col_01_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Screen",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Black",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Details/SM_Apartment_Fixtures",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Chrome",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Entry_Door",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Walnut",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Brass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Bathroom_TileLining",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_WindowFrames",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Porcelain",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Countertop",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Walls",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Plaster",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_plaster_wall_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_plaster_wall_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_painted_plaster_wall_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Joinery",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Trim",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Glass",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Glass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Floors",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Tile",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_floor_tiles_04_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_floor_tiles_04_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_floor_tiles_04_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Parquet",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_wood_floor_worn_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_wood_floor_worn_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Textures/T_wood_floor_worn_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Architecture/SM_Apartment_Ceiling",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_Ceiling",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/StaticMeshes/low_poly_soviet_cars",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/White_Sore",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/White",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/UazBack",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/TurnLight",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/StopLight",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Metal_2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Metal",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Krem",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Green",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Glass",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Frontlight",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Car_Color",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/BusColor2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Black_2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Black",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Vehicles/SovietCars/low_poly_soviet_cars/Materials/Backlight",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/WallScene",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/Panel1",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_21",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_17",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_6",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_8",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_9",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_2",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_3",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_4",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_5",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_15",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_16",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_7",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_0",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_1",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_18",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_19",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_13",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_14",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_10",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_11",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_12",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Textures/nine_story_building_of_the_post_soviet_texture_20",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/ads_002",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/asphalt",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/black",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/bricks",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate3",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate4",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/glass",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_001",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_002",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_003",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_004",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_005",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/rusted_metal",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood_002",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/StaticMeshes/nine_story_building_of_the_post_soviet",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Weather/NS_District_Rain",
+    "class": "NiagaraSystem"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_branch_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/M_District_Tree_leaves",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_branch_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_leaves_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_branch_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/M_District_Tree_trunk",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_leaves_alpha_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/M_District_Tree_branches",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_leaves_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/SM_District_TreeSmall02",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/Textures/T_tree_small_02_leaves_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Weather/M_OvercastSkyDome",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Weather/S_Rain_Outdoor_Stereo",
+    "class": "SoundWave"
+  },
+  {
+    "path": "/Game/First24Hours/District/Weather/M_District_RainStreak",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_GardenFence_2m",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_Concrete",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_FadedBlue",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_FadedRed",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_FadedYellow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_PaintedSteel",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_WornWood",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_RustedSteel",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Bench_180cm",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitterBin",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Puddle",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_StreetLamp_5m",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_forest_leaves_02_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_cbe8aaaa64272089",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_concrate",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Sandpit",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_0",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_LeafPatch",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_concrete_pavement_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_forest_leaves_02_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Swing",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_chrome",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_BinEnclosure",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_asphalt_03_rough_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_PH_painted_wooden_sofa_body",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_concrete_pavement_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Car_00",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Roundabout",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Car_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_asphalt_03_nor_dx_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Car_02",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_1",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_forest_leaves_02_diffuse_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Car_03",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_Car_04",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_concrete_pavement_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_PlayTowerSlide",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_asphalt_03_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_PH_painted_wooden_sofa",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_5",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_4",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_3",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_CarPaint_2",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_Puddle",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_District_LeafOchre",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_PH_street_lamp_01_body",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_PH_street_lamp_01_glass",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_green_metal",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_CC0_ModernSedan",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_8327d52b663c00e5",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_street_lamp_01_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_street_lamp_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_4bcff7fad9af8566",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_PH_street_lamp_01_bulb",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_street_lamp_01_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_painted_wooden_sofa_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_ee155a5067aedc58",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_painted_wooden_sofa_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_black_002",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_paint",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_painted_wooden_sofa_arm_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_black_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_interior",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_rubber_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_52f8b1ed1a99caf4",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_steel_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_clearlens",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_9212da0fd441a2b7",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_redlens",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_c351c4d86278de41",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_10d0ca0820fbb5ff",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_white",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_94514975ee623773",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Sedan_glass_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_04bb40fd71d1020a",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_fdd2d86daa7aedfc",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_seat",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_rubber_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_clearlens",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_interior",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_chrome",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_CC0_ModernWagon",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_paint",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_black_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_paint_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_glass_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_steel_001",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_fe32096c1160c0fc",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_white",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Materials/M_CC0_Wagon_redlens",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_b6897ef21ce186c6",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_green_metal2",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_concrate2",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_concrate4",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_Facade_concrate3",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_grass_medium_01_dry_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/M_PH_grass_medium_01",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/SM_PH_shrub_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/M_PH_shrub_01",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Foliage/SM_PH_grass_medium_01",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Materials/M_District_OccupiedWindow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_shrub_01_diff_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitWindows_0",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_shrub_01_alpha_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_shrub_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_grass_medium_01_alpha_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Textures/T_PH_grass_medium_01_nor_gl_2k",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitWindows_1",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitWindows_2",
+    "class": "StaticMesh"
+  },
+  {
+    "path": "/Game/First24Hours/Maps/L_ProceduralDistrict",
+    "class": "World"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/internal_ground_ao_texture",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_ambientOcclusion",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_basecolor",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_height",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_metallic",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_normal",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Assets/Environment/PanelHouseTiles/PanelHouse_roughness",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Materials/Quinn/MI_Quinn_01",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Materials/Quinn/MI_Quinn_02",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Manny/T_Manny_02_N",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N",
+    "class": "Texture2D"
+  },
+  {
+    "path": "/Game/First24Hours/Art/Materials/M_WarmGlow",
+    "class": "Material"
+  },
+  {
+    "path": "/Game/First24Hours/Audio/S_Rain_Interior_Loop",
+    "class": "SoundWave"
+  },
+  {
+    "path": "/Game/First24Hours/Blueprints/BP_ApartmentCharacter",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/First24Hours/Blueprints/BP_ApartmentGameMode",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/First24Hours/Maps/L_Apartment_0400",
+    "class": "World"
+  },
+  {
+    "path": "/Game/FirstPerson/Lvl_FirstPerson",
+    "class": "World"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Door/BP_DoorFrame",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad",
+    "class": "NiagaraSystem"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/MI_GlowNT",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Interactable/Target/BP_WobbleTarget",
+    "class": "Blueprint"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_Round",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "path": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark",
+    "class": "MaterialInstanceConstant"
+  }
+]

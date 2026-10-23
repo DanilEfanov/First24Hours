@@ -1,0 +1,372 @@
+[
+  {
+    "label": "District_PCG_Road",
+    "location": "<Struct 'Vector' (0x000001B8E258DC30) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+    "components": [
+      {
+        "name": "BrushComponent0",
+        "class": "BrushComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DC30) {x: 0.000000, y: 0.000000, z: 0.000000}>"
+      },
+      {
+        "name": "SplineComponent_23",
+        "class": "SplineComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DCD0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "points": [
+          "<Struct 'Vector' (0x000001B8E258DCD0) {x: -6600.000000, y: -2950.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258DCD0) {x: -4300.000000, y: -2950.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258DCD0) {x: -3850.000000, y: -2600.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258DCD0) {x: -3450.000000, y: -1600.000000, z: 0.000000}>"
+        ]
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_21",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D690) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258DBE0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E400) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258DBE0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "SplineComponent_22",
+        "class": "SplineComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E400) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "points": [
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3450.000000, y: 1600.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3408.133743, y: 1810.475888, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3288.908730, y: 1988.908730, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3110.475888, y: 2108.133743, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 2900.000000, y: 2150.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -2900.000000, y: 2150.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3110.475888, y: 2108.133743, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3288.908730, y: 1988.908730, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3408.133743, y: 1810.475888, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3450.000000, y: 1600.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3450.000000, y: -1600.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3408.133743, y: -1810.475888, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3288.908730, y: -1988.908730, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -3110.475888, y: -2108.133743, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: -2900.000000, y: -2150.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 2900.000000, y: -2150.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3110.475888, y: -2108.133743, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3288.908730, y: -1988.908730, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3408.133743, y: -1810.475888, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258E400) {x: 3450.000000, y: -1600.000000, z: 0.000000}>"
+        ]
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_2",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D9B0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D960) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D910) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D960) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_3",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E770) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E4F0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E590) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E4F0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_4",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E950) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E360) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E6D0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E360) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_5",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E630) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E540) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E4A0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E540) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_6",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E860) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E5E0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258EDB0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E5E0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_7",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258EEF0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258EA40) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E450) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258EA40) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_8",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DD20) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CE70) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CEC0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CE70) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_9",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CF10) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CF60) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CFB0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CF60) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_10",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D000) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D050) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D0A0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D050) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_11",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D0F0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D140) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D190) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D140) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_12",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D1E0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D230) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D280) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D230) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_13",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D2D0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D320) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D370) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D320) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_14",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D3C0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D410) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D460) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D410) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_15",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D4B0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258D500) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258D550) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258D500) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_16",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258D5A0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E720) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258EF40) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E720) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_17",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E9F0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E680) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258EE00) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E680) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_18",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258E220) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258E040) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258E090) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258E040) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_19",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DFF0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258DFA0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258DF50) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258DFA0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_20",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DF00) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258DEB0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258DE60) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258DEB0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_22",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DE10) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258DDC0) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258DD70) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258DDC0) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_23",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258DC80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CE20) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CDD0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CE20) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_24",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CD80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CD30) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CCE0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CD30) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_25",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CC90) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CC40) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CBF0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CC40) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "SplineComponent_24",
+        "class": "SplineComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CBF0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "points": [
+          "<Struct 'Vector' (0x000001B8E258CBF0) {x: -6200.000000, y: -5000.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258CBF0) {x: 6200.000000, y: -5000.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258CBF0) {x: 6200.000000, y: 5000.000000, z: 0.000000}>",
+          "<Struct 'Vector' (0x000001B8E258CBF0) {x: -6200.000000, y: 5000.000000, z: 0.000000}>"
+        ]
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_26",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CB50) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CB00) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258CAB0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CB00) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_27",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258CA60) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258CA10) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258C9C0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258CA10) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      },
+      {
+        "name": "PCGSplineMeshComponent_Cube_28",
+        "class": "SplineMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C970) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_WetAsphalt.M_District_WetAsphalt",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258C920) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258C8D0) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258C920) {x: 1.000000, y: 1.000000, z: 1.000000}>"
+      }
+    ]
+  },
+  {
+    "label": "District_PCG_Trees",
+    "location": "<Struct 'Vector' (0x000001B8E258C8D0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+    "components": [
+      {
+        "name": "BrushComponent0",
+        "class": "BrushComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C8D0) {x: 0.000000, y: 0.000000, z: 0.000000}>"
+      },
+      {
+        "name": "ISM_SM_District_TreeSmall02_0",
+        "class": "InstancedStaticMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C830) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Game/First24Hours/District/Foliage/SM_District_TreeSmall02.SM_District_TreeSmall02",
+        "material": "/Game/First24Hours/District/Foliage/M_District_Tree_branches.M_District_Tree_branches",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258C830) {x: -130.899338, y: -138.262680, z: 0.000000}>, <Struct 'Vector' (0x000001B8E258C7E0) {x: 160.770645, y: 290.985046, z: 455.674072}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258C830) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "count": 51
+      }
+    ]
+  },
+  {
+    "label": "District_PCG_Decor",
+    "location": "<Struct 'Vector' (0x000001B8E258C7E0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+    "components": [
+      {
+        "name": "BrushComponent0",
+        "class": "BrushComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C7E0) {x: 0.000000, y: 0.000000, z: 0.000000}>"
+      },
+      {
+        "name": "ISM_SM_District_Bench_180cm_0",
+        "class": "InstancedStaticMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C740) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Game/First24Hours/District/Kit/Meshes/SM_District_Bench_180cm.SM_District_Bench_180cm",
+        "material": "/Game/First24Hours/District/Kit/Materials/M_District_PaintedSteel.M_District_PaintedSteel",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258C740) {x: -90.000000, y: -38.483692, z: 0.000000}>, <Struct 'Vector' (0x000001B8E258C6F0) {x: 90.000008, y: 25.000004, z: 98.306648}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258C740) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "count": 10
+      },
+      {
+        "name": "ISM_SM_District_LitterBin_0",
+        "class": "InstancedStaticMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C6A0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "mesh": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitterBin.SM_District_LitterBin",
+        "material": "/Game/First24Hours/District/Kit/Materials/M_District_PaintedSteel.M_District_PaintedSteel",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258C6A0) {x: -29.199999, y: -25.200001, z: 0.000000}>, <Struct 'Vector' (0x000001B8E258C650) {x: 29.199999, y: 25.200001, z: 77.200005}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258C6A0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "label": "District_DistrictGround_001",
+    "location": "<Struct 'Vector' (0x000001B8E258C650) {x: 0.000000, y: 0.000000, z: -31.000000}>",
+    "components": [
+      {
+        "name": "StaticMeshComponent0",
+        "class": "StaticMeshComponent",
+        "location": "<Struct 'Vector' (0x000001B8E258C5B0) {x: 0.000000, y: 0.000000, z: -31.000000}>",
+        "mesh": "/Engine/BasicShapes/Cube.Cube",
+        "material": "/Game/First24Hours/District/Materials/M_District_AutumnGround.M_District_AutumnGround",
+        "bounds": "(<Struct 'Vector' (0x000001B8E258C560) {x: -50.000000, y: -50.000000, z: -50.000000}>, <Struct 'Vector' (0x000001B8E258C510) {x: 50.000000, y: 50.000000, z: 50.000000}>)",
+        "scale": "<Struct 'Vector' (0x000001B8E258C560) {x: 235.000000, y: 220.000000, z: 0.600000}>"
+      }
+    ]
+  }
+]

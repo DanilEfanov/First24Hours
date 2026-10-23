@@ -1,0 +1,3967 @@
+{
+  "source": "https://www.innerscene.com/tools/library/3d-parts/generic-station-wagon-estate-car-dec07098",
+  "license": "CC0",
+  "sha256": "a539bc49a3226b10d082f14e2d847cdd1f2b371171eb6b550faa16a40f5b4ea6",
+  "objects": [
+    {
+      "name": "Aerodynamic mirror lower housing",
+      "dimensions": [
+        0.2399999052286148,
+        0.18999996781349182,
+        0.11599999666213989
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror lower housing.001",
+      "dimensions": [
+        0.2399999052286148,
+        0.18999996781349182,
+        0.11599999666213989
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror painted cap",
+      "dimensions": [
+        0.22999992966651917,
+        0.18399997055530548,
+        0.08799999952316284
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror painted cap.001",
+      "dimensions": [
+        0.22999992966651917,
+        0.18399997055530548,
+        0.08799999952316284
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Brake caliper",
+      "dimensions": [
+        0.07000000029802322,
+        0.054999999701976776,
+        0.14000000059604645
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.001",
+      "dimensions": [
+        0.07000000029802322,
+        0.054999999701976776,
+        0.14000000059604645
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.002",
+      "dimensions": [
+        0.07000000029802322,
+        0.054999999701976776,
+        0.14000000059604645
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.003",
+      "dimensions": [
+        0.07000000029802322,
+        0.054999999701976776,
+        0.14000000059604645
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Cast swept alloy spoke",
+      "dimensions": [
+        0.13859999179840088,
+        0.02799999713897705,
+        0.06999999284744263
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.001",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.15035748481750488
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.002",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000807166099548
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.003",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000810146331787
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.004",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.1503574550151825
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.005",
+      "dimensions": [
+        0.13859999179840088,
+        0.02799999713897705,
+        0.06999999284744263
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.006",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.15035748481750488
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.007",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000807166099548
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.008",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000810146331787
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.009",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.1503574550151825
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.010",
+      "dimensions": [
+        0.13859999179840088,
+        0.02799999713897705,
+        0.06999999284744263
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.011",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.15035748481750488
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.012",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000807166099548
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.013",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000810146331787
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.014",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.1503574550151825
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.015",
+      "dimensions": [
+        0.13859999179840088,
+        0.02799999713897705,
+        0.06999999284744263
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.016",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.15035748481750488
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.017",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000807166099548
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.018",
+      "dimensions": [
+        0.14739680290222168,
+        0.02799999713897705,
+        0.13000810146331787
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Cast swept alloy spoke.019",
+      "dimensions": [
+        0.09989309310913086,
+        0.02799999713897705,
+        0.1503574550151825
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Center console",
+      "dimensions": [
+        0.75,
+        0.20999999344348907,
+        0.25
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Clear reversing lens insert",
+      "dimensions": [
+        0.006000000052154064,
+        0.10999999940395355,
+        0.02500000037252903
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Clear reversing lens insert.001",
+      "dimensions": [
+        0.006000000052154064,
+        0.10999999940395355,
+        0.02500000037252903
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Continuous circumferential tread rib",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.001",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.002",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.003",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.004",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.005",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.006",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.007",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.008",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.009",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.010",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Continuous circumferential tread rib.011",
+      "dimensions": [
+        0.6360001564025879,
+        0.004999995231628418,
+        0.6359999775886536
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Contoured seat back",
+      "dimensions": [
+        0.15999993681907654,
+        0.43999993801116943,
+        0.52920001745224
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.001",
+      "dimensions": [
+        0.15999993681907654,
+        0.43999993801116943,
+        0.52920001745224
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.002",
+      "dimensions": [
+        0.15999993681907654,
+        0.43999993801116943,
+        0.52920001745224
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.003",
+      "dimensions": [
+        0.15999993681907654,
+        0.43999993801116943,
+        0.52920001745224
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion",
+      "dimensions": [
+        0.5199997425079346,
+        0.43999993801116943,
+        0.18000000715255737
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.001",
+      "dimensions": [
+        0.5199997425079346,
+        0.43999993801116943,
+        0.18000000715255737
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.002",
+      "dimensions": [
+        0.5199997425079346,
+        0.43999993801116943,
+        0.18000000715255737
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.003",
+      "dimensions": [
+        0.5199997425079346,
+        0.43999993801116943,
+        0.18000000715255737
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Crowned roof pressing",
+      "dimensions": [
+        2.3360066413879395,
+        1.397830843925476,
+        0.08821690082550049
+      ],
+      "polygons": 2080
+    },
+    {
+      "name": "Deep wheel barrel inner lip",
+      "dimensions": [
+        0.4145998954772949,
+        0.024000048637390137,
+        0.41460004448890686
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Deep wheel barrel inner lip.001",
+      "dimensions": [
+        0.4145998954772949,
+        0.024000048637390137,
+        0.41460004448890686
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Deep wheel barrel inner lip.002",
+      "dimensions": [
+        0.4145998954772949,
+        0.024000048637390137,
+        0.41460004448890686
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Deep wheel barrel inner lip.003",
+      "dimensions": [
+        0.4145998954772949,
+        0.024000048637390137,
+        0.41460004448890686
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Directional tread segment",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.001",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.002",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.003",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.004",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.005",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.006",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.007",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.008",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.009",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.010",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040420055389404
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.011",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.012",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.013",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.014",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.015",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.016",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.017",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.018",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.019",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.020",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.021",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.022",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.023",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.024",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.025",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.026",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.027",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.028",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.029",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.030",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040447063744068
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.031",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.032",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.033",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.034",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.035",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.036",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.037",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.038",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.039",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.040",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.041",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.042",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.043",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.044",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.045",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.046",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.047",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.048",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.049",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.050",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040420055389404
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.051",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.052",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.053",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.054",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.055",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.056",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.057",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.058",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.059",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.060",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.061",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.062",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.063",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.064",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.065",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.066",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.067",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.068",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.069",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.070",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040447063744068
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.071",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.072",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.073",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.074",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.075",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.076",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.077",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.078",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.079",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.080",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.081",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.082",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.083",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.084",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.085",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.086",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.087",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.088",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.089",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.090",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040420055389404
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.091",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.092",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.093",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.094",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.095",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.096",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.097",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.098",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.099",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.100",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.101",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.102",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.103",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.104",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.105",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.106",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.107",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.108",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.109",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.110",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040447063744068
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.111",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.112",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.113",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.114",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.115",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.116",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.117",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.118",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.119",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.120",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.121",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.122",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.123",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.124",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.125",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.126",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.127",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.128",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.129",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.130",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040420055389404
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.131",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581557750701904
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.132",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123827934265137
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.133",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588612079620361
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.134",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.00994032621383667
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.135",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145412921905518
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.136",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174546718597412
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.137",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.138",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608545064926147
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.139",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978302478790283
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.140",
+      "dimensions": [
+        0.004040360450744629,
+        0.15076810121536255,
+        0.014102578163146973
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.141",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.142",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.143",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.144",
+      "dimensions": [
+        0.009940266609191895,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.145",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.146",
+      "dimensions": [
+        0.012174606323242188,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.147",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.148",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.149",
+      "dimensions": [
+        0.013978242874145508,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.150",
+      "dimensions": [
+        0.014102458953857422,
+        0.15076810121536255,
+        0.004040447063744068
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.151",
+      "dimensions": [
+        0.013978123664855957,
+        0.15076488256454468,
+        0.005581576842814684
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.152",
+      "dimensions": [
+        0.013608574867248535,
+        0.15075504779815674,
+        0.007123788818717003
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.153",
+      "dimensions": [
+        0.013002276420593262,
+        0.1507549285888672,
+        0.008588701486587524
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.154",
+      "dimensions": [
+        0.012174487113952637,
+        0.15076476335525513,
+        0.009940322488546371
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.155",
+      "dimensions": [
+        0.011145472526550293,
+        0.15076810121536255,
+        0.011145465075969696
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.156",
+      "dimensions": [
+        0.009940385818481445,
+        0.15076488256454468,
+        0.012174561619758606
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.157",
+      "dimensions": [
+        0.008588671684265137,
+        0.15075504779815674,
+        0.013002336025238037
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.158",
+      "dimensions": [
+        0.007123827934265137,
+        0.1507549285888672,
+        0.013608530163764954
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Directional tread segment.159",
+      "dimensions": [
+        0.005581498146057129,
+        0.1507648229598999,
+        0.013978272676467896
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Door pull",
+      "dimensions": [
+        0.14000000059604645,
+        0.02199999988079071,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Door pull.001",
+      "dimensions": [
+        0.14000000059604645,
+        0.02199999988079071,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Door pull.002",
+      "dimensions": [
+        0.14000000059604645,
+        0.02199999988079071,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Door pull.003",
+      "dimensions": [
+        0.14000000059604645,
+        0.02199999988079071,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Door shut seam",
+      "dimensions": [
+        0.9968499541282654,
+        0.29121822118759155,
+        0.7417975664138794
+      ],
+      "polygons": 1772
+    },
+    {
+      "name": "Door shut seam.001",
+      "dimensions": [
+        1.1871000528335571,
+        0.2882239818572998,
+        0.741783857345581
+      ],
+      "polygons": 3372
+    },
+    {
+      "name": "Door shut seam.002",
+      "dimensions": [
+        0.9968499541282654,
+        0.29120683670043945,
+        0.7417975664138794
+      ],
+      "polygons": 1772
+    },
+    {
+      "name": "Door shut seam.003",
+      "dimensions": [
+        1.1871000528335571,
+        0.28822773694992065,
+        0.741783857345581
+      ],
+      "polygons": 3372
+    },
+    {
+      "name": "Exhaust dark bore",
+      "dimensions": [
+        0.057999998331069946,
+        0.057999998331069946,
+        0.003000000026077032
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust dark bore.001",
+      "dimensions": [
+        0.057999998331069946,
+        0.057999998331069946,
+        0.003000000026077032
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust polished outer tip",
+      "dimensions": [
+        0.07199999690055847,
+        0.07199999690055847,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust polished outer tip.001",
+      "dimensions": [
+        0.07199999690055847,
+        0.07199999690055847,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Extended rear quarter glazing",
+      "dimensions": [
+        0.8739030361175537,
+        0.12445992231369019,
+        0.4182807207107544
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Extended rear quarter glazing rubber seal",
+      "dimensions": [
+        0.8807237148284912,
+        0.13049834966659546,
+        0.42664551734924316
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Extended rear quarter glazing rubber seal.001",
+      "dimensions": [
+        0.8807237148284912,
+        0.13049834966659546,
+        0.42664551734924316
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Extended rear quarter glazing.001",
+      "dimensions": [
+        0.8739030361175537,
+        0.12445992231369019,
+        0.4182807207107544
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Faceted headlamp reflector interior",
+      "dimensions": [
+        0.05223441123962402,
+        0.3006560206413269,
+        0.09890002012252808
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Faceted headlamp reflector interior.001",
+      "dimensions": [
+        0.05231976509094238,
+        0.3006560206413269,
+        0.09890002012252808
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Fine headlamp perimeter gasket",
+      "dimensions": [
+        0.059355974197387695,
+        0.3575775921344757,
+        0.12297689914703369
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Fine headlamp perimeter gasket.001",
+      "dimensions": [
+        0.05945277214050293,
+        0.3575778603553772,
+        0.12297689914703369
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Flat B-pillar",
+      "dimensions": [
+        0.07000000029802322,
+        0.13497906923294067,
+        0.4211139678955078
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flat B-pillar.001",
+      "dimensions": [
+        0.07000000029802322,
+        0.13497906923294067,
+        0.4211139678955078
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush corner wrapping ruby lamp lens",
+      "dimensions": [
+        0.1515488624572754,
+        0.39560002088546753,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush corner wrapping ruby lamp lens.001",
+      "dimensions": [
+        0.15154314041137695,
+        0.39560002088546753,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush handle recess",
+      "dimensions": [
+        0.17000000178813934,
+        0.017999999225139618,
+        0.035999998450279236
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Flush handle recess.001",
+      "dimensions": [
+        0.17000000178813934,
+        0.017999999225139618,
+        0.035999998450279236
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Flush handle recess.002",
+      "dimensions": [
+        0.17000000178813934,
+        0.017999999225139618,
+        0.035999998450279236
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Flush handle recess.003",
+      "dimensions": [
+        0.17000000178813934,
+        0.017999999225139618,
+        0.035999998450279236
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Flush swept transparent headlamp lens",
+      "dimensions": [
+        0.056435585021972656,
+        0.3495999872684479,
+        0.11500000953674316
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush swept transparent headlamp lens.001",
+      "dimensions": [
+        0.056534767150878906,
+        0.3495999872684479,
+        0.11500000953674316
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Fog flush lens",
+      "dimensions": [
+        0.014000004157423973,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Fog flush lens.001",
+      "dimensions": [
+        0.014000004157423973,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Fog lamp recessed housing",
+      "dimensions": [
+        0.02500000037252903,
+        0.14499999582767487,
+        0.09799999743700027
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Fog lamp recessed housing.001",
+      "dimensions": [
+        0.02500000037252903,
+        0.14499999582767487,
+        0.09799999743700027
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Fog reflector",
+      "dimensions": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.014999999664723873
+      ],
+      "polygons": 92
+    },
+    {
+      "name": "Fog reflector.001",
+      "dimensions": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.014999999664723873
+      ],
+      "polygons": 92
+    },
+    {
+      "name": "Formed painted rear bumper cover",
+      "dimensions": [
+        0.13204503059387207,
+        1.5823999643325806,
+        0.1883000135421753
+      ],
+      "polygons": 604
+    },
+    {
+      "name": "Front bumper continuous shut line",
+      "dimensions": [
+        0.03387737274169922,
+        1.4363532066345215,
+        0.029990345239639282
+      ],
+      "polygons": 492
+    },
+    {
+      "name": "Front door transparent glass",
+      "dimensions": [
+        1.2063692808151245,
+        0.12445998191833496,
+        0.41828060150146484
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Front door transparent glass rubber seal",
+      "dimensions": [
+        1.212783932685852,
+        0.13054627180099487,
+        0.42710232734680176
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Front door transparent glass rubber seal.001",
+      "dimensions": [
+        1.212783932685852,
+        0.13054627180099487,
+        0.42710232734680176
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Front door transparent glass.001",
+      "dimensions": [
+        1.2063692808151245,
+        0.12445998191833496,
+        0.41828060150146484
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Front license plate",
+      "dimensions": [
+        0.012000000104308128,
+        0.3199999928474426,
+        0.0729999989271164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Front splitter",
+      "dimensions": [
+        0.10341405868530273,
+        1.371882438659668,
+        0.04799693822860718
+      ],
+      "polygons": 60
+    },
+    {
+      "name": "Grille inner mesh",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.001",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.002",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.003",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.004",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.005",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.006",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.007",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.008",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.009",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.010",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.011",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.012",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.013",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.014",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.015",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.016",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.017",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.018",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.019",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.020",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.021",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.022",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.023",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille shadow cavity",
+      "dimensions": [
+        0.03500000014901161,
+        0.8464000225067139,
+        0.19499999284744263
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Headlamp deep graphite housing",
+      "dimensions": [
+        0.0704355239868164,
+        0.3495999872684479,
+        0.11500000953674316
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Headlamp deep graphite housing.001",
+      "dimensions": [
+        0.07053470611572266,
+        0.3495999872684479,
+        0.11500000953674316
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Hood panel break",
+      "dimensions": [
+        0.646188497543335,
+        1.4730583429336548,
+        0.08980578184127808
+      ],
+      "polygons": 812
+    },
+    {
+      "name": "Integrated rear quarter pillar",
+      "dimensions": [
+        0.5253485441207886,
+        0.11470293998718262,
+        0.4893811345100403
+      ],
+      "polygons": 1152
+    },
+    {
+      "name": "Integrated rear quarter pillar.001",
+      "dimensions": [
+        0.5253491401672363,
+        0.11449593305587769,
+        0.48763900995254517
+      ],
+      "polygons": 1152
+    },
+    {
+      "name": "Interior carpet",
+      "dimensions": [
+        3.367500066757202,
+        1.4536000490188599,
+        0.03500000014901161
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge.001",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge.002",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake recessed mesh",
+      "dimensions": [
+        0.02800000086426735,
+        1.030400037765503,
+        0.09000000357627869
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Machined alloy outer rim lip",
+      "dimensions": [
+        0.41659998893737793,
+        0.026000022888183594,
+        0.4166000485420227
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Machined alloy outer rim lip.001",
+      "dimensions": [
+        0.41659998893737793,
+        0.026000022888183594,
+        0.4166000485420227
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Machined alloy outer rim lip.002",
+      "dimensions": [
+        0.41659998893737793,
+        0.026000022888183594,
+        0.4166000485420227
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Machined alloy outer rim lip.003",
+      "dimensions": [
+        0.41659998893737793,
+        0.026000022888183594,
+        0.4166000485420227
+      ],
+      "polygons": 1536
+    },
+    {
+      "name": "Mirror reflective insert",
+      "dimensions": [
+        0.015999995172023773,
+        0.1499999761581421,
+        0.07400000095367432
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Mirror reflective insert.001",
+      "dimensions": [
+        0.015999995172023773,
+        0.1499999761581421,
+        0.07400000095367432
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Original station_wagon fourteen-section body shell",
+      "dimensions": [
+        4.7439961433410645,
+        1.8362454175949097,
+        0.8480735421180725
+      ],
+      "polygons": 8523
+    },
+    {
+      "name": "Original tyre carcass and shaped sidewalls",
+      "dimensions": [
+        0.6299999952316284,
+        0.2193000316619873,
+        0.6299999952316284
+      ],
+      "polygons": 1920
+    },
+    {
+      "name": "Original tyre carcass and shaped sidewalls.001",
+      "dimensions": [
+        0.6299999952316284,
+        0.2193000316619873,
+        0.6299999952316284
+      ],
+      "polygons": 1920
+    },
+    {
+      "name": "Original tyre carcass and shaped sidewalls.002",
+      "dimensions": [
+        0.6299999952316284,
+        0.2193000316619873,
+        0.6299999952316284
+      ],
+      "polygons": 1920
+    },
+    {
+      "name": "Original tyre carcass and shaped sidewalls.003",
+      "dimensions": [
+        0.6299999952316284,
+        0.2193000316619873,
+        0.6299999952316284
+      ],
+      "polygons": 1920
+    },
+    {
+      "name": "Painted rear glass sill",
+      "dimensions": [
+        0.07221531867980957,
+        1.674399971961975,
+        0.2528004050254822
+      ],
+      "polygons": 884
+    },
+    {
+      "name": "Pressed A-pillar",
+      "dimensions": [
+        0.7713838219642639,
+        0.13716965913772583,
+        0.4555727243423462
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Pressed A-pillar.001",
+      "dimensions": [
+        0.7713838219642639,
+        0.13716965913772583,
+        0.4555727243423462
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Pressed roof side flange",
+      "dimensions": [
+        2.358173370361328,
+        0.012000024318695068,
+        0.032000064849853516
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Pressed roof side flange.001",
+      "dimensions": [
+        2.358173370361328,
+        0.012000024318695068,
+        0.032000064849853516
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Raked transparent windscreen",
+      "dimensions": [
+        0.7295466661453247,
+        1.6744362115859985,
+        0.42116689682006836
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Raked transparent windscreen rubber seal",
+      "dimensions": [
+        0.7367916703224182,
+        1.679356336593628,
+        0.42738938331604004
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear bumper corner joint",
+      "dimensions": [
+        0.26331520080566406,
+        0.09530472755432129,
+        0.020991504192352295
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper corner joint.001",
+      "dimensions": [
+        0.263324499130249,
+        0.09527087211608887,
+        0.020991504192352295
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper formed corner",
+      "dimensions": [
+        0.2635495662689209,
+        0.11552160978317261,
+        0.17203110456466675
+      ],
+      "polygons": 548
+    },
+    {
+      "name": "Rear bumper formed corner.001",
+      "dimensions": [
+        0.2635483741760254,
+        0.11559045314788818,
+        0.17203152179718018
+      ],
+      "polygons": 548
+    },
+    {
+      "name": "Rear bumper joint clear of plate recess",
+      "dimensions": [
+        0.08068108558654785,
+        0.4738597869873047,
+        0.01999831199645996
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper joint clear of plate recess.001",
+      "dimensions": [
+        0.08053350448608398,
+        0.4738765358924866,
+        0.019998371601104736
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear door transparent glass",
+      "dimensions": [
+        1.1526590585708618,
+        0.12445998191833496,
+        0.41828107833862305
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Rear door transparent glass rubber seal",
+      "dimensions": [
+        1.1562026739120483,
+        0.13054126501083374,
+        0.4270508289337158
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear door transparent glass rubber seal.001",
+      "dimensions": [
+        1.1562026739120483,
+        0.13054126501083374,
+        0.4270508289337158
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear door transparent glass.001",
+      "dimensions": [
+        1.1526590585708618,
+        0.12445998191833496,
+        0.41828107833862305
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Rear parking sensor",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.001",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.002",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.003",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear plate recessed back",
+      "dimensions": [
+        0.014000000432133675,
+        0.5400000214576721,
+        0.14499999582767487
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear quarter window divider",
+      "dimensions": [
+        0.04399991035461426,
+        0.16189247369766235,
+        0.42883849143981934
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rear quarter window divider.001",
+      "dimensions": [
+        0.04399991035461426,
+        0.16189247369766235,
+        0.42883849143981934
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rear registration plate",
+      "dimensions": [
+        0.014000000432133675,
+        0.38999998569488525,
+        0.08500000089406967
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear transparent hatch glass",
+      "dimensions": [
+        0.4410731792449951,
+        1.6744362115859985,
+        0.38571441173553467
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Rear transparent hatch glass rubber seal",
+      "dimensions": [
+        0.44808876514434814,
+        1.6782288551330566,
+        0.3924051523208618
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Recessed grille blade",
+      "dimensions": [
+        0.02500000037252903,
+        0.8371999859809875,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.001",
+      "dimensions": [
+        0.02500000037252903,
+        0.8371999859809875,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.002",
+      "dimensions": [
+        0.02500000037252903,
+        0.8371999859809875,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.003",
+      "dimensions": [
+        0.02500000037252903,
+        0.8371999859809875,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.004",
+      "dimensions": [
+        0.02500000037252903,
+        0.8371999859809875,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed projector optical glass",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.001",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.002",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.003",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector reflector",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.001",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.002",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.003",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Rolled fender lip",
+      "dimensions": [
+        0.7559807300567627,
+        0.03600001335144043,
+        0.3785889446735382
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.001",
+      "dimensions": [
+        0.7559807300567627,
+        0.03600001335144043,
+        0.3785889446735382
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.002",
+      "dimensions": [
+        0.7559807300567627,
+        0.03600001335144043,
+        0.3785889446735382
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.003",
+      "dimensions": [
+        0.7559807300567627,
+        0.03600001335144043,
+        0.3785889446735382
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Roof rail",
+      "dimensions": [
+        2.1436097621917725,
+        0.03600001335144043,
+        0.07941019535064697
+      ],
+      "polygons": 60
+    },
+    {
+      "name": "Roof rail.001",
+      "dimensions": [
+        2.1436097621917725,
+        0.03600001335144043,
+        0.07941019535064697
+      ],
+      "polygons": 60
+    },
+    {
+      "name": "Satin grille surround",
+      "dimensions": [
+        0.031999826431274414,
+        0.8888616561889648,
+        0.22037607431411743
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Sculpted instrument panel",
+      "dimensions": [
+        0.3400000035762787,
+        1.4351999759674072,
+        0.17000000178813934
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Sculpted rear lower bumper insert",
+      "dimensions": [
+        0.040137290954589844,
+        1.3616000413894653,
+        0.1255643665790558
+      ],
+      "polygons": 696
+    },
+    {
+      "name": "Seat head restraint",
+      "dimensions": [
+        0.1600000411272049,
+        0.2600000202655792,
+        0.14000000059604645
+      ],
+      "polygons": 360
+    },
+    {
+      "name": "Seat head restraint.001",
+      "dimensions": [
+        0.1600000411272049,
+        0.2600000202655792,
+        0.14000000059604645
+      ],
+      "polygons": 360
+    },
+    {
+      "name": "Seat head restraint.002",
+      "dimensions": [
+        0.1600000411272049,
+        0.2600000202655792,
+        0.14000000059604645
+      ],
+      "polygons": 360
+    },
+    {
+      "name": "Seat head restraint.003",
+      "dimensions": [
+        0.1600000411272049,
+        0.2600000202655792,
+        0.14000000059604645
+      ],
+      "polygons": 360
+    },
+    {
+      "name": "Separate closed door panel",
+      "dimensions": [
+        0.9912499785423279,
+        0.32391631603240967,
+        0.7232999801635742
+      ],
+      "polygons": 498
+    },
+    {
+      "name": "Separate closed door panel.001",
+      "dimensions": [
+        1.1815000772476196,
+        0.32911205291748047,
+        0.7232999801635742
+      ],
+      "polygons": 568
+    },
+    {
+      "name": "Separate closed door panel.002",
+      "dimensions": [
+        0.9912499785423279,
+        0.32391631603240967,
+        0.7232999801635742
+      ],
+      "polygons": 500
+    },
+    {
+      "name": "Separate closed door panel.003",
+      "dimensions": [
+        1.1815000772476196,
+        0.3291119933128357,
+        0.7232999801635742
+      ],
+      "polygons": 568
+    },
+    {
+      "name": "Short mirror plinth",
+      "dimensions": [
+        0.06799999624490738,
+        0.06800000369548798,
+        0.1426534205675125
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Short mirror plinth.001",
+      "dimensions": [
+        0.06800001114606857,
+        0.06800000369548798,
+        0.1426534354686737
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering boss",
+      "dimensions": [
+        0.07000002264976501,
+        0.11000001430511475,
+        0.07999999821186066
+      ],
+      "polygons": 360
+    },
+    {
+      "name": "Steering spoke",
+      "dimensions": [
+        0.024000000208616257,
+        0.023999998345971107,
+        0.12000002712011337
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering spoke.001",
+      "dimensions": [
+        0.024000005796551704,
+        0.024000003933906555,
+        0.12000001966953278
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering spoke.002",
+      "dimensions": [
+        0.024000000208616257,
+        0.024000000208616257,
+        0.11000001430511475
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering wheel rim",
+      "dimensions": [
+        0.2980000376701355,
+        0.2980000376701355,
+        0.02800000086426735
+      ],
+      "polygons": 3072
+    },
+    {
+      "name": "Tail lamp molded perimeter housing",
+      "dimensions": [
+        0.1582930088043213,
+        0.4069293141365051,
+        0.20390480756759644
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Tail lamp molded perimeter housing.001",
+      "dimensions": [
+        0.15829086303710938,
+        0.4069250226020813,
+        0.2039065957069397
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Tail lamp optical separator",
+      "dimensions": [
+        0.016472816467285156,
+        0.16608664393424988,
+        0.008000075817108154
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.001",
+      "dimensions": [
+        0.017546653747558594,
+        0.1661624312400818,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.002",
+      "dimensions": [
+        0.01689910888671875,
+        0.16611939668655396,
+        0.008000075817108154
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.003",
+      "dimensions": [
+        0.017112255096435547,
+        0.1661202609539032,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp recessed inner housing",
+      "dimensions": [
+        0.15954899787902832,
+        0.39560002088546753,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp recessed inner housing.001",
+      "dimensions": [
+        0.15954327583312988,
+        0.39560002088546753,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp reflective optical inner",
+      "dimensions": [
+        0.1343228816986084,
+        0.3481280207633972,
+        0.167199969291687
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp reflective optical inner.001",
+      "dimensions": [
+        0.13431787490844727,
+        0.3481280207633972,
+        0.167199969291687
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Visible brake disc",
+      "dimensions": [
+        0.3276000916957855,
+        0.32760003209114075,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Visible brake disc.001",
+      "dimensions": [
+        0.3276000916957855,
+        0.32760003209114075,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Visible brake disc.002",
+      "dimensions": [
+        0.3276000916957855,
+        0.32760003209114075,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Visible brake disc.003",
+      "dimensions": [
+        0.3276000916957855,
+        0.32760003209114075,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Wheel bearing hub",
+      "dimensions": [
+        0.11340002715587616,
+        0.11340001225471497,
+        0.05500000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Wheel bearing hub.001",
+      "dimensions": [
+        0.11340002715587616,
+        0.11340001225471497,
+        0.05500000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Wheel bearing hub.002",
+      "dimensions": [
+        0.11340002715587616,
+        0.11340001225471497,
+        0.05500000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Wheel bearing hub.003",
+      "dimensions": [
+        0.11340002715587616,
+        0.11340001225471497,
+        0.05500000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Wheel hex lug",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.001",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.002",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.003",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.004",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.005",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.006",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.007",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.008",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.009",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.010",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.011",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.012",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.013",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.014",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.015",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.016",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.017",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.018",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheel hex lug.019",
+      "dimensions": [
+        0.015588460490107536,
+        0.018000001087784767,
+        0.012000001966953278
+      ],
+      "polygons": 20
+    },
+    {
+      "name": "Wheelhouse arched liner",
+      "dimensions": [
+        0.6951684951782227,
+        0.2548052668571472,
+        0.4790000319480896
+      ],
+      "polygons": 292
+    },
+    {
+      "name": "Wheelhouse arched liner.001",
+      "dimensions": [
+        0.6951684951782227,
+        0.25480717420578003,
+        0.4790000319480896
+      ],
+      "polygons": 292
+    },
+    {
+      "name": "Wheelhouse arched liner.002",
+      "dimensions": [
+        0.6951684951782227,
+        0.2509085536003113,
+        0.4790000319480896
+      ],
+      "polygons": 292
+    },
+    {
+      "name": "Wheelhouse arched liner.003",
+      "dimensions": [
+        0.6951684951782227,
+        0.2509085536003113,
+        0.4790000319480896
+      ],
+      "polygons": 292
+    },
+    {
+      "name": "Wheelhouse inner liner",
+      "dimensions": [
+        0.813962459564209,
+        0.0700000524520874,
+        0.40814512968063354
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.001",
+      "dimensions": [
+        0.813962459564209,
+        0.0700000524520874,
+        0.40814512968063354
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.002",
+      "dimensions": [
+        0.813962459564209,
+        0.0700000524520874,
+        0.40814512968063354
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.003",
+      "dimensions": [
+        0.813962459564209,
+        0.0700000524520874,
+        0.40814512968063354
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Windscreen base cowl panel",
+      "dimensions": [
+        0.082672119140625,
+        1.674399971961975,
+        0.08936536312103271
+      ],
+      "polygons": 884
+    },
+    {
+      "name": "Windscreen wiper",
+      "dimensions": [
+        0.17046093940734863,
+        0.2695970833301544,
+        0.10613465309143066
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Windscreen wiper.001",
+      "dimensions": [
+        0.17046093940734863,
+        0.2695970833301544,
+        0.10613465309143066
+      ],
+      "polygons": 28
+    }
+  ],
+  "dimensions_m": [
+    4.790994882583618,
+    2.164400100708008,
+    1.5599955320358276
+  ],
+  "materials": [
+    {
+      "name": "black.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.05000000074505806,
+      "roughness": 0.47999998927116394,
+      "textures": [
+        "cbe8aaaa64272089.png"
+      ]
+    },
+    {
+      "name": "paint",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.6499999761581421,
+      "roughness": 0.23999999463558197,
+      "textures": [
+        "10d0ca0820fbb5ff.png"
+      ]
+    },
+    {
+      "name": "chrome",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.9599999785423279,
+      "roughness": 0.17000000178813934,
+      "textures": [
+        "52f8b1ed1a99caf4.png"
+      ]
+    },
+    {
+      "name": "interior",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.75,
+      "textures": [
+        "8327d52b663c00e5.png"
+      ]
+    },
+    {
+      "name": "clearlens",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.05999999865889549,
+      "textures": [
+        "c351c4d86278de41.png"
+      ]
+    },
+    {
+      "name": "rubber.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.7799999713897705,
+      "textures": [
+        "4bcff7fad9af8566.png"
+      ]
+    },
+    {
+      "name": "seat",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.8600000143051147,
+      "textures": [
+        "fe32096c1160c0fc.png"
+      ]
+    },
+    {
+      "name": "steel.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.7799999713897705,
+      "roughness": 0.3199999928474426,
+      "textures": [
+        "ee155a5067aedc58.png"
+      ]
+    },
+    {
+      "name": "glass.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.06499999761581421,
+      "textures": [
+        "b6897ef21ce186c6.png"
+      ]
+    },
+    {
+      "name": "redlens",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.10000000149011612,
+      "roughness": 0.14000000059604645,
+      "textures": [
+        "94514975ee623773.png"
+      ]
+    },
+    {
+      "name": "white",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.11999999731779099,
+      "roughness": 0.30000001192092896,
+      "textures": [
+        "04bb40fd71d1020a.png"
+      ]
+    },
+    {
+      "name": "paint.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.6499999761581421,
+      "roughness": 0.23999999463558197,
+      "textures": [
+        "10d0ca0820fbb5ff.png"
+      ]
+    },
+    {
+      "name": "black.002",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.05000000074505806,
+      "roughness": 0.47999998927116394,
+      "textures": [
+        "cbe8aaaa64272089.png"
+      ]
+    }
+  ]
+}

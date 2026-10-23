@@ -1,0 +1,2885 @@
+{
+  "source": "https://www.innerscene.com/tools/library/3d-parts/graphite-four-door-sedan-eed96d12",
+  "license": "CC0",
+  "sha256": "feb0be31d153ddb42dc15ae52a651e214e85ab67e31bec4282b00f9d47c9b597",
+  "objects": [
+    {
+      "name": "107 reused Alloy_five_spoke_rim",
+      "dimensions": [
+        0.47205495834350586,
+        0.20500004291534424,
+        0.4721482992172241
+      ],
+      "polygons": 3716
+    },
+    {
+      "name": "107 reused Alloy_five_spoke_rim.001",
+      "dimensions": [
+        0.47205495834350586,
+        0.20500004291534424,
+        0.4721482992172241
+      ],
+      "polygons": 3716
+    },
+    {
+      "name": "107 reused Alloy_five_spoke_rim.002",
+      "dimensions": [
+        0.47205495834350586,
+        0.20500004291534424,
+        0.4721482992172241
+      ],
+      "polygons": 3716
+    },
+    {
+      "name": "107 reused Alloy_five_spoke_rim.003",
+      "dimensions": [
+        0.47205495834350586,
+        0.20500004291534424,
+        0.4721482992172241
+      ],
+      "polygons": 3716
+    },
+    {
+      "name": "107 reused Center_cap",
+      "dimensions": [
+        0.07424187660217285,
+        0.006000041961669922,
+        0.07425662875175476
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Center_cap.001",
+      "dimensions": [
+        0.07424187660217285,
+        0.006000041961669922,
+        0.07425662875175476
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Center_cap.002",
+      "dimensions": [
+        0.07424187660217285,
+        0.006000041961669922,
+        0.07425662875175476
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Center_cap.003",
+      "dimensions": [
+        0.07424187660217285,
+        0.006000041961669922,
+        0.07425662875175476
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Lug_1",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_1.001",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_1.002",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_1.003",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_2",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_2.001",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_2.002",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_2.003",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_3",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_3.001",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_3.002",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_3.003",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_4",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_4.001",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_4.002",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_4.003",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626842975616455
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_5",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626813173294067
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_5.001",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626813173294067
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_5.002",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626813173294067
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Lug_5.003",
+      "dimensions": [
+        0.020622730255126953,
+        0.0140000581741333,
+        0.020626813173294067
+      ],
+      "polygons": 628
+    },
+    {
+      "name": "107 reused Sculpted_tyre",
+      "dimensions": [
+        0.6540508270263672,
+        0.2250000238418579,
+        0.6541801691055298
+      ],
+      "polygons": 4428
+    },
+    {
+      "name": "107 reused Sculpted_tyre.001",
+      "dimensions": [
+        0.6540508270263672,
+        0.2250000238418579,
+        0.6541801691055298
+      ],
+      "polygons": 4428
+    },
+    {
+      "name": "107 reused Sculpted_tyre.002",
+      "dimensions": [
+        0.6540508270263672,
+        0.2250000238418579,
+        0.6541801691055298
+      ],
+      "polygons": 4428
+    },
+    {
+      "name": "107 reused Sculpted_tyre.003",
+      "dimensions": [
+        0.6540508270263672,
+        0.2250000238418579,
+        0.6541801691055298
+      ],
+      "polygons": 4428
+    },
+    {
+      "name": "107 reused Valve_stem",
+      "dimensions": [
+        0.008249044418334961,
+        0.02399998903274536,
+        0.00825074315071106
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Valve_stem.001",
+      "dimensions": [
+        0.008249044418334961,
+        0.02399998903274536,
+        0.00825074315071106
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Valve_stem.002",
+      "dimensions": [
+        0.008249044418334961,
+        0.02399998903274536,
+        0.00825074315071106
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "107 reused Valve_stem.003",
+      "dimensions": [
+        0.008249044418334961,
+        0.02399998903274536,
+        0.00825074315071106
+      ],
+      "polygons": 312
+    },
+    {
+      "name": "Adjustable headrest",
+      "dimensions": [
+        0.1799999475479126,
+        0.2799999713897705,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Adjustable headrest.001",
+      "dimensions": [
+        0.1799999475479126,
+        0.2799999713897705,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Adjustable headrest.002",
+      "dimensions": [
+        0.1799999475479126,
+        0.2799999713897705,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Adjustable headrest.003",
+      "dimensions": [
+        0.1799999475479126,
+        0.2799999713897705,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror lower housing",
+      "dimensions": [
+        0.2399999052286148,
+        0.18999996781349182,
+        0.11599999666213989
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror lower housing.001",
+      "dimensions": [
+        0.2399999052286148,
+        0.18999996781349182,
+        0.11599999666213989
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror painted cap",
+      "dimensions": [
+        0.22999992966651917,
+        0.18399997055530548,
+        0.08799999952316284
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Aerodynamic mirror painted cap.001",
+      "dimensions": [
+        0.22999992966651917,
+        0.18399997055530548,
+        0.08799999952316284
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Beltline satin bead",
+      "dimensions": [
+        2.4530129432678223,
+        0.008999943733215332,
+        0.011999964714050293
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Beltline satin bead.001",
+      "dimensions": [
+        2.4530129432678223,
+        0.008999943733215332,
+        0.011999964714050293
+      ],
+      "polygons": 44
+    },
+    {
+      "name": "Brake caliper",
+      "dimensions": [
+        0.07500000298023224,
+        0.07500000298023224,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.001",
+      "dimensions": [
+        0.07500000298023224,
+        0.07500000298023224,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.002",
+      "dimensions": [
+        0.07500000298023224,
+        0.07500000298023224,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake caliper.003",
+      "dimensions": [
+        0.07500000298023224,
+        0.07500000298023224,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake rotor hat",
+      "dimensions": [
+        0.16350004076957703,
+        0.16350001096725464,
+        0.02500000409781933
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake rotor hat.001",
+      "dimensions": [
+        0.16350004076957703,
+        0.16350001096725464,
+        0.02500000409781933
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake rotor hat.002",
+      "dimensions": [
+        0.16350004076957703,
+        0.16350001096725464,
+        0.02500000409781933
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Brake rotor hat.003",
+      "dimensions": [
+        0.16350004076957703,
+        0.16350001096725464,
+        0.02500000409781933
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Cabin carpet",
+      "dimensions": [
+        2.700000047683716,
+        1.456874966621399,
+        0.05999999865889549
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Center console",
+      "dimensions": [
+        0.800000011920929,
+        0.1899999976158142,
+        0.25999999046325684
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Clear reversing lens insert",
+      "dimensions": [
+        0.006000000052154064,
+        0.10999999940395355,
+        0.02500000037252903
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Clear reversing lens insert.001",
+      "dimensions": [
+        0.006000000052154064,
+        0.10999999940395355,
+        0.02500000037252903
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Contoured seat back",
+      "dimensions": [
+        0.18999993801116943,
+        0.4599999189376831,
+        0.6200000047683716
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.001",
+      "dimensions": [
+        0.18999993801116943,
+        0.4599999189376831,
+        0.6200000047683716
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.002",
+      "dimensions": [
+        0.18999993801116943,
+        0.4599999189376831,
+        0.6200000047683716
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat back.003",
+      "dimensions": [
+        0.18999993801116943,
+        0.4599999189376831,
+        0.6200000047683716
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion",
+      "dimensions": [
+        0.5399998426437378,
+        0.4599999189376831,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.001",
+      "dimensions": [
+        0.5399998426437378,
+        0.4599999189376831,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.002",
+      "dimensions": [
+        0.5399998426437378,
+        0.4599999189376831,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Contoured seat cushion.003",
+      "dimensions": [
+        0.5399998426437378,
+        0.4599999189376831,
+        0.1899999976158142
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Crowned roof pressing",
+      "dimensions": [
+        1.481905221939087,
+        1.4054275751113892,
+        0.08821666240692139
+      ],
+      "polygons": 2080
+    },
+    {
+      "name": "Distinct trunk lid shut line",
+      "dimensions": [
+        0.8354195356369019,
+        1.375,
+        0.059207916259765625
+      ],
+      "polygons": 652
+    },
+    {
+      "name": "Door panel shut line",
+      "dimensions": [
+        1.415351390838623,
+        0.09176534414291382,
+        0.645068883895874
+      ],
+      "polygons": 812
+    },
+    {
+      "name": "Door panel shut line.001",
+      "dimensions": [
+        1.0625650882720947,
+        0.08519208431243896,
+        0.645221471786499
+      ],
+      "polygons": 492
+    },
+    {
+      "name": "Door panel shut line.002",
+      "dimensions": [
+        1.415351390838623,
+        0.09176534414291382,
+        0.6450690627098083
+      ],
+      "polygons": 812
+    },
+    {
+      "name": "Door panel shut line.003",
+      "dimensions": [
+        1.0625652074813843,
+        0.08516722917556763,
+        0.6452217698097229
+      ],
+      "polygons": 492
+    },
+    {
+      "name": "Exhaust dark bore",
+      "dimensions": [
+        0.057999998331069946,
+        0.057999998331069946,
+        0.003000000026077032
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust dark bore.001",
+      "dimensions": [
+        0.057999998331069946,
+        0.057999998331069946,
+        0.003000000026077032
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust polished outer tip",
+      "dimensions": [
+        0.07199999690055847,
+        0.07199999690055847,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Exhaust polished outer tip.001",
+      "dimensions": [
+        0.07199999690055847,
+        0.07199999690055847,
+        0.15000000596046448
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Faceted headlamp reflector interior",
+      "dimensions": [
+        0.05107307434082031,
+        0.30229008197784424,
+        0.0988999605178833
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Faceted headlamp reflector interior.001",
+      "dimensions": [
+        0.05124521255493164,
+        0.30229008197784424,
+        0.0988999605178833
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Fine headlamp perimeter gasket",
+      "dimensions": [
+        0.057923316955566406,
+        0.35934650897979736,
+        0.12297707796096802
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Fine headlamp perimeter gasket.001",
+      "dimensions": [
+        0.05812358856201172,
+        0.35934650897979736,
+        0.12297707796096802
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Flat black B pillar trim",
+      "dimensions": [
+        0.06700000166893005,
+        0.15481799840927124,
+        0.4440041780471802
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flat black B pillar trim.001",
+      "dimensions": [
+        0.06700000166893005,
+        0.15481799840927124,
+        0.4440041780471802
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush corner wrapping ruby lamp lens",
+      "dimensions": [
+        0.16857385635375977,
+        0.39774999022483826,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush corner wrapping ruby lamp lens.001",
+      "dimensions": [
+        0.16846704483032227,
+        0.39774999022483826,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush pressed A pillar",
+      "dimensions": [
+        0.73604416847229,
+        0.16110289096832275,
+        0.47692394256591797
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush pressed A pillar.001",
+      "dimensions": [
+        0.73604416847229,
+        0.16110289096832275,
+        0.47692394256591797
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush roof side flange",
+      "dimensions": [
+        1.5290718078613281,
+        0.01570141315460205,
+        0.02642536163330078
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush roof side flange.001",
+      "dimensions": [
+        1.5290718078613281,
+        0.01570141315460205,
+        0.02642536163330078
+      ],
+      "polygons": 12
+    },
+    {
+      "name": "Flush swept transparent headlamp lens",
+      "dimensions": [
+        0.055085182189941406,
+        0.3515000343322754,
+        0.11499994993209839
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Flush swept transparent headlamp lens.001",
+      "dimensions": [
+        0.05528545379638672,
+        0.3515000343322754,
+        0.11499994993209839
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Fog flush lens",
+      "dimensions": [
+        0.014000004157423973,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Fog flush lens.001",
+      "dimensions": [
+        0.014000004157423973,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Fog lamp recessed housing",
+      "dimensions": [
+        0.02500000037252903,
+        0.14499999582767487,
+        0.09799999743700027
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Fog lamp recessed housing.001",
+      "dimensions": [
+        0.02500000037252903,
+        0.14499999582767487,
+        0.09799999743700027
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Fog reflector",
+      "dimensions": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.014999999664723873
+      ],
+      "polygons": 92
+    },
+    {
+      "name": "Fog reflector.001",
+      "dimensions": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.014999999664723873
+      ],
+      "polygons": 92
+    },
+    {
+      "name": "Formed painted rear bumper cover",
+      "dimensions": [
+        0.14630627632141113,
+        1.590999960899353,
+        0.24000000953674316
+      ],
+      "polygons": 708
+    },
+    {
+      "name": "Front bumper continuous shut line",
+      "dimensions": [
+        0.03378868103027344,
+        1.4441087245941162,
+        0.029990434646606445
+      ],
+      "polygons": 492
+    },
+    {
+      "name": "Front license plate",
+      "dimensions": [
+        0.012000000104308128,
+        0.3199999928474426,
+        0.0729999989271164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Front side door glass",
+      "dimensions": [
+        1.3610984086990356,
+        0.14725160598754883,
+        0.4267808198928833
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Front side door glass rubber seal",
+      "dimensions": [
+        1.3663822412490845,
+        0.15339016914367676,
+        0.4355049729347229
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Front side door glass rubber seal.001",
+      "dimensions": [
+        1.3663822412490845,
+        0.15339016914367676,
+        0.4355049729347229
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Front side door glass.001",
+      "dimensions": [
+        1.3610984086990356,
+        0.14725160598754883,
+        0.4267808198928833
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Front splitter",
+      "dimensions": [
+        0.10342025756835938,
+        1.3792299032211304,
+        0.04799699783325195
+      ],
+      "polygons": 60
+    },
+    {
+      "name": "Fuel filler seam",
+      "dimensions": [
+        0.13946843147277832,
+        0.030085742473602295,
+        0.12949830293655396
+      ],
+      "polygons": 640
+    },
+    {
+      "name": "Fuel filler seam.001",
+      "dimensions": [
+        0.1394709348678589,
+        0.029869675636291504,
+        0.12949830293655396
+      ],
+      "polygons": 640
+    },
+    {
+      "name": "Grille inner mesh",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.001",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.002",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.003",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.004",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.005",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.006",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.007",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.008",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.009",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.010",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.011",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.012",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.013",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.014",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.015",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.016",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.017",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.018",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.019",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.020",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.021",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.022",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille inner mesh.023",
+      "dimensions": [
+        0.009999999776482582,
+        0.004999999888241291,
+        0.18000000715255737
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Grille shadow cavity",
+      "dimensions": [
+        0.03500000014901161,
+        0.8510000109672546,
+        0.19499999284744263
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Headlamp deep graphite housing",
+      "dimensions": [
+        0.06908512115478516,
+        0.3515000343322754,
+        0.11499994993209839
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Headlamp deep graphite housing.001",
+      "dimensions": [
+        0.06928539276123047,
+        0.3515000343322754,
+        0.11499994993209839
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Hood shut line",
+      "dimensions": [
+        0.7296299934387207,
+        1.4816908836364746,
+        0.10335814952850342
+      ],
+      "polygons": 812
+    },
+    {
+      "name": "Instrument panel",
+      "dimensions": [
+        0.3199999928474426,
+        1.4319000244140625,
+        0.17000000178813934
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge.001",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake bridge.002",
+      "dimensions": [
+        0.03999999910593033,
+        0.020999999716877937,
+        0.10000000149011612
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Lower intake recessed mesh",
+      "dimensions": [
+        0.02800000086426735,
+        1.0360000133514404,
+        0.09000000357627869
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Mirror reflective insert",
+      "dimensions": [
+        0.015999995172023773,
+        0.1499999761581421,
+        0.07400000095367432
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Mirror reflective insert.001",
+      "dimensions": [
+        0.015999995172023773,
+        0.1499999761581421,
+        0.07400000095367432
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Painted door glazing lower sill",
+      "dimensions": [
+        2.4450268745422363,
+        0.018689870834350586,
+        0.02065211534500122
+      ],
+      "polygons": 196
+    },
+    {
+      "name": "Painted door glazing lower sill.001",
+      "dimensions": [
+        2.445035934448242,
+        0.01868206262588501,
+        0.020675599575042725
+      ],
+      "polygons": 196
+    },
+    {
+      "name": "Painted rear glazing lower surround",
+      "dimensions": [
+        0.06397819519042969,
+        1.2949999570846558,
+        0.0517197847366333
+      ],
+      "polygons": 884
+    },
+    {
+      "name": "Raked laminated windshield",
+      "dimensions": [
+        0.6938323378562927,
+        1.6909358501434326,
+        0.4034664034843445
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Raked laminated windshield rubber seal",
+      "dimensions": [
+        0.7011333107948303,
+        1.6956969499588013,
+        0.4097076654434204
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear bumper corner joint",
+      "dimensions": [
+        0.2660696506500244,
+        0.09671670198440552,
+        0.020991623401641846
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper corner joint.001",
+      "dimensions": [
+        0.26607823371887207,
+        0.09668606519699097,
+        0.02099168300628662
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper formed corner",
+      "dimensions": [
+        0.26630187034606934,
+        0.12222141027450562,
+        0.22369760274887085
+      ],
+      "polygons": 548
+    },
+    {
+      "name": "Rear bumper formed corner.001",
+      "dimensions": [
+        0.26630687713623047,
+        0.12223410606384277,
+        0.22369474172592163
+      ],
+      "polygons": 548
+    },
+    {
+      "name": "Rear bumper joint clear of plate recess",
+      "dimensions": [
+        0.08144998550415039,
+        0.47816112637519836,
+        0.019998371601104736
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear bumper joint clear of plate recess.001",
+      "dimensions": [
+        0.081298828125,
+        0.4781751036643982,
+        0.019998371601104736
+      ],
+      "polygons": 332
+    },
+    {
+      "name": "Rear glass lower stop lamp housing",
+      "dimensions": [
+        0.029999999329447746,
+        0.44999998807907104,
+        0.04500000178813934
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear glass lower stop lens",
+      "dimensions": [
+        0.012000000104308128,
+        0.4000000059604645,
+        0.024000000208616257
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear parking sensor",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.001",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.002",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear parking sensor.003",
+      "dimensions": [
+        0.012000000104308128,
+        0.02199999988079071,
+        0.02199999988079071
+      ],
+      "polygons": 224
+    },
+    {
+      "name": "Rear plate recessed back",
+      "dimensions": [
+        0.014000000432133675,
+        0.5400000214576721,
+        0.14499999582767487
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear registration plate",
+      "dimensions": [
+        0.014000000432133675,
+        0.38999998569488525,
+        0.08500000089406967
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Rear side door glass",
+      "dimensions": [
+        1.0131359100341797,
+        0.14724993705749512,
+        0.4256185293197632
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Rear side door glass rubber seal",
+      "dimensions": [
+        1.019748568534851,
+        0.1533428430557251,
+        0.4341687560081482
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear side door glass rubber seal.001",
+      "dimensions": [
+        1.019748568534851,
+        0.1533428430557251,
+        0.4341687560081482
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Rear side door glass.001",
+      "dimensions": [
+        1.0131359100341797,
+        0.14724993705749512,
+        0.4256185293197632
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Recessed grille blade",
+      "dimensions": [
+        0.02500000037252903,
+        0.8417500257492065,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.001",
+      "dimensions": [
+        0.02500000037252903,
+        0.8417500257492065,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.002",
+      "dimensions": [
+        0.02500000037252903,
+        0.8417500257492065,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.003",
+      "dimensions": [
+        0.02500000037252903,
+        0.8417500257492065,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed grille blade.004",
+      "dimensions": [
+        0.02500000037252903,
+        0.8417500257492065,
+        0.008999999612569809
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed handle pocket",
+      "dimensions": [
+        0.18000000715255737,
+        0.014000000432133675,
+        0.03400000184774399
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed handle pocket.001",
+      "dimensions": [
+        0.18000000715255737,
+        0.014000000432133675,
+        0.03400000184774399
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed handle pocket.002",
+      "dimensions": [
+        0.18000000715255737,
+        0.014000000432133675,
+        0.03400000184774399
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed handle pocket.003",
+      "dimensions": [
+        0.18000000715255737,
+        0.014000000432133675,
+        0.03400000184774399
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Recessed projector optical glass",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.001",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.002",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector optical glass.003",
+      "dimensions": [
+        0.01600000634789467,
+        0.06600000709295273,
+        0.06599999964237213
+      ],
+      "polygons": 440
+    },
+    {
+      "name": "Recessed projector reflector",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.001",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.002",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Recessed projector reflector.003",
+      "dimensions": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.017999999225139618
+      ],
+      "polygons": 124
+    },
+    {
+      "name": "Rolled fender lip",
+      "dimensions": [
+        0.7679808139801025,
+        0.03600001335144043,
+        0.38458898663520813
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.001",
+      "dimensions": [
+        0.7679808139801025,
+        0.03600001335144043,
+        0.38458898663520813
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.002",
+      "dimensions": [
+        0.7679808139801025,
+        0.03600001335144043,
+        0.38458898663520813
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rolled fender lip.003",
+      "dimensions": [
+        0.7679808139801025,
+        0.03600001335144043,
+        0.38458898663520813
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Rotor drill recess",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.001",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.002",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.003",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.004",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.005",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.006",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.007",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.008",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.009",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.010",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.011",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.012",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.013",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.014",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.015",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.016",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.017",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.018",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.019",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.020",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.021",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.022",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.023",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.024",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.025",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.026",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.027",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.028",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.029",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.030",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.031",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.032",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.033",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.034",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.035",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.036",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.037",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.038",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.039",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.040",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.041",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.042",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.043",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.044",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.045",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.046",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.047",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.048",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.049",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.050",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.051",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.052",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.053",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.054",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.055",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.056",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.057",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.058",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.059",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.060",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.061",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.062",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.063",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.064",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.065",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.066",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.067",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.068",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.069",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.070",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Rotor drill recess.071",
+      "dimensions": [
+        0.00800000224262476,
+        0.008000001311302185,
+        0.0020000003278255463
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Satin door pull handle",
+      "dimensions": [
+        0.14499999582767487,
+        0.01899999938905239,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Satin door pull handle.001",
+      "dimensions": [
+        0.14499999582767487,
+        0.01899999938905239,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Satin door pull handle.002",
+      "dimensions": [
+        0.14499999582767487,
+        0.01899999938905239,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Satin door pull handle.003",
+      "dimensions": [
+        0.14499999582767487,
+        0.01899999938905239,
+        0.019999999552965164
+      ],
+      "polygons": 188
+    },
+    {
+      "name": "Satin grille surround",
+      "dimensions": [
+        0.031999826431274414,
+        0.8936325311660767,
+        0.22038251161575317
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Sculpted rear lower bumper insert",
+      "dimensions": [
+        0.04665851593017578,
+        1.36899995803833,
+        0.12553051114082336
+      ],
+      "polygons": 696
+    },
+    {
+      "name": "Sculpted rocker panel seam",
+      "dimensions": [
+        2.001270294189453,
+        0.02055305242538452,
+        0.0059999823570251465
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Sculpted rocker panel seam.001",
+      "dimensions": [
+        2.001270294189453,
+        0.020547330379486084,
+        0.0059999823570251465
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Shark fin antenna",
+      "dimensions": [
+        0.19999992847442627,
+        0.07199998199939728,
+        0.10999999940395355
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Short mirror plinth",
+      "dimensions": [
+        0.06800000369548798,
+        0.06799999624490738,
+        0.14265339076519012
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Short mirror plinth.001",
+      "dimensions": [
+        0.06800001114606857,
+        0.06800000369548798,
+        0.14265340566635132
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Siped tread blocks",
+      "dimensions": [
+        0.6622776985168457,
+        0.15749990940093994,
+        0.6622775197029114
+      ],
+      "polygons": 2304
+    },
+    {
+      "name": "Siped tread blocks.001",
+      "dimensions": [
+        0.6622776985168457,
+        0.15749990940093994,
+        0.6622775197029114
+      ],
+      "polygons": 2304
+    },
+    {
+      "name": "Siped tread blocks.002",
+      "dimensions": [
+        0.6622776985168457,
+        0.15749990940093994,
+        0.6622775197029114
+      ],
+      "polygons": 2304
+    },
+    {
+      "name": "Siped tread blocks.003",
+      "dimensions": [
+        0.6622776985168457,
+        0.15749990940093994,
+        0.6622775197029114
+      ],
+      "polygons": 2304
+    },
+    {
+      "name": "Sloping rear glass",
+      "dimensions": [
+        0.5622312426567078,
+        1.4060430526733398,
+        0.25756824016571045
+      ],
+      "polygons": 672
+    },
+    {
+      "name": "Sloping rear glass rubber seal",
+      "dimensions": [
+        0.570001482963562,
+        1.4102123975753784,
+        0.2637101411819458
+      ],
+      "polygons": 64
+    },
+    {
+      "name": "Steering boss",
+      "dimensions": [
+        0.0899999737739563,
+        0.14399996399879456,
+        0.09399999678134918
+      ],
+      "polygons": 528
+    },
+    {
+      "name": "Steering rim",
+      "dimensions": [
+        0.3219999670982361,
+        0.3219999670982361,
+        0.03199999779462814
+      ],
+      "polygons": 3072
+    },
+    {
+      "name": "Steering spoke",
+      "dimensions": [
+        0.02800000086426735,
+        0.0279999990016222,
+        0.1300000101327896
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering spoke.001",
+      "dimensions": [
+        0.028000008314847946,
+        0.028000004589557648,
+        0.1300000101327896
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Steering spoke.002",
+      "dimensions": [
+        0.02800000086426735,
+        0.02800000086426735,
+        0.12000000476837158
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Surface integrated sedan rear roof pillar",
+      "dimensions": [
+        0.7048946022987366,
+        0.20619821548461914,
+        0.4573809504508972
+      ],
+      "polygons": 1152
+    },
+    {
+      "name": "Surface integrated sedan rear roof pillar.001",
+      "dimensions": [
+        0.7048961520195007,
+        0.20620113611221313,
+        0.4574000835418701
+      ],
+      "polygons": 1152
+    },
+    {
+      "name": "Tail lamp molded perimeter housing",
+      "dimensions": [
+        0.17538881301879883,
+        0.4090048670768738,
+        0.2039615511894226
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Tail lamp molded perimeter housing.001",
+      "dimensions": [
+        0.17528891563415527,
+        0.4090018570423126,
+        0.20396125316619873
+      ],
+      "polygons": 96
+    },
+    {
+      "name": "Tail lamp optical separator",
+      "dimensions": [
+        0.01522207260131836,
+        0.1668565273284912,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.001",
+      "dimensions": [
+        0.01755547523498535,
+        0.16685569286346436,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.002",
+      "dimensions": [
+        0.015219926834106445,
+        0.16685742139816284,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp optical separator.003",
+      "dimensions": [
+        0.017749309539794922,
+        0.1668906807899475,
+        0.008000016212463379
+      ],
+      "polygons": 172
+    },
+    {
+      "name": "Tail lamp recessed inner housing",
+      "dimensions": [
+        0.1765739917755127,
+        0.39774999022483826,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp recessed inner housing.001",
+      "dimensions": [
+        0.1764671802520752,
+        0.39774999022483826,
+        0.1899999976158142
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp reflective optical inner",
+      "dimensions": [
+        0.14930510520935059,
+        0.35002002120018005,
+        0.167199969291687
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Tail lamp reflective optical inner.001",
+      "dimensions": [
+        0.14921092987060547,
+        0.35002002120018005,
+        0.167199969291687
+      ],
+      "polygons": 24
+    },
+    {
+      "name": "Ventilated brake rotor",
+      "dimensions": [
+        0.37932008504867554,
+        0.37932005524635315,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Ventilated brake rotor.001",
+      "dimensions": [
+        0.37932008504867554,
+        0.37932005524635315,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Ventilated brake rotor.002",
+      "dimensions": [
+        0.37932008504867554,
+        0.37932005524635315,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Ventilated brake rotor.003",
+      "dimensions": [
+        0.37932008504867554,
+        0.37932005524635315,
+        0.018000001087784767
+      ],
+      "polygons": 252
+    },
+    {
+      "name": "Watertight 14-station body shell",
+      "dimensions": [
+        4.792023658752441,
+        1.8462249040603638,
+        0.9752690196037292
+      ],
+      "polygons": 11262
+    },
+    {
+      "name": "Wheelhouse inner liner",
+      "dimensions": [
+        0.8259625434875488,
+        0.0700000524520874,
+        0.41414520144462585
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.001",
+      "dimensions": [
+        0.8259625434875488,
+        0.0700000524520874,
+        0.41414520144462585
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.002",
+      "dimensions": [
+        0.8259625434875488,
+        0.0700000524520874,
+        0.41414520144462585
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wheelhouse inner liner.003",
+      "dimensions": [
+        0.8259625434875488,
+        0.0700000524520874,
+        0.41414520144462585
+      ],
+      "polygons": 780
+    },
+    {
+      "name": "Wiper arm",
+      "dimensions": [
+        0.017999999225139618,
+        0.017999999225139618,
+        0.2985799312591553
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Wiper arm.001",
+      "dimensions": [
+        0.017999999225139618,
+        0.017999999225139618,
+        0.2985799312591553
+      ],
+      "polygons": 380
+    },
+    {
+      "name": "Wiper rubber blade",
+      "dimensions": [
+        0.09752166271209717,
+        0.3446364402770996,
+        0.06682538986206055
+      ],
+      "polygons": 28
+    },
+    {
+      "name": "Wiper rubber blade.001",
+      "dimensions": [
+        0.09752166271209717,
+        0.3446364104747772,
+        0.06682538986206055
+      ],
+      "polygons": 28
+    }
+  ],
+  "materials": [
+    {
+      "name": "chrome",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.9599999785423279,
+      "roughness": 0.17000000178813934,
+      "textures": [
+        "52f8b1ed1a99caf4.png"
+      ]
+    },
+    {
+      "name": "steel.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.7799999713897705,
+      "roughness": 0.3199999928474426,
+      "textures": [
+        "ee155a5067aedc58.png"
+      ]
+    },
+    {
+      "name": "rubber.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.7799999713897705,
+      "textures": [
+        "4bcff7fad9af8566.png"
+      ]
+    },
+    {
+      "name": "interior",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.75,
+      "textures": [
+        "8327d52b663c00e5.png"
+      ]
+    },
+    {
+      "name": "black.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.05000000074505806,
+      "roughness": 0.47999998927116394,
+      "textures": [
+        "cbe8aaaa64272089.png"
+      ]
+    },
+    {
+      "name": "paint",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.6499999761581421,
+      "roughness": 0.23999999463558197,
+      "textures": [
+        "9212da0fd441a2b7.png"
+      ]
+    },
+    {
+      "name": "clearlens",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.05999999865889549,
+      "textures": [
+        "c351c4d86278de41.png"
+      ]
+    },
+    {
+      "name": "redlens",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.10000000149011612,
+      "roughness": 0.14000000059604645,
+      "textures": [
+        "94514975ee623773.png"
+      ]
+    },
+    {
+      "name": "white",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.11999999731779099,
+      "roughness": 0.30000001192092896,
+      "textures": [
+        "04bb40fd71d1020a.png"
+      ]
+    },
+    {
+      "name": "glass.001",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.06499999761581421,
+      "textures": [
+        "fdd2d86daa7aedfc.png"
+      ]
+    }
+  ]
+}

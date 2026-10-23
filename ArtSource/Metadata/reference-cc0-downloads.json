@@ -1,0 +1,116 @@
+[
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\asphalt_03\\asphalt_03_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_03/asphalt_03_diff_2k.jpg",
+    "md5": "d7080e625013068e073a799cee3d8deb",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\asphalt_03\\asphalt_03_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_03/asphalt_03_nor_dx_2k.jpg",
+    "md5": "b3b962f3eec1032f6ef309f4f0a73db5",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\asphalt_03\\asphalt_03_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_03/asphalt_03_rough_2k.jpg",
+    "md5": "09b228040ecbd91e889715be7d50582a",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\concrete_pavement\\concrete_pavement_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_pavement/concrete_pavement_diff_2k.jpg",
+    "md5": "f7cdc6f38538e2739d48fbb4f1507ddb",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\concrete_pavement\\concrete_pavement_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_pavement/concrete_pavement_nor_dx_2k.jpg",
+    "md5": "78759c726de9867082587563b3e00f35",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\concrete_pavement\\concrete_pavement_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/concrete_pavement/concrete_pavement_rough_2k.jpg",
+    "md5": "670223ce80309b606ceea892f47aa766",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\forest_leaves_02\\forest_leaves_02_diffuse_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_leaves_02/forest_leaves_02_diffuse_2k.jpg",
+    "md5": "b7837ba1c51fb0e11af36d6b4e225c20",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\forest_leaves_02\\forest_leaves_02_nor_dx_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_leaves_02/forest_leaves_02_nor_dx_2k.jpg",
+    "md5": "3e1bac9be12674ebbabb3319cba30f4a",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\forest_leaves_02\\forest_leaves_02_rough_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/forest_leaves_02/forest_leaves_02_rough_2k.jpg",
+    "md5": "76e0435a0a0a0db7e591641b0a918e9e",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\street_lamp_01\\model.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/street_lamp_01/street_lamp_01_2k.gltf",
+    "md5": "c3f9bdf69e98a0dc325aef79f9aca17c",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\street_lamp_01\\textures\\street_lamp_01_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_lamp_01/street_lamp_01_nor_gl_2k.jpg",
+    "md5": "b847bb892a00d30f516176fcfef54cb6",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\street_lamp_01\\textures\\street_lamp_01_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_lamp_01/street_lamp_01_diff_2k.jpg",
+    "md5": "7487f2ca1deee8f1fcaaaaadaa6dade0",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\street_lamp_01\\textures\\street_lamp_01_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_lamp_01/street_lamp_01_arm_2k.jpg",
+    "md5": "f13fca31be6fda9b1444e36a866c0860",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\street_lamp_01\\street_lamp_01.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_lamp_01/street_lamp_01.bin",
+    "md5": "324bc6295e3962322514ddcfc7037b23",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\painted_wooden_sofa\\model.gltf",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/painted_wooden_sofa/painted_wooden_sofa_2k.gltf",
+    "md5": "87ce2aeb663304fe0813f7ac3633206f",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\painted_wooden_sofa\\painted_wooden_sofa.bin",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_sofa/painted_wooden_sofa.bin",
+    "md5": "2f100a29d9fad10d59edf90e5ce0ef03",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\painted_wooden_sofa\\textures\\painted_wooden_sofa_nor_gl_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_sofa/painted_wooden_sofa_nor_gl_2k.jpg",
+    "md5": "b262dbe60fbdd0a1227d38a3114b7a10",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\painted_wooden_sofa\\textures\\painted_wooden_sofa_arm_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_sofa/painted_wooden_sofa_arm_2k.jpg",
+    "md5": "cb7704921a7453b86f5096d0e65c23af",
+    "license": "CC0"
+  },
+  {
+    "file": "ArtSource\\Models\\reference_cc0\\painted_wooden_sofa\\textures\\painted_wooden_sofa_diff_2k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/painted_wooden_sofa/painted_wooden_sofa_diff_2k.jpg",
+    "md5": "64716cb51dbb92e1ffde3671d6b2c0fe",
+    "license": "CC0"
+  }
+]

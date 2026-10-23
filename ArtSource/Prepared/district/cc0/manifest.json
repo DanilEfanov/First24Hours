@@ -1,0 +1,28 @@
+[
+  {
+    "id": "street_lamp_01",
+    "asset": "SM_PH_street_lamp_01",
+    "dimensions_m": [
+      0.7043362259864807,
+      0.38649314641952515,
+      3.8705554008483887
+    ],
+    "slots": [
+      "street_lamp_01",
+      "street_lamp_01_glass",
+      "street_lamp_01_bulb"
+    ]
+  },
+  {
+    "id": "painted_wooden_sofa",
+    "asset": "SM_PH_painted_wooden_sofa",
+    "dimensions_m": [
+      2.4517107009887695,
+      0.7873162031173706,
+      1.2810335159301758
+    ],
+    "slots": [
+      "painted_wooden_sofa"
+    ]
+  }
+]

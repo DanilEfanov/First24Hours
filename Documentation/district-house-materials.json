@@ -1,0 +1,97 @@
+[
+  {
+    "slot": "green_metal",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal.green_metal",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "Material_001",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_001.Material_001",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "concrate",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate.concrate",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "green_metal2",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/green_metal2.green_metal2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "concrate2",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate2.concrate2",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "black",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/black.black",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "concrate4",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate4.concrate4",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "bricks",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/bricks.bricks",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "rusted_metal",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/rusted_metal.rusted_metal",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "glass",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/glass.glass",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "wood",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood.wood",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "Material_004",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_004.Material_004",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "Material_005",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_005.Material_005",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "Material_002",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_002.Material_002",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "asphalt",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/asphalt.asphalt",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "concrate3",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/concrate3.concrate3",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "Material_003",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/Material_003.Material_003",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "wood_002",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/wood_002.wood_002",
+    "class": "MaterialInstanceConstant"
+  },
+  {
+    "slot": "ads_002",
+    "path": "/Game/Assets/Environment/SovietApartmentBuilding/nine_story_building_of_the_post_soviet/Materials/ads_002.ads_002",
+    "class": "MaterialInstanceConstant"
+  }
+]

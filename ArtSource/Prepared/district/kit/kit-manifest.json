@@ -1,0 +1,278 @@
+{
+  "assets": [
+    {
+      "name": "SM_District_GardenFence_2m",
+      "materials": [
+        "District_PaintedSteel",
+        "District_FadedYellow"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        2.0500001907348633,
+        0.05000000074505806,
+        0.8500000238418579
+      ]
+    },
+    {
+      "name": "SM_District_Bench_180cm",
+      "materials": [
+        "District_PaintedSteel",
+        "District_WornWood"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        1.8000001907348633,
+        0.6348368525505066,
+        0.9830664992332458
+      ]
+    },
+    {
+      "name": "SM_District_LitterBin",
+      "materials": [
+        "District_PaintedSteel",
+        "District_RustedSteel",
+        "District_BinInterior"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        0.5839999914169312,
+        0.5040000081062317,
+        0.7720000147819519
+      ]
+    },
+    {
+      "name": "SM_District_StreetLamp_5m",
+      "materials": [
+        "District_PaintedSteel",
+        "District_RustedSteel",
+        "District_LampGlass"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        0.3400000035762787,
+        1.3450000286102295,
+        5.114999771118164
+      ]
+    },
+    {
+      "name": "SM_District_Sandpit",
+      "materials": [
+        "District_WornWood",
+        "District_Sand"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        3.1599998474121094,
+        3.1600000858306885,
+        0.29500001668930054
+      ]
+    },
+    {
+      "name": "SM_District_Swing",
+      "materials": [
+        "District_FadedYellow",
+        "District_FadedRed",
+        "District_RustedSteel",
+        "District_WornWood"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        3.4000000953674316,
+        1.7848366498947144,
+        2.4600234031677246
+      ]
+    },
+    {
+      "name": "SM_District_BinEnclosure",
+      "materials": [
+        "District_PaintedSteel",
+        "District_Rubber"
+      ],
+      "source": "authored",
+      "dimensions_m": [
+        2.9000000953674316,
+        2.6399998664855957,
+        2.0
+      ]
+    },
+    {
+      "name": "SM_District_LowriseSection",
+      "materials": [
+        "green_metal",
+        "Material_001",
+        "concrate",
+        "green_metal2",
+        "concrate2",
+        "black",
+        "concrate4",
+        "bricks",
+        "rusted_metal",
+        "glass",
+        "wood",
+        "Material_004",
+        "Material_005",
+        "Material_002",
+        "asphalt",
+        "concrate3",
+        "Material_003",
+        "wood_002",
+        "ads_002"
+      ],
+      "source": "House",
+      "dimensions_m": [
+        14.939041137695312,
+        22.81423568725586,
+        18.02210807800293
+      ]
+    },
+    {
+      "name": "SM_District_Car_00",
+      "source": "Cars",
+      "materials": [
+        "White",
+        "Glass",
+        "Black",
+        "Frontlight",
+        "BusColor2",
+        "StopLight",
+        "TurnLight",
+        "Backlight",
+        "Metal",
+        "Metal_2",
+        "Car_Color",
+        "Black_2",
+        "Green",
+        "UazBack",
+        "Krem",
+        "White_Sore"
+      ],
+      "dimensions_m": [
+        3.7773962020874023,
+        1.4187355041503906,
+        1.4100962192751467
+      ]
+    },
+    {
+      "name": "SM_District_Car_01",
+      "source": "Cars",
+      "materials": [
+        "White.001",
+        "Glass.001",
+        "Black.001",
+        "Frontlight.001",
+        "BusColor2.001",
+        "StopLight.001",
+        "TurnLight.001",
+        "Backlight.001",
+        "Metal.001",
+        "Metal_2.001",
+        "Car_Color.001",
+        "Black_2.001",
+        "Green.001",
+        "UazBack.001",
+        "Krem.001",
+        "White_Sore.001"
+      ],
+      "dimensions_m": [
+        4.328246116638184,
+        1.5287744998931885,
+        1.5159101677127182
+      ]
+    },
+    {
+      "name": "SM_District_Car_02",
+      "source": "Cars",
+      "materials": [
+        "White.002",
+        "Glass.002",
+        "Black.002",
+        "Frontlight.002",
+        "BusColor2.002",
+        "StopLight.002",
+        "TurnLight.002",
+        "Backlight.002",
+        "Metal.002",
+        "Metal_2.002",
+        "Car_Color.002",
+        "Black_2.002",
+        "Green.002",
+        "UazBack.002",
+        "Krem.002",
+        "White_Sore.002"
+      ],
+      "dimensions_m": [
+        4.354729175567627,
+        2.040339231491089,
+        1.9229125319980085
+      ]
+    },
+    {
+      "name": "SM_District_Car_03",
+      "source": "Cars",
+      "materials": [
+        "White.003",
+        "Glass.003",
+        "Black.003",
+        "Frontlight.003",
+        "BusColor2.003",
+        "StopLight.003",
+        "TurnLight.003",
+        "Backlight.003",
+        "Metal.003",
+        "Metal_2.003",
+        "Car_Color.003",
+        "Black_2.003",
+        "Green.003",
+        "UazBack.003",
+        "Krem.003",
+        "White_Sore.003"
+      ],
+      "dimensions_m": [
+        5.579425096511841,
+        1.8976407051086426,
+        2.2803740859963
+      ]
+    },
+    {
+      "name": "SM_District_Car_04",
+      "source": "Cars",
+      "materials": [
+        "White.004",
+        "Glass.004",
+        "Black.004",
+        "Frontlight.004",
+        "BusColor2.004",
+        "StopLight.004",
+        "TurnLight.004",
+        "Backlight.004",
+        "Metal.004",
+        "Metal_2.004",
+        "Car_Color.004",
+        "Black_2.004",
+        "Green.004",
+        "UazBack.004",
+        "Krem.004",
+        "White_Sore.004"
+      ],
+      "dimensions_m": [
+        9.958608150482178,
+        2.6079745292663574,
+        2.6991281770169735
+      ]
+    }
+  ],
+  "car_parts": [],
+  "building_derivation": "Adapted from existing CC BY 4.0 source; lower body retained, roof lowered, adjoining sections form a continuous row.",
+  "car_bounds": {
+    "min": [
+      -468.24017333984375,
+      -670.936767578125,
+      -4.140618324279785
+    ],
+    "max": [
+      527.6206665039062,
+      730.3987426757812,
+      265.772216796875
+    ]
+  }
+}

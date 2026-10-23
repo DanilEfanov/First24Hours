@@ -1,0 +1,28 @@
+[
+  {
+    "id": "shrub_01",
+    "asset": "SM_PH_shrub_01",
+    "dimensions_m": [
+      2.5866613388061523,
+      0.21856096386909485,
+      0.3959742784500122
+    ],
+    "polygons": 156012,
+    "slots": [
+      "shrub_01"
+    ]
+  },
+  {
+    "id": "grass_medium_01",
+    "asset": "SM_PH_grass_medium_01",
+    "dimensions_m": [
+      0.3170090317726135,
+      0.32655882835388184,
+      0.1466887891292572
+    ],
+    "polygons": 6422,
+    "slots": [
+      "grass_medium_01"
+    ]
+  }
+]

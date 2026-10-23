@@ -1,0 +1,281 @@
+{
+  "map": "/Game/First24Hours/Maps/L_ProceduralDistrict",
+  "reference": "ArtSource/References/Soviet Courtyard Architectural Reference Map.png",
+  "stage": "Reference courtyard: four housing rows, furnished gardens, wet streets and weather",
+  "existing_map_hashes": {
+    "Content\\FirstPerson\\Lvl_FirstPerson.umap": "3d476154bf4cac39a59ec91b88f5ed6889af113a1ecf9690a01c89d8bc32d258",
+    "Content\\First24Hours\\Maps\\L_Apartment_0400.umap": "060799b156eb3ed791c02fd9b22fe2a0c95c2bb5b3ac8cc7922244ea4c1fdd76"
+  },
+  "dimensions_cm": {
+    "road_width": 600,
+    "secondary_road_width": 400,
+    "frontage_sidewalk": 180,
+    "inner_walk": 160,
+    "parking_bay": [
+      250,
+      500
+    ],
+    "building_height": 2744.17
+  },
+  "missing": [
+    "Exact modular slab-house facade from the reference",
+    "High-detail weathered playground and utility-building kit",
+    "Varied mature tree species and continuous surrounding city",
+    "Rain roof occlusion, splashes and interior audio transitions"
+  ],
+  "compiled_materials": 64,
+  "pcg_actual_components": [
+    {
+      "label": "District_PCG_Road",
+      "instances": [],
+      "splines": [
+        {
+          "points": 4,
+          "length_cm": 3947.12060546875
+        },
+        {
+          "points": 20,
+          "length_cm": 21433.58984375
+        },
+        {
+          "points": 4,
+          "length_cm": 44800.0
+        }
+      ],
+      "spline_meshes": [
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 600.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 400.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 400.0,
+          "thickness_cm": 8.0
+        },
+        {
+          "width_cm": 400.0,
+          "thickness_cm": 8.0
+        }
+      ]
+    },
+    {
+      "label": "District_PCG_Trees",
+      "instances": [
+        {
+          "mesh": "/Game/First24Hours/District/Foliage/SM_District_TreeSmall02.SM_District_TreeSmall02",
+          "count": 51
+        }
+      ],
+      "splines": [],
+      "spline_meshes": []
+    },
+    {
+      "label": "District_PCG_Decor",
+      "instances": [
+        {
+          "mesh": "/Game/First24Hours/District/Kit/Meshes/SM_District_Bench_180cm.SM_District_Bench_180cm",
+          "count": 10
+        },
+        {
+          "mesh": "/Game/First24Hours/District/Kit/Meshes/SM_District_LitterBin.SM_District_LitterBin",
+          "count": 10
+        }
+      ],
+      "splines": [],
+      "spline_meshes": []
+    }
+  ],
+  "tree_instances": 51,
+  "road_spline_meshes": 27,
+  "parking_bays": 60,
+  "housing_rows": 4,
+  "housing_sections": 14,
+  "modular_building_kit": false,
+  "entrances_rotated_180_degrees": true,
+  "parked_cars": 42,
+  "understory": {
+    "District_GardenGrassInstances": 1606,
+    "District_GardenUnderstoryInstances": 34
+  },
+  "reopen_success": true,
+  "actor_count_after_reopen": 591,
+  "weather": {
+    "rain": "NS_District_Rain",
+    "sound": "S_Rain_Outdoor_Stereo",
+    "volumetric_fog": true,
+    "fixed_area_rain": true,
+    "rain_coverage_cm": [
+      8000,
+      6500
+    ],
+    "rain_spawn_z_cm": 1050
+  },
+  "inventory_count": 357,
+  "pie": {
+    "world": "/Game/First24Hours/Maps/UEDPIE_0_L_ProceduralDistrict.L_ProceduralDistrict",
+    "rain_actors": 1,
+    "rain_active": true,
+    "rain_audio_playing": true,
+    "player": "/Game/First24Hours/Maps/UEDPIE_0_L_ProceduralDistrict.L_ProceduralDistrict:PersistentLevel.BP_FirstPersonCharacter_C_0",
+    "player_location_cm": [
+      -300.0,
+      -900.0,
+      113.14999771118164
+    ]
+  },
+  "rain_particles": {
+    "count": 26055,
+    "samples": [
+      [
+        -2152.70556640625,
+        684.664306640625,
+        -470.87908935546875
+      ],
+      [
+        -2065.73876953125,
+        1195.931396484375,
+        -478.8636779785156
+      ],
+      [
+        60.26395797729492,
+        -2332.8271484375,
+        -461.85003662109375
+      ],
+      [
+        -2817.65673828125,
+        2011.847412109375,
+        -437.50091552734375
+      ],
+      [
+        -2872.6298828125,
+        3197.1171875,
+        -485.26025390625
+      ],
+      [
+        3887.263671875,
+        -1295.8431396484375,
+        -418.1144104003906
+      ],
+      [
+        1014.853515625,
+        -2925.5927734375,
+        -493.3814392089844
+      ],
+      [
+        11.472604751586914,
+        -2622.22265625,
+        -463.506103515625
+      ]
+    ],
+    "bounds": [
+      [
+        -3998.53515625,
+        4080.0009765625
+      ],
+      [
+        -3245.923828125,
+        3277.05712890625
+      ],
+      [
+        -493.3814392089844,
+        1097.90771484375
+      ]
+    ]
+  },
+  "final_saved_and_reopened": true
+}

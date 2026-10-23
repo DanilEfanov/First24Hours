@@ -1,0 +1,1559 @@
+{
+  "reference": "ArtSource/References/Soviet Courtyard Architectural Reference Map.png",
+  "building_rows": [
+    {
+      "name": "North",
+      "sections": 4,
+      "section_centers_cm": [
+        [
+          -2728.7087036132816,
+          3800
+        ],
+        [
+          -909.5695678710938,
+          3800
+        ],
+        [
+          909.5695678710938,
+          3800
+        ],
+        [
+          2728.7087036132816,
+          3800
+        ]
+      ],
+      "height_cm": 2744.1684326171876,
+      "length_cm": 7276.55654296875,
+      "entrance_facing_yaw": -90
+    },
+    {
+      "name": "South",
+      "sections": 4,
+      "section_centers_cm": [
+        [
+          -2728.7087036132816,
+          -3800
+        ],
+        [
+          -909.5695678710938,
+          -3800
+        ],
+        [
+          909.5695678710938,
+          -3800
+        ],
+        [
+          2728.7087036132816,
+          -3800
+        ]
+      ],
+      "height_cm": 2744.1684326171876,
+      "length_cm": 7276.55654296875,
+      "entrance_facing_yaw": 90
+    },
+    {
+      "name": "West",
+      "sections": 3,
+      "section_centers_cm": [
+        [
+          -4900,
+          -1819.1391357421876
+        ],
+        [
+          -4900,
+          0.0
+        ],
+        [
+          -4900,
+          1819.1391357421876
+        ]
+      ],
+      "height_cm": 2744.1684326171876,
+      "length_cm": 5457.417407226563,
+      "entrance_facing_yaw": 0
+    },
+    {
+      "name": "East",
+      "sections": 3,
+      "section_centers_cm": [
+        [
+          4900,
+          -1819.1391357421876
+        ],
+        [
+          4900,
+          0.0
+        ],
+        [
+          4900,
+          1819.1391357421876
+        ]
+      ],
+      "height_cm": 2744.1684326171876,
+      "length_cm": 5457.417407226563,
+      "entrance_facing_yaw": 180
+    }
+  ],
+  "parking_bays": [
+    {
+      "center": [
+        -2625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -2375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -2125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -1875,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -1625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -1375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -1125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -875,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        875,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        1125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        1375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        1625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        1875,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        2125,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        2375,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        2625,
+        -1540
+      ],
+      "yaw": 90
+    },
+    {
+      "center": [
+        -2625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -2375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -2125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -1875,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -1625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -1375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -1125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -875,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        875,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        1125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        1375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        1625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        1875,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        2125,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        2375,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        2625,
+        1540
+      ],
+      "yaw": -90
+    },
+    {
+      "center": [
+        -2850,
+        -1000
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        -750
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        -500
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        -250
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        250
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        500
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        750
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        -2850,
+        1000
+      ],
+      "yaw": 0
+    },
+    {
+      "center": [
+        2850,
+        -1000
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        -750
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        -500
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        -250
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        250
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        500
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        750
+      ],
+      "yaw": 180
+    },
+    {
+      "center": [
+        2850,
+        1000
+      ],
+      "yaw": 180
+    }
+  ],
+  "tree_points": [
+    [
+      -3300,
+      -2970,
+      8
+    ],
+    [
+      -2100,
+      -2970,
+      8
+    ],
+    [
+      -1000,
+      -2970,
+      8
+    ],
+    [
+      1000,
+      -2970,
+      8
+    ],
+    [
+      2100,
+      -2970,
+      8
+    ],
+    [
+      3300,
+      -2970,
+      8
+    ],
+    [
+      -4120,
+      -2300,
+      8
+    ],
+    [
+      -4120,
+      -1200,
+      8
+    ],
+    [
+      -4120,
+      1000,
+      8
+    ],
+    [
+      -4120,
+      2300,
+      8
+    ],
+    [
+      -3300,
+      2970,
+      8
+    ],
+    [
+      -2100,
+      2970,
+      8
+    ],
+    [
+      -1000,
+      2970,
+      8
+    ],
+    [
+      1000,
+      2970,
+      8
+    ],
+    [
+      2100,
+      2970,
+      8
+    ],
+    [
+      3300,
+      2970,
+      8
+    ],
+    [
+      4120,
+      -2300,
+      8
+    ],
+    [
+      4120,
+      -1200,
+      8
+    ],
+    [
+      4120,
+      1000,
+      8
+    ],
+    [
+      4120,
+      2300,
+      8
+    ],
+    [
+      -2200,
+      940,
+      8
+    ],
+    [
+      -1100,
+      960,
+      8
+    ],
+    [
+      -1100,
+      -850,
+      8
+    ],
+    [
+      -2200,
+      -950,
+      8
+    ],
+    [
+      -650,
+      450,
+      8
+    ],
+    [
+      -650,
+      -400,
+      8
+    ],
+    [
+      2250,
+      300,
+      8
+    ],
+    [
+      2200,
+      -500,
+      8
+    ],
+    [
+      1650,
+      1000,
+      8
+    ],
+    [
+      500,
+      1000,
+      8
+    ],
+    [
+      500,
+      -1050,
+      8
+    ],
+    [
+      1750,
+      -1050,
+      8
+    ],
+    [
+      -3000,
+      2900,
+      8
+    ],
+    [
+      3000,
+      2900,
+      8
+    ],
+    [
+      -5600,
+      -3900,
+      8
+    ],
+    [
+      -5600,
+      -2400,
+      8
+    ],
+    [
+      -5600,
+      -800,
+      8
+    ],
+    [
+      -5600,
+      900,
+      8
+    ],
+    [
+      -5600,
+      2500,
+      8
+    ],
+    [
+      -5600,
+      3900,
+      8
+    ],
+    [
+      -3800,
+      -4600,
+      8
+    ],
+    [
+      -2400,
+      -4600,
+      8
+    ],
+    [
+      -900,
+      -4600,
+      8
+    ],
+    [
+      900,
+      -4600,
+      8
+    ],
+    [
+      2400,
+      -4600,
+      8
+    ],
+    [
+      3800,
+      -4600,
+      8
+    ],
+    [
+      5600,
+      -3900,
+      8
+    ],
+    [
+      5600,
+      -2400,
+      8
+    ],
+    [
+      5600,
+      -800,
+      8
+    ],
+    [
+      5600,
+      900,
+      8
+    ],
+    [
+      5600,
+      2500,
+      8
+    ],
+    [
+      5600,
+      3900,
+      8
+    ],
+    [
+      -3800,
+      4600,
+      8
+    ],
+    [
+      -2400,
+      4600,
+      8
+    ],
+    [
+      -900,
+      4600,
+      8
+    ],
+    [
+      900,
+      4600,
+      8
+    ],
+    [
+      2400,
+      4600,
+      8
+    ],
+    [
+      3800,
+      4600,
+      8
+    ]
+  ],
+  "bench_points": [
+    [
+      350,
+      780,
+      15,
+      0
+    ],
+    [
+      2100,
+      780,
+      15,
+      0
+    ],
+    [
+      2100,
+      -720,
+      15,
+      180
+    ],
+    [
+      450,
+      -720,
+      15,
+      180
+    ],
+    [
+      -800,
+      -900,
+      15,
+      90
+    ],
+    [
+      -800,
+      950,
+      15,
+      -90
+    ],
+    [
+      -2200,
+      -850,
+      15,
+      0
+    ],
+    [
+      -2200,
+      1000,
+      15,
+      180
+    ],
+    [
+      -3500,
+      1800,
+      15,
+      90
+    ],
+    [
+      3500,
+      1800,
+      15,
+      -90
+    ]
+  ],
+  "bin_points": [
+    [
+      480,
+      780,
+      15,
+      0
+    ],
+    [
+      2230,
+      780,
+      15,
+      0
+    ],
+    [
+      2230,
+      -720,
+      15,
+      0
+    ],
+    [
+      580,
+      -720,
+      15,
+      0
+    ],
+    [
+      -670,
+      -900,
+      15,
+      0
+    ],
+    [
+      -670,
+      950,
+      15,
+      0
+    ],
+    [
+      -2070,
+      -850,
+      15,
+      0
+    ],
+    [
+      -2070,
+      1000,
+      15,
+      0
+    ],
+    [
+      -3370,
+      1800,
+      15,
+      0
+    ],
+    [
+      3630,
+      1800,
+      15,
+      0
+    ]
+  ],
+  "lamp_points": [
+    [
+      -3650,
+      -2450,
+      15,
+      0
+    ],
+    [
+      -3650,
+      800,
+      15,
+      0
+    ],
+    [
+      -3650,
+      2450,
+      15,
+      0
+    ],
+    [
+      3650,
+      -2450,
+      15,
+      180
+    ],
+    [
+      3650,
+      800,
+      15,
+      180
+    ],
+    [
+      3650,
+      2450,
+      15,
+      180
+    ],
+    [
+      -1800,
+      -2550,
+      15,
+      0
+    ],
+    [
+      1800,
+      -2550,
+      15,
+      180
+    ],
+    [
+      -1800,
+      2550,
+      15,
+      0
+    ],
+    [
+      1800,
+      2550,
+      15,
+      180
+    ],
+    [
+      -600,
+      -800,
+      15,
+      0
+    ],
+    [
+      -600,
+      900,
+      15,
+      0
+    ],
+    [
+      2250,
+      -800,
+      15,
+      180
+    ],
+    [
+      2250,
+      900,
+      15,
+      180
+    ]
+  ],
+  "created": [
+    "District_DistrictGround_001",
+    "District_House_North_Section_001",
+    "District_EntranceWalk_001",
+    "District_EntranceLight_001",
+    "District_House_North_Section_002",
+    "District_EntranceWalk_002",
+    "District_EntranceLight_002",
+    "District_House_North_Section_003",
+    "District_EntranceWalk_003",
+    "District_EntranceLight_003",
+    "District_House_North_Section_004",
+    "District_EntranceWalk_004",
+    "District_EntranceLight_004",
+    "District_House_South_Section_001",
+    "District_EntranceWalk_005",
+    "District_EntranceLight_005",
+    "District_House_South_Section_002",
+    "District_EntranceWalk_006",
+    "District_EntranceLight_006",
+    "District_House_South_Section_003",
+    "District_EntranceWalk_007",
+    "District_EntranceLight_007",
+    "District_House_South_Section_004",
+    "District_EntranceWalk_008",
+    "District_EntranceLight_008",
+    "District_House_West_Section_001",
+    "District_EntranceWalk_009",
+    "District_EntranceLight_009",
+    "District_House_West_Section_002",
+    "District_EntranceWalk_010",
+    "District_EntranceLight_010",
+    "District_House_West_Section_003",
+    "District_EntranceWalk_011",
+    "District_EntranceLight_011",
+    "District_House_East_Section_001",
+    "District_EntranceWalk_012",
+    "District_EntranceLight_012",
+    "District_House_East_Section_002",
+    "District_EntranceWalk_013",
+    "District_EntranceLight_013",
+    "District_House_East_Section_003",
+    "District_EntranceWalk_014",
+    "District_EntranceLight_014",
+    "District_NeighbouringBlock_001",
+    "District_NeighbouringBlock_002",
+    "District_NeighbouringBlock_003",
+    "District_NeighbouringBlock_004",
+    "District_NeighbouringBlock_005",
+    "District_NeighbouringBlock_006",
+    "District_NeighbouringBlock_007",
+    "District_FrontageSidewalk_001",
+    "District_FrontageSidewalk_002",
+    "District_FrontageSidewalk_003",
+    "District_FrontageSidewalk_004",
+    "District_InnerGardenWalk_001",
+    "District_InnerGardenWalk_002",
+    "District_InnerGardenWalk_003",
+    "District_InnerGardenWalk_004",
+    "District_CentralWalk_NS_001",
+    "District_CentralWalk_EW_001",
+    "District_PedestrianRoadCrossing_001",
+    "District_PedestrianRoadCrossing_002",
+    "District_PedestrianRoadCrossing_003",
+    "District_PedestrianRoadCrossing_004",
+    "District_ParkingNorthSouth_001",
+    "District_ParkingBayStripe_001",
+    "District_ParkingBayStripe_002",
+    "District_ParkingBayStripe_003",
+    "District_ParkingBayStripe_004",
+    "District_ParkingBayStripe_005",
+    "District_ParkingBayStripe_006",
+    "District_ParkingBayStripe_007",
+    "District_ParkingBayStripe_008",
+    "District_ParkingBayStripe_009",
+    "District_ParkingBayStripe_010",
+    "District_ParkingBayStripe_011",
+    "District_ParkingBayStripe_012",
+    "District_ParkingBayStripe_013",
+    "District_ParkingBayStripe_014",
+    "District_ParkingBayStripe_015",
+    "District_ParkingBayStripe_016",
+    "District_ParkingBayStripe_017",
+    "District_ParkingBayStripe_018",
+    "District_ParkingBayStripe_019",
+    "District_ParkingBayStripe_020",
+    "District_ParkingBayStripe_021",
+    "District_ParkingBayStripe_022",
+    "District_ParkingBayStripe_023",
+    "District_ParkingNorthSouth_002",
+    "District_ParkingBayStripe_024",
+    "District_ParkingBayStripe_025",
+    "District_ParkingBayStripe_026",
+    "District_ParkingBayStripe_027",
+    "District_ParkingBayStripe_028",
+    "District_ParkingBayStripe_029",
+    "District_ParkingBayStripe_030",
+    "District_ParkingBayStripe_031",
+    "District_ParkingBayStripe_032",
+    "District_ParkingBayStripe_033",
+    "District_ParkingBayStripe_034",
+    "District_ParkingBayStripe_035",
+    "District_ParkingBayStripe_036",
+    "District_ParkingBayStripe_037",
+    "District_ParkingBayStripe_038",
+    "District_ParkingBayStripe_039",
+    "District_ParkingBayStripe_040",
+    "District_ParkingBayStripe_041",
+    "District_ParkingBayStripe_042",
+    "District_ParkingBayStripe_043",
+    "District_ParkingBayStripe_044",
+    "District_ParkingBayStripe_045",
+    "District_ParkingBayStripe_046",
+    "District_ParkingEastWest_001",
+    "District_ParkingBayStripe_047",
+    "District_ParkingEastWest_002",
+    "District_ParkingBayStripe_048",
+    "District_ParkingEastWest_003",
+    "District_ParkingBayStripe_049",
+    "District_ParkingEastWest_004",
+    "District_ParkingBayStripe_050",
+    "District_ParkingEastWest_005",
+    "District_ParkingBayStripe_051",
+    "District_ParkingEastWest_006",
+    "District_ParkingBayStripe_052",
+    "District_ParkingEastWest_007",
+    "District_ParkingBayStripe_053",
+    "District_ParkingEastWest_008",
+    "District_ParkingBayStripe_054",
+    "District_ParkingEastWest_009",
+    "District_ParkingBayStripe_055",
+    "District_ParkingEastWest_010",
+    "District_ParkingBayStripe_056",
+    "District_ParkingEastWest_011",
+    "District_ParkingBayStripe_057",
+    "District_ParkingEastWest_012",
+    "District_ParkingBayStripe_058",
+    "District_ParkingEastWest_013",
+    "District_ParkingBayStripe_059",
+    "District_ParkingEastWest_014",
+    "District_ParkingBayStripe_060",
+    "District_ParkingEastWest_015",
+    "District_ParkingBayStripe_061",
+    "District_ParkingEastWest_016",
+    "District_ParkingBayStripe_062",
+    "District_ParkedVehicle_001",
+    "District_ParkedVehicle_002",
+    "District_ParkedVehicle_003",
+    "District_ParkedVehicle_004",
+    "District_ParkedVehicle_005",
+    "District_ParkedVehicle_006",
+    "District_ParkedVehicle_007",
+    "District_ParkedVehicle_008",
+    "District_ParkedVehicle_009",
+    "District_ParkedVehicle_010",
+    "District_ParkedVehicle_011",
+    "District_ParkedVehicle_012",
+    "District_ParkedVehicle_013",
+    "District_ParkedVehicle_014",
+    "District_ParkedVehicle_015",
+    "District_ParkedVehicle_016",
+    "District_ParkedVehicle_017",
+    "District_ParkedVehicle_018",
+    "District_ParkedVehicle_019",
+    "District_ParkedVehicle_020",
+    "District_ParkedVehicle_021",
+    "District_ParkedVehicle_022",
+    "District_ParkedVehicle_023",
+    "District_ParkedVehicle_024",
+    "District_ParkedVehicle_025",
+    "District_ParkedVehicle_026",
+    "District_ParkedVehicle_027",
+    "District_ParkedVehicle_028",
+    "District_ParkedVehicle_029",
+    "District_ParkedVehicle_030",
+    "District_ParkedVehicle_031",
+    "District_ParkedVehicle_032",
+    "District_ParkedVehicle_033",
+    "District_ParkedVehicle_034",
+    "District_ParkedVehicle_035",
+    "District_ParkedVehicle_036",
+    "District_ParkedVehicle_037",
+    "District_ParkedVehicle_038",
+    "District_ParkedVehicle_039",
+    "District_ParkedVehicle_040",
+    "District_ParkedVehicle_041",
+    "District_ParkedVehicle_042",
+    "District_UtilityBay_001",
+    "District_UtilityBuilding_001",
+    "District_UtilityRoof_001",
+    "District_UtilityDoor_001",
+    "District_UtilityVent_001",
+    "District_UtilityVent_002",
+    "District_UtilityVent_003",
+    "District_WasteContainerBay_001",
+    "District_PlaygroundBase_001",
+    "District_PlaygroundSwing_001",
+    "District_PlaygroundSandpit_001",
+    "District_PlaygroundAccess_001",
+    "District_PlaygroundAccess_002",
+    "District_GardenFence_001",
+    "District_GardenFence_002",
+    "District_GardenFence_003",
+    "District_GardenFence_004",
+    "District_GardenFence_005",
+    "District_GardenFence_006",
+    "District_GardenFence_007",
+    "District_GardenFence_008",
+    "District_GardenFence_009",
+    "District_GardenFence_010",
+    "District_GardenFence_011",
+    "District_GardenFence_012",
+    "District_GardenFence_013",
+    "District_GardenFence_014",
+    "District_GardenFence_015",
+    "District_GardenFence_016",
+    "District_GardenFence_017",
+    "District_GardenFence_018",
+    "District_GardenFence_019",
+    "District_GardenFence_020",
+    "District_GardenFence_021",
+    "District_GardenFence_022",
+    "District_GardenFence_023",
+    "District_GardenFence_024",
+    "District_GardenFence_025",
+    "District_GardenFence_026",
+    "District_GardenFence_027",
+    "District_GardenFence_028",
+    "District_GardenFence_029",
+    "District_GardenFence_030",
+    "District_GardenFence_031",
+    "District_GardenFence_032",
+    "District_GardenFence_033",
+    "District_GardenFence_034",
+    "District_GardenFence_035",
+    "District_GardenFence_036",
+    "District_GardenFence_037",
+    "District_GardenFence_038",
+    "District_GardenFence_039",
+    "District_GardenFence_040",
+    "District_GardenFence_041",
+    "District_GardenFence_042",
+    "District_GardenFence_043",
+    "District_GardenFence_044",
+    "District_GardenFence_045",
+    "District_GardenFence_046",
+    "District_GardenFence_047",
+    "District_GardenFence_048",
+    "District_GardenFence_049",
+    "District_GardenFence_050",
+    "District_GardenFence_051",
+    "District_GardenFence_052",
+    "District_GardenFence_053",
+    "District_GardenFence_054",
+    "District_GardenFence_055",
+    "District_GardenFence_056",
+    "District_GardenFence_057",
+    "District_GardenFence_058",
+    "District_GardenFence_059",
+    "District_GardenFence_060",
+    "District_GardenFence_061",
+    "District_GardenFence_062",
+    "District_GardenFence_063",
+    "District_GardenFence_064",
+    "District_GardenFence_065",
+    "District_GardenFence_066",
+    "District_GardenFence_067",
+    "District_GardenFence_068",
+    "District_GardenFence_069",
+    "District_GardenFence_070",
+    "District_GardenFence_071",
+    "District_GardenFence_072",
+    "District_GardenFence_073",
+    "District_GardenFence_074",
+    "District_GardenFence_075",
+    "District_GardenFence_076",
+    "District_GardenFence_077",
+    "District_GardenFence_078",
+    "District_GardenFence_079",
+    "District_GardenFence_080",
+    "District_GardenFence_081",
+    "District_GardenFence_082",
+    "District_GardenFence_083",
+    "District_GardenFence_084",
+    "District_GardenFence_085",
+    "District_GardenFence_086",
+    "District_GardenFence_087",
+    "District_GardenFence_088",
+    "District_GardenFence_089",
+    "District_GardenFence_090",
+    "District_GardenFence_091",
+    "District_GardenFence_092",
+    "District_GardenFence_093",
+    "District_GardenFence_094",
+    "District_GardenFence_095",
+    "District_GardenFence_096",
+    "District_GardenFence_097",
+    "District_GardenFence_098",
+    "District_GardenFence_099",
+    "District_GardenFence_100",
+    "District_GardenFence_101",
+    "District_GardenFence_102",
+    "District_GardenFence_103",
+    "District_GardenFence_104",
+    "District_GardenFence_105",
+    "District_GardenFence_106",
+    "District_GardenFence_107",
+    "District_GardenFence_108",
+    "District_GardenFence_109",
+    "District_GardenFence_110",
+    "District_GardenFence_111",
+    "District_GardenFence_112",
+    "District_GardenFence_113",
+    "District_GardenFence_114",
+    "District_GardenFence_115",
+    "District_GardenFence_116",
+    "District_GardenFence_117",
+    "District_GardenFence_118",
+    "District_GardenFence_119",
+    "District_GardenFence_120",
+    "District_GardenFence_121",
+    "District_GardenFence_122",
+    "District_GardenFence_123",
+    "District_GardenFence_124",
+    "District_GardenFence_125",
+    "District_GardenFence_126",
+    "District_GardenFence_127",
+    "District_GardenFence_128",
+    "District_GardenFence_129",
+    "District_GardenFence_130",
+    "District_ZebraStripe_001",
+    "District_ZebraStripe_002",
+    "District_ZebraStripe_003",
+    "District_ZebraStripe_004",
+    "District_ZebraStripe_005",
+    "District_ZebraStripe_006",
+    "District_ZebraStripe_007",
+    "District_ZebraStripe_008",
+    "District_ZebraStripe_009",
+    "District_ZebraStripe_010",
+    "District_ZebraStripe_011",
+    "District_ZebraStripe_012",
+    "District_OuterCurb_001",
+    "District_OuterCurb_002",
+    "District_OuterCurb_003",
+    "District_OuterCurb_004",
+    "District_ZebraStripe_013",
+    "District_ZebraStripe_014",
+    "District_ZebraStripe_015",
+    "District_ZebraStripe_016",
+    "District_ZebraStripe_017",
+    "District_ZebraStripe_018",
+    "District_ZebraStripe_019",
+    "District_ZebraStripe_020",
+    "District_ZebraStripe_021",
+    "District_ZebraStripe_022",
+    "District_ZebraStripe_023",
+    "District_ZebraStripe_024",
+    "District_OuterCurb_005",
+    "District_OuterCurb_006",
+    "District_OuterCurb_007",
+    "District_OuterCurb_008",
+    "District_StreetLamp_001",
+    "District_StreetLightPool_001",
+    "District_StreetLamp_002",
+    "District_StreetLightPool_002",
+    "District_StreetLamp_003",
+    "District_StreetLightPool_003",
+    "District_StreetLamp_004",
+    "District_StreetLightPool_004",
+    "District_StreetLamp_005",
+    "District_StreetLightPool_005",
+    "District_StreetLamp_006",
+    "District_StreetLightPool_006",
+    "District_StreetLamp_007",
+    "District_StreetLightPool_007",
+    "District_StreetLamp_008",
+    "District_StreetLightPool_008",
+    "District_StreetLamp_009",
+    "District_StreetLightPool_009",
+    "District_StreetLamp_010",
+    "District_StreetLightPool_010",
+    "District_StreetLamp_011",
+    "District_StreetLightPool_011",
+    "District_StreetLamp_012",
+    "District_StreetLightPool_012",
+    "District_StreetLamp_013",
+    "District_StreetLightPool_013",
+    "District_StreetLamp_014",
+    "District_StreetLightPool_014"
+  ],
+  "road_points": [
+    [
+      3450.0,
+      1600.0,
+      0
+    ],
+    [
+      3408.1337428812076,
+      1810.4758878007995,
+      0
+    ],
+    [
+      3288.9087296526013,
+      1988.908729652601,
+      0
+    ],
+    [
+      3110.4758878007992,
+      2108.1337428812076,
+      0
+    ],
+    [
+      2900.0,
+      2150.0,
+      0
+    ],
+    [
+      -2900.0,
+      2150.0,
+      0
+    ],
+    [
+      -3110.4758878007992,
+      2108.1337428812076,
+      0
+    ],
+    [
+      -3288.9087296526013,
+      1988.908729652601,
+      0
+    ],
+    [
+      -3408.1337428812076,
+      1810.4758878007995,
+      0
+    ],
+    [
+      -3450.0,
+      1600.0,
+      0
+    ],
+    [
+      -3450.0,
+      -1600.0,
+      0
+    ],
+    [
+      -3408.1337428812076,
+      -1810.4758878007992,
+      0
+    ],
+    [
+      -3288.9087296526013,
+      -1988.908729652601,
+      0
+    ],
+    [
+      -3110.4758878007992,
+      -2108.1337428812076,
+      0
+    ],
+    [
+      -2900.0,
+      -2150.0,
+      0
+    ],
+    [
+      2900.0,
+      -2150.0,
+      0
+    ],
+    [
+      3110.4758878007997,
+      -2108.1337428812076,
+      0
+    ],
+    [
+      3288.908729652601,
+      -1988.9087296526013,
+      0
+    ],
+    [
+      3408.1337428812076,
+      -1810.4758878007992,
+      0
+    ],
+    [
+      3450.0,
+      -1600.0000000000002,
+      0
+    ]
+  ],
+  "outer_road_points": [
+    [
+      -6200,
+      -5000,
+      0
+    ],
+    [
+      6200,
+      -5000,
+      0
+    ],
+    [
+      6200,
+      5000,
+      0
+    ],
+    [
+      -6200,
+      5000,
+      0
+    ]
+  ],
+  "entry_road_points": [
+    [
+      -6600,
+      -2950,
+      0
+    ],
+    [
+      -4300,
+      -2950,
+      0
+    ],
+    [
+      -3850,
+      -2600,
+      0
+    ],
+    [
+      -3450,
+      -1600,
+      0
+    ]
+  ],
+  "entrances_rotated_180_degrees": true
+}

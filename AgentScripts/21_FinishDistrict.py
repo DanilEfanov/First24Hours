@@ -1,0 +1,21 @@
+import unreal as u, pathlib, json, hashlib
+ROOT=pathlib.Path(u.Paths.project_dir()).resolve()
+MAP='/Game/First24Hours/Maps/L_ProceduralDistrict'
+AS=u.get_editor_subsystem(u.EditorActorSubsystem)
+LS=u.get_editor_subsystem(u.LevelEditorSubsystem)
+W=u.get_editor_subsystem(u.UnrealEditorSubsystem).get_editor_world()
+assert W.get_path_name().startswith(MAP+'.')
+pp=AS.spawn_actor_from_class(u.PostProcessVolume,u.Vector())
+pp.set_actor_label('District_OvercastPostProcess');pp.set_folder_path('District/Atmosphere')
+pp.set_editor_property('unbound',True)
+s=pp.get_editor_property('settings')
+for k,v in [('override_auto_exposure_min_brightness',True),('override_auto_exposure_max_brightness',True),('auto_exposure_min_brightness',1.0),('auto_exposure_max_brightness',1.0),('override_bloom_intensity',True),('bloom_intensity',.15),('override_vignette_intensity',True),('vignette_intensity',.22)]:s.set_editor_property(k,v)
+pp.set_editor_property('settings',s)
+start=AS.spawn_actor_from_class(u.PlayerStart,u.Vector(0,-1260,115),u.Rotator(pitch=0,yaw=90,roll=0))
+start.set_actor_label('District_PlayerStart');start.set_folder_path('District/Gameplay')
+W.get_world_settings().set_editor_property('default_game_mode',u.load_class(None,'/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C'))
+u.get_editor_subsystem(u.UnrealEditorSubsystem).set_level_viewport_camera_info(u.Vector(-6500,-7500,5200),u.Rotator(-27,49,0))
+assert LS.save_current_level()
+report={'map':MAP,'stage':'base geometry and atmosphere; PCG added separately','road_width_cm':600,'sidewalk_width_cm':180,'parking_bays':12,'parking_bay_cm':[250,500],'building_height_cm':2744.17,'building_mesh_scale':.8,'modular_buildings':False,'missing':['modular facade kit','autumn trees','street benches, bins and lamps','individual realistic vehicles'],'existing_map_hashes':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in [ROOT/'Content/FirstPerson/Lvl_FirstPerson.umap',ROOT/'Content/First24Hours/Maps/L_Apartment_0400.umap']}}
+(ROOT/'Documentation/district-build-report.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
+u.log('DISTRICT_BASE_COMPLETE')
